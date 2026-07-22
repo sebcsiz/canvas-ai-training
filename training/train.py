@@ -72,7 +72,7 @@ def build_sft_config(config: dict) -> SFTConfig:
         lr_scheduler_type=training["lr_scheduler_type"],
         warmup_ratio=training["warmup_ratio"],
         weight_decay=training["weight_decay"],
-        max_seq_length=training["max_seq_length"],
+        max_length=training["max_seq_length"],
         logging_steps=training["logging_steps"],
         eval_strategy=training["eval_strategy"],
         eval_steps=training["eval_steps"],

@@ -48,9 +48,10 @@ def extract_action(text: str) -> dict | None:
 
 
 def is_refusal(text: str) -> bool:
-    refusal_markers = ("can't help with that", "outside what i can do", "i'm not able to", "decline")
-    lowered = text.lower()
-    return any(marker in lowered for marker in refusal_markers)
+    # A correct refusal, per the Standard Command Pipeline in prompts/system.txt,
+    # never proposes a structured action — checking for that structural absence
+    # is robust to phrasing, unlike matching a fixed set of refusal strings.
+    return extract_action(text) is None
 
 
 def score_example(example: dict, generated: str) -> EvalResult:

@@ -18,6 +18,7 @@ from __future__ import annotations
 import argparse
 import os
 import subprocess
+import sys
 from pathlib import Path
 
 import yaml
@@ -52,7 +53,7 @@ def main() -> None:
 
     run(
         [
-            "python",
+            sys.executable,
             str(llama_cpp_dir / "convert_hf_to_gguf.py"),
             str(merged_dir),
             "--outtype",
