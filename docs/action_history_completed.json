@@ -1,0 +1,249 @@
+[
+  {
+    "id": "6c9d5ec5606a4b5d92a3aa50d2c38a8d",
+    "user_id": 2,
+    "action_type": "modify_grade",
+    "target_course_id": "2",
+    "course_code": "COSC 310",
+    "payload": {
+      "assignment_id": 3,
+      "assignment_name": "Design Document",
+      "student_ids": [
+        393
+      ],
+      "recipient_names": [
+        "COSC 310 Student 6"
+      ],
+      "grade": "13"
+    },
+    "risk_level": "medium",
+    "reversibility": "reversible",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-20T23:39:54.902665+00:00",
+    "decided_at": "2026-07-20T23:39:56.168282+00:00"
+  },
+  {
+    "id": "87058f42f45f42e18bb379652b5a611e",
+    "user_id": 2,
+    "action_type": "create_assignment",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "name": "Big O",
+      "description": "<p>Write a report that explains and applies Big O notation to algorithm analysis. Focus on showing how asymptotic growth describes performance as input size increases.</p><ol><li>Define Big O notation in your own words and explain why it is useful for comparing algorithms.</li><li>Analyze at least three algorithms or operations from the course and describe their time complexity in best-case, average-case, or worst-case terms as appropriate.</li><li>Compare two algorithms that solve the same problem and explain how their growth rates differ as input size increases.</li><li>Use at least one concrete example or small input trace to illustrate how you determined the complexity of a loop, recursive process, or data-structure operation.</li><li>Conclude by discussing what Big O does and does not tell us about real-world performance.</li></ol><p>Deliverables:</p><ul><li>A written report with a clear introduction, body, and conclusion.</li><li>Your complexity analyses and any examples used to support them.</li></ul>",
+      "points_possible": 100.0,
+      "submission_types": [
+        "online_text_entry"
+      ],
+      "rubric_criteria": [
+        {
+          "label": "Correctness",
+          "points": 40.0,
+          "description": "Complexity analyses are accurate, definitions are correct, and Big O notation is applied appropriately."
+        },
+        {
+          "label": "Analysis depth",
+          "points": 30.0,
+          "description": "Explains comparisons clearly, includes meaningful examples, and demonstrates solid reasoning about growth rates."
+        },
+        {
+          "label": "Clarity",
+          "points": 30.0,
+          "description": "Report is well-organized, readable, and presents ideas in a focused, professional way."
+        }
+      ]
+    },
+    "risk_level": "medium",
+    "reversibility": "manual_only",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-21T16:18:51.452894+00:00",
+    "decided_at": "2026-07-21T16:18:56.283486+00:00"
+  },
+  {
+    "id": "b6122a18524249b5adda9fb9fdc51e5f",
+    "user_id": 2,
+    "action_type": "delete_assignment",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "assignment_id": 108,
+      "assignment_name": "Big O"
+    },
+    "risk_level": "critical",
+    "reversibility": "irreversible",
+    "reason": "This will permanently delete the assignment and all associated student submissions and grades. This cannot be undone.",
+    "status": "executed",
+    "decision_note": "double-confirmed",
+    "created_at": "2026-07-21T16:19:08.135355+00:00",
+    "decided_at": "2026-07-21T16:19:10.406482+00:00"
+  },
+  {
+    "id": "e0a8fd405bb04b1c9b704dbcdc12c35b",
+    "user_id": 7,
+    "action_type": "create_assignment",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "name": "Recursion Practice in C++",
+      "description": "<p>Implement the following recursive functions in C++.</p><ol><li><strong>factorial(n)</strong>: compute <code>n!</code> recursively for <code>n &gt;= 0</code>.</li><li><strong>fibonacci(n)</strong>: compute the <code>n</code>th Fibonacci number recursively, with <code>fibonacci(0) == 0</code> and <code>fibonacci(1) == 1</code>.</li><li><strong>sum_to_n(n)</strong>: recursively compute the sum of all integers from <code>1</code> to <code>n</code> for <code>n &gt;= 1</code>.</li></ol><p>Deliverables:</p><ul><li>Submit your completed C++ source files.</li><li>Ensure each function is implemented recursively and handles the stated edge cases.</li></ul>",
+      "points_possible": 20.0,
+      "submission_types": [
+        "online_upload"
+      ],
+      "rubric_criteria": [
+        {
+          "label": "Correctness",
+          "points": 10.0,
+          "description": "Each recursive function returns the correct result for valid inputs, including the required base cases."
+        },
+        {
+          "label": "Recursive design",
+          "points": 5.0,
+          "description": "Solutions use recursion appropriately and do not rely on iterative shortcuts for the required functions."
+        },
+        {
+          "label": "Code quality",
+          "points": 5.0,
+          "description": "Code is organized, readable, and follows standard C++ conventions."
+        }
+      ],
+      "code_files": [
+        {
+          "filename": "factorial.cpp",
+          "content": "#include <iostream>\n\n// Compute n! recursively.\n// Input: n (integer, n >= 0)\n// Output: n! as a long long.\n// TODO: implement factorial recursively.\nlong long factorial(int n) {\n    // TODO\n    return 0;\n}\n"
+        },
+        {
+          "filename": "fibonacci.cpp",
+          "content": "#include <iostream>\n\n// Compute the nth Fibonacci number recursively.\n// Input: n (integer, n >= 0)\n// Output: fibonacci(n), with fibonacci(0) == 0 and fibonacci(1) == 1.\n// TODO: implement fibonacci recursively.\nlong long fibonacci(int n) {\n    // TODO\n    return 0;\n}\n"
+        },
+        {
+          "filename": "sum_to_n.cpp",
+          "content": "#include <iostream>\n\n// Compute the sum of integers from 1 to n recursively.\n// Input: n (integer, n >= 1)\n// Output: 1 + 2 + ... + n as a long long.\n// TODO: implement sum_to_n recursively.\nlong long sum_to_n(int n) {\n    // TODO\n    return 0;\n}\n"
+        }
+      ]
+    },
+    "risk_level": "medium",
+    "reversibility": "manual_only",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-22T01:25:14.415661+00:00",
+    "decided_at": "2026-07-22T01:25:22.492731+00:00"
+  },
+  {
+    "id": "df1bc537150b424bb0514ca6071ef474",
+    "user_id": 2,
+    "action_type": "create_assignment",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "name": "Sorting",
+      "description": "<p>In this assignment, you will implement and compare two sorting algorithms in Java, with attention to correctness, efficiency, and design choices.</p><ol><li>Implement the first sorting routine so that it correctly sorts an array of integers in ascending order.</li><li>Implement the second sorting routine so that it also sorts an array of integers in ascending order, using a different approach from the first routine.</li><li>Test both routines on multiple input sizes and briefly describe any differences you observe in performance or behavior.</li><li>Reflect on the trade-offs between the two approaches, including time complexity, space usage, and readability.</li></ol><p>Deliverables:</p><ul><li>Your completed Java source file(s).</li><li>A short write-up summarizing your test results and comparison.</li></ul>",
+      "points_possible": 20.0,
+      "submission_types": [
+        "online_upload"
+      ],
+      "rubric_criteria": [
+        {
+          "label": "Correctness",
+          "points": 10.0,
+          "description": "Both sorting implementations produce correct ascending order results across the required test cases.",
+          "file_index": 1
+        },
+        {
+          "label": "Correctness",
+          "points": 10.0,
+          "description": "The second sorting implementation is correct, follows the required approach, and handles edge cases properly.",
+          "file_index": 2
+        }
+      ],
+      "code_files": [
+        {
+          "filename": "sorting_problem1.java",
+          "content": "public class SortingProblem1 {\n    /**\n     * Sort the input array of integers in ascending order.\n     *\n     * Requirements:\n     * - Accept an int[] as input.\n     * - Sort the array in place.\n     * - Handle empty arrays and single-element arrays correctly.\n     *\n     * TODO: implement the sorting algorithm.\n     */\n    public static void sort(int[] items) {\n        // TODO\n        return;\n    }\n}\n"
+        },
+        {
+          "filename": "sorting_problem2.java",
+          "content": "public class SortingProblem2 {\n    /**\n     * Sort the input array of integers in ascending order using a different\n     * algorithm from SortingProblem1.\n     *\n     * Requirements:\n     * - Accept an int[] as input.\n     * - Sort the array in place.\n     * - Handle empty arrays and single-element arrays correctly.\n     *\n     * TODO: implement the sorting algorithm.\n     */\n    public static void sort(int[] items) {\n        // TODO\n        return;\n    }\n}\n"
+        }
+      ]
+    },
+    "risk_level": "medium",
+    "reversibility": "manual_only",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-22T03:04:28.531185+00:00",
+    "decided_at": "2026-07-22T03:13:10.19193+00:00"
+  },
+  {
+    "id": "82e587fa5fd44f05854eac899bd1b0e7",
+    "user_id": 2,
+    "action_type": "create_assignment",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "name": "Semaphores",
+      "description": "<p>Implement and analyze a semaphore-based synchronization solution in C for a concurrent systems problem. Your goal is to demonstrate that you can design correct coordination between multiple threads/processes and explain the synchronization choices you made.</p><ol><li>Implement a semaphore abstraction and use it to coordinate access to a shared resource in a multi-producer/multi-consumer setting.</li><li>Show how your solution prevents race conditions, deadlock, and lost wakeups under the stated constraints.</li><li>Analyze the correctness of your synchronization strategy, including why each semaphore operation is placed where it is.</li><li>Discuss the performance implications of your design and any trade-offs in fairness, throughput, and simplicity.</li></ol><p>Deliverables:</p><ul><li>Your C source file(s) with complete, compilable implementations.</li><li>A short written analysis explaining the synchronization design and correctness arguments.</li></ul>",
+      "points_possible": 100.0,
+      "submission_types": [
+        "online_upload"
+      ],
+      "rubric_criteria": [
+        {
+          "label": "Correctness",
+          "points": 40.0,
+          "description": "The semaphore-based implementation compiles and correctly synchronizes access to shared state without race conditions or deadlock.",
+          "file_index": 1
+        },
+        {
+          "label": "Analysis depth",
+          "points": 30.0,
+          "description": "The written and/or inline explanation shows a deep understanding of why the synchronization works and discusses trade-offs clearly.",
+          "file_index": 1
+        },
+        {
+          "label": "Clarity",
+          "points": 30.0,
+          "description": "Code, comments, and analysis are organized, readable, and precise.",
+          "file_index": 1
+        }
+      ],
+      "code_files": [
+        {
+          "filename": "semaphores.c",
+          "content": "#include <stdio.h>\n#include <stdlib.h>\n#include <pthread.h>\n#include <semaphore.h>\n\n/*\n * TODO: Implement a semaphore-based synchronization solution in C.\n *\n * Implement the following problem in this file:\n * - Design and code a multi-producer/multi-consumer coordination solution\n *   using semaphores.\n * - Protect shared state so that concurrent access remains correct.\n * - Ensure the solution avoids race conditions, deadlock, and lost wakeups.\n * - Provide any helper functions, structs, and thread routines needed.\n *\n * Inputs/outputs, constraints, and edge cases:\n * - Use POSIX threads and POSIX semaphores.\n * - The solution should be suitable for a bounded shared buffer or similar\n *   synchronization scenario.\n * - Handle empty/full conditions correctly.\n * - Keep the program compilable, but do not include the final solution logic.\n */\n\n// TODO: define shared state and semaphore setup here\n\nint main(void) {\n    // TODO: initialize semaphores, launch threads, coordinate work, and clean up\n    return 0;\n}\n"
+        }
+      ]
+    },
+    "risk_level": "medium",
+    "reversibility": "manual_only",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-22T03:32:23.484745+00:00",
+    "decided_at": "2026-07-22T03:32:40.441575+00:00"
+  },
+  {
+    "id": "704be9385e444baaac16b7e372ba4a11",
+    "user_id": 2,
+    "action_type": "post_announcement",
+    "target_course_id": "1",
+    "course_code": "COSC 499 CAPSTONE",
+    "payload": {
+      "title": "Midterm Reminder",
+      "message": "<p>This is a reminder that the upcoming midterm is on Friday. Please review the relevant course materials and make sure you're prepared.</p>"
+    },
+    "risk_level": "high",
+    "reversibility": "manual_only",
+    "reason": null,
+    "status": "executed",
+    "decision_note": null,
+    "created_at": "2026-07-22T04:25:53.418652+00:00",
+    "decided_at": "2026-07-22T04:25:59.644244+00:00"
+  }
+]
