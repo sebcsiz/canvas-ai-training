@@ -1,0 +1,24 @@
+# GGUF export + llama.cpp serving configuration for training/export_model.py
+# and inference/provider.py.
+
+merge:
+  base_model: Qwen/Qwen3-8B
+  adapter_dir: outputs/qwen3-8b-canvas-ai
+  merged_dir: models/merged/qwen3-8b-canvas-ai
+
+export:
+  # Path to a local checkout of https://github.com/ggml-org/llama.cpp — export_model.py
+  # shells out to its convert + quantize tooling rather than reimplementing GGUF packing.
+  llama_cpp_dir: ${LLAMA_CPP_DIR}
+  outtype: bf16 # intermediate GGUF precision before quantization
+  quantization: Q4_K_M
+  output_path: models/gguf/qwen3-8b-canvas-ai.Q4_K_M.gguf
+
+server:
+  host: 0.0.0.0
+  port: 8080
+  context_length: 4096
+  # Matches the OpenAI-compatible surface llama-server exposes, so
+  # inference/provider.py can call it the same way the app calls a hosted provider.
+  chat_completions_path: /v1/chat/completions
+  health_path: /health

@@ -1,0 +1,48 @@
+# Dataset generation / split configuration for preprocessing/*.py.
+
+# The 7 in-scope assistant workflows from the main app's CLAUDE.md (FR3.6).
+# generate_synthetic_data.py seeds one generation pass per workflow so the
+# training set stays balanced across all of them.
+workflows:
+  - id: list_resources
+    description: Listing courses, students, assignments, submissions.
+    modifying: false
+  - id: create_assignment
+    description: Creating assignments.
+    modifying: true
+  - id: update_assignment_dates
+    description: Updating assignment due/unlock/lock dates.
+    modifying: true
+  - id: draft_student_message
+    description: Drafting a message to a student.
+    modifying: true
+  - id: draft_feedback_comment
+    description: Drafting a feedback comment on a submission.
+    modifying: true
+  - id: create_quiz
+    description: Creating quizzes.
+    modifying: true
+  - id: modify_grades
+    description: Modifying grades.
+    modifying: true
+
+synthetic_generation:
+  examples_per_workflow: 150
+  # Held back and never trained on, so accuracy.py measures real generalization,
+  # not memorized phrasing.
+  refusal_examples: 100 # out-of-scope requests (FR13) the model should decline
+  teacher_provider: anthropic # anthropic | openai
+  teacher_model: claude-opus-4-8
+  temperature: 0.9
+  output_path: datasets/raw/synthetic_examples.jsonl
+
+split:
+  seed: 42
+  train_ratio: 0.8
+  validation_ratio: 0.1
+  test_ratio: 0.1
+  stratify_by: workflow_id
+  input_path: datasets/processed/chatml/examples.jsonl
+  train_path: datasets/train/train.jsonl
+  validation_path: datasets/validation/validation.jsonl
+  test_path: datasets/test/test.jsonl

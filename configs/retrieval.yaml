@@ -1,0 +1,20 @@
+# BGE-small retrieval configuration for embeddings/*.py and inference/provider.py.
+
+embedding_model: BAAI/bge-small-en-v1.5
+embedding_dim: 384
+device: cpu
+
+chunking:
+  chunk_size: 512
+  chunk_overlap: 64
+
+index:
+  path: embeddings/index/canvas_content.faiss
+  metadata_path: embeddings/index/canvas_content.meta.jsonl
+  metric: inner_product # vectors are L2-normalized before indexing, so this is cosine similarity
+
+query:
+  top_k: 5
+  score_threshold: 0.35
+  # bge models expect this prefix on queries (not on indexed documents) per the model card.
+  query_instruction: "Represent this sentence for searching relevant passages: "

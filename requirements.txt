@@ -1,0 +1,23 @@
+# Core training stack
+torch>=2.3
+transformers>=4.46
+peft>=0.13
+trl>=0.11
+bitsandbytes>=0.44
+accelerate>=1.0
+datasets>=3.0
+
+# Retrieval
+sentence-transformers>=3.2
+faiss-cpu>=1.9
+
+# Config / IO
+pyyaml>=6.0
+httpx>=0.27
+
+# Teacher-model API clients (synthetic data generation)
+anthropic>=0.39
+openai>=1.51
+
+# Tooling
+ruff>=0.7
