@@ -1,17 +1,27 @@
 {{SYSTEM_PROMPT}}
 
-You are currently acting as a data-generation teacher model, not the deployed assistant. Your job is to produce high-quality synthetic training examples that a smaller student model (Qwen3-8B) will be fine-tuned on to imitate this exact behavior.
+You are currently acting as a data-generation teacher model, not the deployed assistant. The system prompt above is the *exact* production system prompt the deployed model will receive — its output-format section and 23 rules are the ground truth for what "ideal" means here, not a paraphrase. Your job is to produce realistic (instructor command + Canvas context) inputs and the exact correct `ParsedIntent` JSON output for each, so a smaller student model (Qwen3-8B) can be fine-tuned to reproduce this behavior directly, without the teacher present at inference time.
 
-For each example you generate, produce a single JSON object with these fields:
-- "workflow_id": one of the workflow ids you're given.
-- "canvas_context": a short, realistic snippet of Canvas state relevant to the request (course name, existing assignments, students by role/id — never invent real people; use placeholder names like "Student A").
-- "instructor_request": a natural, varied phrasing of what an instructor might ask. Vary tone, specificity, and directness across examples — some terse, some conversational, some underspecified on purpose.
-- "ideal_response": the assistant's ideal reply, following the Standard Command Pipeline exactly as described above — including a structured action proposal (action type + parameters) for modifying workflows, or a direct answer for read-only ones. If the request is ambiguous, "ideal_response" should ask a clarifying question instead of guessing.
+For each example, produce a single JSON object (one per line, no surrounding prose) with these fields:
 
-Diversity requirements:
-- Cover a realistic range of course sizes, subjects, and Canvas terminology.
-- Include some examples where the request is ambiguous and the ideal response clarifies rather than guesses.
-- Include some examples where the request is subtly out of scope (e.g. asks for autonomous execution, bulk deletion, or a non-MVP workflow) and the ideal response declines per the system prompt's scope rules.
-- Do not repeat the same instructor phrasing pattern more than a few times in a row.
+- "workflow_id": the action id you're generating for (matches one of the 18 action values from the system prompt, including "unsupported").
+- "course_name": a realistic course name.
+- "course_code": a realistic course code (e.g. "COSC 304"), or null.
+- "course_timezone": an IANA timezone name (e.g. "America/Vancouver", "America/New_York"), or null to test the UTC fallback occasionally.
+- "today_date": an anchor date in YYYY-MM-DD the instructor's command is relative to (only matters when the command references a date — pick any reasonable date).
+- "available_assignments": a list of 0-6 realistic assignment name strings currently in the course (empty list when irrelevant to the action).
+- "recent_messages": a list of 0-3 short preview strings of recent student inbox messages (only populate when relevant to draft_message/reply_to_message/list_messages examples; empty otherwise).
+- "difficulty": one of "intro", "intermediate", "advanced", or null — only ever set for create_assignment/create_quiz examples, and only sometimes (most examples should leave this null and rely on your own judgment, matching real usage where the field is optional).
+- "quiz_requirements": null, or (only for a fraction of create_quiz examples) an object {"question_counts": [{"question_type": "<type>", "count": <int>, "points_each": <number or null>}, ...]} representing a structured quiz-generation constraint the instructor configured explicitly (rule 23) — when present, your "ideal_response" MUST generate exactly that count/type/points mix.
+- "instructor_request": a natural, varied phrasing of what an instructor might type as the Command. Vary tone, specificity, and directness — some terse, some conversational, some using relative dates ("in a week", "next Friday"), some bare dates, some deliberately ambiguous or missing a required detail, some clearly out of scope. Do not repeat the same phrasing pattern more than a few times in a row.
+- "ideal_response": the exact correct `ParsedIntent` JSON object for this command — i.e. exactly the object shape from the system prompt's "Output format" section: `{"action": ..., "parameters": {...all 25 fields, unused ones null...}, "affected_resources": [...], "confidence": <float>, "clarification_needed": ..., "unsupported_reason": ...}`. This is a nested JSON object, not a string.
 
-Output strictly one JSON object per example, no surrounding prose.
+Critical requirements for "ideal_response":
+- Follow every rule in the system prompt exactly (required fields per action, date resolution against today_date, submission_filter semantics, rubric/question generation defaults, discipline framing, quiz_requirements compliance when set, etc.).
+- Vary "confidence" realistically: high (0.9+) for clear, unambiguous commands; lower (0.7-0.85) when you set clarification_needed or the request is underspecified; very high (0.95+) for obviously out-of-scope requests. Do not default every example to the same confidence value.
+- Include a meaningful fraction of examples per action where the command is genuinely ambiguous or missing a required parameter, so clarification_needed is non-null and confidence is appropriately lower — this is not just an "unsupported" behavior, every action needs some clarification examples.
+- For "unsupported", cover a range of reasons: autonomous/scheduled execution, bulk or unrestricted deletion, institution-wide admin actions, arbitrary/raw Canvas API access, and requests for workflows genuinely outside the 18 supported actions — not just one repeated pattern.
+- "parameters" must use exactly the field names from the system prompt's schema (snake_case, e.g. due_at/unlock_at/lock_at/submission_filter/quiz_type/question_update) — never invent a different key name.
+- Never invent real student names/emails/IDs; use placeholder names like "Sam Student" or "Student A" consistent with the system prompt's own examples.
+
+Output strictly one JSON object per example, no surrounding prose, no markdown fences.

@@ -62,7 +62,7 @@ def chunk_text(text: str, chunk_size: int, chunk_overlap: int) -> list[str]:
 def build_chunks(input_dir: Path, chunk_size: int, chunk_overlap: int) -> list[Chunk]:
     chunks: list[Chunk] = []
     for path in sorted(input_dir.glob("*.json")):
-        data = json.loads(path.read_text())
+        data = json.loads(path.read_text(encoding="utf-8"))
         raw_fields: list[str] = []
         extract_text_fields(data, path.name, raw_fields)
         for field_text in raw_fields:

@@ -25,10 +25,29 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from inference.provider import LocalQwenProvider
 
 SAMPLE_REQUESTS = [
-    ("Course: COSC 499. Assignments: Milestone 1 (due 2026-02-01).", "List all assignments in this course."),
-    ("Course: COSC 499.", "Create an assignment called 'Milestone 2' worth 10 points, due 2026-03-01."),
-    ("Course: COSC 499. Milestone 1 due 2026-02-01.", "Push the Milestone 1 due date back by one week."),
-    ("Course: COSC 499. Student A submitted Milestone 1.", "Draft feedback for Student A's Milestone 1 submission."),
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "available_assignments": ["Milestone 1"],
+        "instructor_request": "List all assignments in this course.",
+    },
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "instructor_request": "Create an assignment called 'Milestone 2' worth 10 points, due 2026-03-01.",
+    },
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "available_assignments": ["Milestone 1"],
+        "instructor_request": "Push the Milestone 1 due date back by one week.",
+    },
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "available_assignments": ["Milestone 1"],
+        "instructor_request": "Draft feedback for Student A's Milestone 1 submission.",
+    },
 ]
 
 
@@ -38,9 +57,9 @@ class RequestTiming:
     output_chars: int
 
 
-async def timed_request(provider: LocalQwenProvider, canvas_context: str, instructor_request: str) -> RequestTiming:
+async def timed_request(provider: LocalQwenProvider, request: dict) -> RequestTiming:
     start = time.perf_counter()
-    response = await provider.generate(canvas_context, instructor_request)
+    response = await provider.generate(**request)
     elapsed = time.perf_counter() - start
     return RequestTiming(total_seconds=elapsed, output_chars=len(response.content))
 
@@ -50,8 +69,8 @@ async def run_benchmark(num_requests: int) -> list[RequestTiming]:
     timings = []
     try:
         for i in range(num_requests):
-            canvas_context, instructor_request = SAMPLE_REQUESTS[i % len(SAMPLE_REQUESTS)]
-            timings.append(await timed_request(provider, canvas_context, instructor_request))
+            request = SAMPLE_REQUESTS[i % len(SAMPLE_REQUESTS)]
+            timings.append(await timed_request(provider, request))
     finally:
         await provider.aclose()
     return timings

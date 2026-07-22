@@ -1,36 +1,50 @@
 # Dataset generation / split configuration for preprocessing/*.py.
 
-# The 7 in-scope assistant workflows from the main app's CLAUDE.md (FR3.6).
-# generate_synthetic_data.py seeds one generation pass per workflow so the
-# training set stays balanced across all of them.
+# The real IntentAction enum from the main app's app/mcp-server/src/schemas/intent.py
+# (18 values, including "unsupported"). generate_synthetic_data.py seeds one
+# generation pass per action so the training set stays balanced across all of
+# them. Matches prompts/system.txt's "Supported actions" list exactly — keep
+# these two in sync if the main app's enum changes.
 workflows:
-  - id: list_resources
-    description: Listing courses, students, assignments, submissions.
-    modifying: false
+  - id: list_courses
+    description: Listing the instructor's courses.
+  - id: list_students
+    description: Listing students in a course.
+  - id: list_assignments
+    description: Listing assignments in a course.
+  - id: list_submissions
+    description: Listing submissions for an assignment.
+  - id: list_messages
+    description: Listing/searching Canvas inbox conversations.
+  - id: class_statistics
+    description: Count/statistics questions about a class or assignment.
   - id: create_assignment
-    description: Creating assignments.
-    modifying: true
+    description: Creating assignments, with generated description and rubric.
   - id: update_assignment_dates
-    description: Updating assignment due/unlock/lock dates.
-    modifying: true
-  - id: draft_student_message
-    description: Drafting a message to a student.
-    modifying: true
-  - id: draft_feedback_comment
+    description: Updating assignment due/unlock/lock dates, absolute or relative shift.
+  - id: delete_assignment
+    description: Deleting one named assignment.
+  - id: publish_assignment
+    description: Publishing (making visible) one named assignment.
+  - id: unpublish_assignment
+    description: Unpublishing (hiding) one named assignment.
+  - id: draft_message
+    description: Drafting a new message to a student or a status-defined group.
+  - id: draft_feedback
     description: Drafting a feedback comment on a submission.
-    modifying: true
+  - id: reply_to_message
+    description: Replying to an existing Canvas conversation.
   - id: create_quiz
-    description: Creating quizzes.
-    modifying: true
-  - id: modify_grades
-    description: Modifying grades.
-    modifying: true
+    description: Creating quizzes, with generated questions.
+  - id: update_quiz_question
+    description: Editing a specific existing question on an existing quiz.
+  - id: modify_grade
+    description: Modifying a grade for a student or a status-defined group.
+  - id: unsupported
+    description: Out-of-scope requests -- autonomous/scheduled execution, bulk or unrestricted deletion, institution-wide admin actions, raw Canvas API access, or anything outside the 17 supported actions above.
 
 synthetic_generation:
-  examples_per_workflow: 150
-  # Held back and never trained on, so accuracy.py measures real generalization,
-  # not memorized phrasing.
-  refusal_examples: 100 # out-of-scope requests (FR13) the model should decline
+  examples_per_workflow: 100
   teacher_provider: openai # anthropic | openai
   teacher_model: gpt-5-mini
   temperature: 0.9

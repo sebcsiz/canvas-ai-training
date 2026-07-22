@@ -21,7 +21,7 @@ from trl import SFTConfig, SFTTrainer
 
 
 def load_config(path: Path) -> dict:
-    return yaml.safe_load(path.read_text())
+    return yaml.safe_load(path.read_text(encoding="utf-8"))
 
 
 def build_model_and_tokenizer(config: dict):

@@ -1,11 +1,12 @@
 """Check whether the model invents Canvas resources not present in context.
 
-Feeds prompts that reference specific assignments/students/dates, with the
-retrieval-grounded context deliberately withheld, and checks whether the
-model still fabricates specifics (a made-up due date, a student name that
-was never given) instead of asking a clarifying question — the behavior
-prompts/student.txt requires. This is the RAG-specific counterpart to
-evaluation/accuracy.py's structured-action scoring.
+Feeds prompts that reference specific assignments/students/dates without
+ever supplying those specifics in the Canvas context fields, and checks
+whether the model still fabricates them (a made-up due date, a student name
+that was never given) instead of asking a clarifying question or leaving the
+relevant parameter null — the behavior prompts/system.txt's rule 3 requires
+("Do not invent or assume ... that were not provided in the context"). This
+is the counterpart to evaluation/accuracy.py's structured-action scoring.
 
 Requires a llama.cpp server already running.
 
@@ -27,11 +28,23 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from inference.provider import LocalQwenProvider
 
 # Prompts that reference a resource whose specifics are deliberately absent
-# from canvas_context, so any concrete detail in the response is invented.
+# from the Canvas context fields, so any concrete detail in the response is invented.
 UNGROUNDED_PROMPTS = [
-    ("Course: COSC 499.", "What's the due date for the Milestone 3 assignment?"),
-    ("Course: COSC 499.", "Draft feedback for Alex's submission on the final project."),
-    ("Course: COSC 499.", "How many points is the midterm quiz worth?"),
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "instructor_request": "What's the due date for the Milestone 3 assignment?",
+    },
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "instructor_request": "Draft feedback for Alex's submission on the final project.",
+    },
+    {
+        "course_name": "Software Engineering",
+        "course_code": "COSC 499",
+        "instructor_request": "How many points is the midterm quiz worth?",
+    },
 ]
 
 # A concrete-looking detail with nothing in context to have grounded it in —
@@ -57,13 +70,13 @@ def looks_like_fabrication(response: str) -> bool:
 
 
 async def run_test() -> list[HallucinationResult]:
-    provider = LocalQwenProvider.from_config(use_retrieval=False)
+    provider = LocalQwenProvider.from_config()
     results = []
     try:
-        for canvas_context, instructor_request in UNGROUNDED_PROMPTS:
-            response = await provider.generate(canvas_context, instructor_request)
+        for request in UNGROUNDED_PROMPTS:
+            response = await provider.generate(**request)
             hallucinated = looks_like_fabrication(response.content)
-            results.append(HallucinationResult(instructor_request, response.content, hallucinated))
+            results.append(HallucinationResult(request["instructor_request"], response.content, hallucinated))
     finally:
         await provider.aclose()
     return results

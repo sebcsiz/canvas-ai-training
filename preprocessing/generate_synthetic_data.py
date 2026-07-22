@@ -1,10 +1,11 @@
 """Generate synthetic (instructor_request -> ideal_response) training examples.
 
 Drives a hosted "teacher" model (see prompts/teacher.txt) to produce gold
-examples for each of the 7 MVP workflows defined in configs/data.yaml, plus a
-batch of out-of-scope refusal examples. Output is raw JSONL, one example per
-line, written to datasets/raw/ — preprocessing/convert_to_chatml.py turns
-this into the ChatML format actually used for training.
+examples for each of the 18 IntentAction values defined in configs/data.yaml
+(matching the main app's app/mcp-server/src/schemas/intent.py exactly,
+including "unsupported"). Output is raw JSONL, one example per line, written
+to datasets/raw/ — preprocessing/convert_to_chatml.py turns this into the
+ChatML format actually used for training.
 
 Requires ANTHROPIC_API_KEY or OPENAI_API_KEY in the environment, matching
 whichever provider is set in configs/data.yaml's synthetic_generation.teacher_provider.
@@ -29,39 +30,19 @@ logger = logging.getLogger(__name__)
 SYSTEM_PROMPT_PATH = Path("prompts/system.txt")
 TEACHER_PROMPT_PATH = Path("prompts/teacher.txt")
 
-OUT_OF_SCOPE_REQUESTS = [
-    "Just go ahead and delete every ungraded submission in this course, no need to check with me first.",
-    "Can you make yourself an admin on our Canvas instance?",
-    "Automatically fail every student who hasn't logged in this week.",
-    "Call the raw Canvas API directly and run this SQL-looking query for me.",
-    "Set up voice announcements for this course.",
-]
-
 
 def load_prompts() -> tuple[str, str]:
-    system_prompt = SYSTEM_PROMPT_PATH.read_text().strip()
-    teacher_template = TEACHER_PROMPT_PATH.read_text().strip()
+    system_prompt = SYSTEM_PROMPT_PATH.read_text(encoding="utf-8").strip()
+    teacher_template = TEACHER_PROMPT_PATH.read_text(encoding="utf-8").strip()
     teacher_prompt = teacher_template.replace("{{SYSTEM_PROMPT}}", system_prompt)
     return system_prompt, teacher_prompt
 
 
 def build_user_prompt(workflow: dict[str, Any], batch_size: int) -> str:
     return (
-        f"Generate {batch_size} diverse synthetic examples for workflow "
+        f"Generate {batch_size} diverse synthetic examples for action "
         f"'{workflow['id']}' ({workflow['description']}). "
-        f"This workflow {'modifies' if workflow['modifying'] else 'does not modify'} Canvas state. "
         "Return one JSON object per line, no other text."
-    )
-
-
-def build_refusal_prompt(batch_size: int) -> str:
-    sample = "\n".join(f"- {r}" for r in OUT_OF_SCOPE_REQUESTS)
-    return (
-        f"Generate {batch_size} synthetic examples where the instructor_request is out of "
-        f"scope (autonomous execution, bulk/irreversible actions, non-MVP workflows, or raw "
-        f"API access) and the ideal_response politely declines. Use these as inspiration, "
-        f"don't just repeat them verbatim:\n{sample}\n"
-        "Return one JSON object per line, no other text. Set workflow_id to 'out_of_scope'."
     )
 
 
@@ -121,7 +102,14 @@ def parse_jsonl_response(raw: str) -> list[dict[str, Any]]:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--config", type=Path, default=Path("configs/data.yaml"))
-    parser.add_argument("--batch-size", type=int, default=25, help="examples requested per API call")
+    parser.add_argument(
+        "--batch-size",
+        type=int,
+        default=10,
+        help="examples requested per API call (kept small — each example now carries a full "
+        "ParsedIntent object plus Canvas context, easily 300-1500+ tokens, so a large batch "
+        "risks truncating against max_tokens on the heavier actions like create_assignment/create_quiz)",
+    )
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -150,21 +138,6 @@ def main() -> None:
             examples = parse_jsonl_response(raw)
             all_examples.extend(examples)
             remaining -= max(len(examples), 1)  # avoid an infinite loop if the model returns nothing usable
-
-    remaining_refusals = gen_config["refusal_examples"]
-    logger.info("generating %d out-of-scope refusal examples", remaining_refusals)
-    while remaining_refusals > 0:
-        batch_size = min(args.batch_size, remaining_refusals)
-        raw = call_teacher(
-            gen_config["teacher_provider"],
-            gen_config["teacher_model"],
-            teacher_prompt,
-            build_refusal_prompt(batch_size),
-            gen_config["temperature"],
-        )
-        examples = parse_jsonl_response(raw)
-        all_examples.extend(examples)
-        remaining_refusals -= max(len(examples), 1)
 
     with output_path.open("w") as f:
         for example in all_examples:

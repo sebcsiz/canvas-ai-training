@@ -1,11 +1,11 @@
-"""Measure structured-action accuracy against the held-out test set.
+"""Measure structured-intent accuracy against the held-out test set.
 
-This isn't free-text similarity — the assistant's job is to propose a
-specific Canvas action, so we score whether the generated response contains
-the same action type and the same key parameters as the gold ideal_response
-for modifying workflows, and whether it correctly declines for
-out_of_scope examples. Requires a llama.cpp server already running (see
-scripts/evaluate.sh and configs/serving.yaml).
+Scores whether the generated response is valid JSON matching the gold
+ParsedIntent's action type and key parameters, for every one of the 18
+IntentAction values (production returns the same shape for all of them —
+there's no separate free-text path for read-only actions). Requires a
+llama.cpp server already running (see scripts/evaluate.sh and
+configs/serving.yaml).
 
 Usage:
     python evaluation/accuracy.py --test-set datasets/test/test.jsonl
@@ -25,9 +25,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from inference.provider import LocalQwenProvider
 
-# Looks for a fenced json/action block in a response, e.g.
-# ```json\n{"action": "create_assignment", ...}\n```
-ACTION_BLOCK_RE = re.compile(r"```(?:json)?\s*(\{.*?\})\s*```", re.DOTALL)
+# Training/production never emit markdown fencing, but a live model can still
+# stray from the system prompt's "no markdown fences" instruction — tolerate
+# a fenced block rather than hard-failing the example over formatting alone.
+FENCED_BLOCK_RE = re.compile(r"```(?:json)?\s*(\{.*?\})\s*```", re.DOTALL)
 
 
 @dataclass
@@ -37,47 +38,40 @@ class EvalResult:
     reason: str
 
 
-def extract_action(text: str) -> dict | None:
-    match = ACTION_BLOCK_RE.search(text)
-    if not match:
-        return None
+def extract_json(text: str) -> dict | None:
+    text = text.strip()
     try:
-        return json.loads(match.group(1))
+        return json.loads(text)
     except json.JSONDecodeError:
-        return None
+        pass
+    match = FENCED_BLOCK_RE.search(text)
+    if match:
+        try:
+            return json.loads(match.group(1))
+        except json.JSONDecodeError:
+            pass
+    return None
 
 
-def is_refusal(text: str) -> bool:
-    # A correct refusal, per the Standard Command Pipeline in prompts/system.txt,
-    # never proposes a structured action — checking for that structural absence
-    # is robust to phrasing, unlike matching a fixed set of refusal strings.
-    return extract_action(text) is None
+def score_example(gold: dict, generated_text: str) -> EvalResult:
+    workflow_id = gold.get("action", "unknown")
+    generated = extract_json(generated_text)
 
+    if generated is None:
+        return EvalResult(workflow_id, False, "response is not valid JSON")
 
-def score_example(example: dict, generated: str) -> EvalResult:
-    workflow_id = example["workflow_id"]
+    if generated.get("action") != gold.get("action"):
+        return EvalResult(
+            workflow_id, False, f"action mismatch: expected {gold.get('action')!r}, got {generated.get('action')!r}"
+        )
 
-    if workflow_id == "out_of_scope":
-        correct = is_refusal(generated)
-        return EvalResult(workflow_id, correct, "refusal expected" if not correct else "ok")
-
-    gold_action = extract_action(example["ideal_response"])
-    generated_action = extract_action(generated)
-
-    if gold_action is None:
-        # read-only workflow with a prose gold answer; accuracy.py can't judge
-        # free-text quality, only structured-action correctness.
-        return EvalResult(workflow_id, True, "no structured gold action to compare, skipped")
-
-    if generated_action is None:
-        return EvalResult(workflow_id, False, "no structured action found in generated response")
-
-    if generated_action.get("action") != gold_action.get("action"):
-        return EvalResult(workflow_id, False, "action type mismatch")
-
-    gold_params = gold_action.get("parameters", {})
-    generated_params = generated_action.get("parameters", {})
-    missing = {k: v for k, v in gold_params.items() if generated_params.get(k) != v}
+    gold_params = gold.get("parameters") or {}
+    generated_params = generated.get("parameters") or {}
+    # Only the gold's non-null fields are checked — null just means "not
+    # relevant to this action," so a generated null/omitted match is fine too.
+    missing = {
+        k: v for k, v in gold_params.items() if v is not None and generated_params.get(k) != v
+    }
     if missing:
         return EvalResult(workflow_id, False, f"parameter mismatch: {missing}")
 
@@ -95,17 +89,11 @@ async def run_eval(test_set_path: Path) -> list[EvalResult]:
                     continue
                 example = json.loads(line)
                 messages = example["messages"]
-                system, user, assistant_gold = messages[0], messages[1], messages[2]
+                user, assistant_gold = messages[1], messages[2]
 
-                response = await provider.generate(
-                    canvas_context="",  # already baked into user["content"] by convert_to_chatml.py
-                    instructor_request=user["content"],
-                )
-                gold_example = {
-                    "workflow_id": example["workflow_id"],
-                    "ideal_response": assistant_gold["content"],
-                }
-                results.append(score_example(gold_example, response.content))
+                gold = json.loads(assistant_gold["content"])
+                response = await provider.generate_raw(user["content"])
+                results.append(score_example(gold, response.content))
     finally:
         await provider.aclose()
     return results
