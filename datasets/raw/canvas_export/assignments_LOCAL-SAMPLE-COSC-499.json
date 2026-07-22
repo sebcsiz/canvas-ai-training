@@ -1,0 +1,83 @@
+[
+  {
+    "id": 4000,
+    "course_id": 2000,
+    "name": "Intro Reflection",
+    "description": "<p>Intro Reflection \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-07-18T12:00:00Z",
+    "points_possible": 5,
+    "submission_types": [
+      "online_text_entry",
+      "online_upload",
+      "online_url"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2000/assignments/intro-reflection",
+    "rubric": [
+      {
+        "id": "4000_criterion_1",
+        "description": "Content quality",
+        "points": 3.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 3.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 1.8
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "id": "4000_criterion_2",
+        "description": "Clarity and organization",
+        "points": 2.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 2.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 1.0
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4001,
+    "course_id": 2000,
+    "name": "Project Checkpoint",
+    "description": "<p>Project Checkpoint \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-08-01T12:00:00Z",
+    "points_possible": 20,
+    "submission_types": [
+      "online_text_entry"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2000/assignments/project-checkpoint"
+  },
+  {
+    "id": 4002,
+    "course_id": 2000,
+    "name": "Final Report",
+    "description": "<p>Final Report \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-08-21T12:00:00Z",
+    "points_possible": 30,
+    "submission_types": [
+      "online_text_entry"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2000/assignments/final-report"
+  }
+]

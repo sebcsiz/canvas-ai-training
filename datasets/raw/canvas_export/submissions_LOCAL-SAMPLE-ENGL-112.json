@@ -1,0 +1,2897 @@
+[
+  {
+    "id": 5360,
+    "assignment_id": 4005,
+    "user_id": 1388,
+    "submitted_at": "2026-07-17T11:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 28."
+  },
+  {
+    "id": 5361,
+    "assignment_id": 4005,
+    "user_id": 1389,
+    "submitted_at": "2026-07-17T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-1.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T00:00:00Z"
+  },
+  {
+    "id": 5362,
+    "assignment_id": 4005,
+    "user_id": 1390,
+    "submitted_at": "2026-07-17T06:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T12:00:00Z"
+  },
+  {
+    "id": 5363,
+    "assignment_id": 4005,
+    "user_id": 1391,
+    "submitted_at": "2026-07-14T04:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 31.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T10:00:00Z"
+  },
+  {
+    "id": 5364,
+    "assignment_id": 4005,
+    "user_id": 1392,
+    "submitted_at": "2026-07-14T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-4.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5365,
+    "assignment_id": 4005,
+    "user_id": 1393,
+    "submitted_at": "2026-07-14T18:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T00:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6046,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-15T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5366,
+    "assignment_id": 4005,
+    "user_id": 1394,
+    "submitted_at": "2026-07-13T23:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 34.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T05:00:00Z"
+  },
+  {
+    "id": 5367,
+    "assignment_id": 4005,
+    "user_id": 1395,
+    "submitted_at": "2026-07-13T12:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-7.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T18:00:00Z"
+  },
+  {
+    "id": 5368,
+    "assignment_id": 4005,
+    "user_id": 1396,
+    "submitted_at": "2026-07-15T18:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5369,
+    "assignment_id": 4005,
+    "user_id": 1397,
+    "submitted_at": "2026-07-16T02:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 37.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T08:00:00Z"
+  },
+  {
+    "id": 5370,
+    "assignment_id": 4005,
+    "user_id": 1398,
+    "submitted_at": "2026-07-17T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-10.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6047,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-18T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5371,
+    "assignment_id": 4005,
+    "user_id": 1399,
+    "submitted_at": "2026-07-17T14:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T20:00:00Z"
+  },
+  {
+    "id": 5372,
+    "assignment_id": 4005,
+    "user_id": 1400,
+    "submitted_at": "2026-07-17T18:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 40."
+  },
+  {
+    "id": 5373,
+    "assignment_id": 4005,
+    "user_id": 1401,
+    "submitted_at": "2026-07-15T05:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-13.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T11:00:00Z"
+  },
+  {
+    "id": 5374,
+    "assignment_id": 4005,
+    "user_id": 1402,
+    "submitted_at": "2026-07-14T17:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T23:00:00Z"
+  },
+  {
+    "id": 5375,
+    "assignment_id": 4005,
+    "user_id": 1403,
+    "submitted_at": "2026-07-14T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 43.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T19:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6048,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-14T19:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5376,
+    "assignment_id": 4005,
+    "user_id": 1404,
+    "submitted_at": "2026-07-14T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-16.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5377,
+    "assignment_id": 4005,
+    "user_id": 1405,
+    "submitted_at": "2026-07-15T13:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T19:00:00Z"
+  },
+  {
+    "id": 5378,
+    "assignment_id": 4005,
+    "user_id": 1406,
+    "submitted_at": "2026-07-14T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 46.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T19:00:00Z"
+  },
+  {
+    "id": 5379,
+    "assignment_id": 4005,
+    "user_id": 1407,
+    "submitted_at": "2026-07-15T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-19.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T15:00:00Z"
+  },
+  {
+    "id": 5380,
+    "assignment_id": 4005,
+    "user_id": 1408,
+    "submitted_at": "2026-07-16T16:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5381,
+    "assignment_id": 4005,
+    "user_id": 1409,
+    "submitted_at": "2026-07-17T10:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 49.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T16:00:00Z"
+  },
+  {
+    "id": 5382,
+    "assignment_id": 4005,
+    "user_id": 1410,
+    "submitted_at": "2026-07-17T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-22.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T17:00:00Z"
+  },
+  {
+    "id": 5383,
+    "assignment_id": 4005,
+    "user_id": 1411,
+    "submitted_at": "2026-07-14T09:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T15:00:00Z"
+  },
+  {
+    "id": 5384,
+    "assignment_id": 4005,
+    "user_id": 1412,
+    "submitted_at": "2026-07-14T00:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 52."
+  },
+  {
+    "id": 5385,
+    "assignment_id": 4005,
+    "user_id": 1413,
+    "submitted_at": "2026-07-14T13:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-25.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T19:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6049,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-14T19:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5386,
+    "assignment_id": 4005,
+    "user_id": 1414,
+    "submitted_at": "2026-07-13T12:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T18:00:00Z"
+  },
+  {
+    "id": 5387,
+    "assignment_id": 4005,
+    "user_id": 1415,
+    "submitted_at": "2026-07-13T14:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 55.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T20:00:00Z"
+  },
+  {
+    "id": 5388,
+    "assignment_id": 4005,
+    "user_id": 1416,
+    "submitted_at": "2026-07-15T02:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-28.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5389,
+    "assignment_id": 4005,
+    "user_id": 1417,
+    "submitted_at": "2026-07-14T13:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T19:00:00Z"
+  },
+  {
+    "id": 5390,
+    "assignment_id": 4005,
+    "user_id": 1418,
+    "submitted_at": "2026-07-18T01:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 58.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T07:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6050,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-18T07:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5391,
+    "assignment_id": 4005,
+    "user_id": 1419,
+    "submitted_at": "2026-07-18T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-31.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T12:00:00Z"
+  },
+  {
+    "id": 5392,
+    "assignment_id": 4005,
+    "user_id": 1420,
+    "submitted_at": "2026-07-16T23:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5393,
+    "assignment_id": 4005,
+    "user_id": 1421,
+    "submitted_at": "2026-07-15T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 61.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T12:00:00Z"
+  },
+  {
+    "id": 5394,
+    "assignment_id": 4005,
+    "user_id": 1422,
+    "submitted_at": "2026-07-14T10:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-34.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T16:00:00Z"
+  },
+  {
+    "id": 5395,
+    "assignment_id": 4005,
+    "user_id": 1423,
+    "submitted_at": "2026-07-15T12:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T18:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6051,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-15T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5396,
+    "assignment_id": 4005,
+    "user_id": 1424,
+    "submitted_at": "2026-07-14T16:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 64."
+  },
+  {
+    "id": 5397,
+    "assignment_id": 4005,
+    "user_id": 1425,
+    "submitted_at": "2026-07-14T17:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-37.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T23:00:00Z"
+  },
+  {
+    "id": 5398,
+    "assignment_id": 4005,
+    "user_id": 1426,
+    "submitted_at": "2026-07-15T16:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T22:00:00Z"
+  },
+  {
+    "id": 5399,
+    "assignment_id": 4005,
+    "user_id": 1427,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 67.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5400,
+    "assignment_id": 4005,
+    "user_id": 1428,
+    "submitted_at": "2026-07-18T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-40.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5401,
+    "assignment_id": 4005,
+    "user_id": 1429,
+    "submitted_at": "2026-07-18T03:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T09:00:00Z"
+  },
+  {
+    "id": 5402,
+    "assignment_id": 4005,
+    "user_id": 1430,
+    "submitted_at": "2026-07-17T01:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 70.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T07:00:00Z"
+  },
+  {
+    "id": 5403,
+    "assignment_id": 4005,
+    "user_id": 1431,
+    "submitted_at": "2026-07-14T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-43.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T17:00:00Z"
+  },
+  {
+    "id": 5404,
+    "assignment_id": 4005,
+    "user_id": 1432,
+    "submitted_at": "2026-07-15T22:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5405,
+    "assignment_id": 4005,
+    "user_id": 1433,
+    "submitted_at": "2026-07-14T18:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 73.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T00:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6052,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-15T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5406,
+    "assignment_id": 4005,
+    "user_id": 1434,
+    "submitted_at": "2026-07-16T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-46.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T12:00:00Z"
+  },
+  {
+    "id": 5407,
+    "assignment_id": 4005,
+    "user_id": 1435,
+    "submitted_at": "2026-07-14T14:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T20:00:00Z"
+  },
+  {
+    "id": 5408,
+    "assignment_id": 4005,
+    "user_id": 1436,
+    "submitted_at": "2026-07-14T08:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 76."
+  },
+  {
+    "id": 5409,
+    "assignment_id": 4005,
+    "user_id": 1437,
+    "submitted_at": "2026-07-13T17:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-49.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T23:00:00Z"
+  },
+  {
+    "id": 5410,
+    "assignment_id": 4005,
+    "user_id": 1438,
+    "submitted_at": "2026-07-18T06:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T12:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6053,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-18T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5411,
+    "assignment_id": 4005,
+    "user_id": 1439,
+    "submitted_at": "2026-07-17T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 79.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T18:00:00Z"
+  },
+  {
+    "id": 5412,
+    "assignment_id": 4005,
+    "user_id": 1440,
+    "submitted_at": "2026-07-18T00:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-52.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5413,
+    "assignment_id": 4005,
+    "user_id": 1441,
+    "submitted_at": "2026-07-15T21:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T03:00:00Z"
+  },
+  {
+    "id": 5414,
+    "assignment_id": 4005,
+    "user_id": 1442,
+    "submitted_at": "2026-07-14T18:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 82.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T00:00:00Z"
+  },
+  {
+    "id": 5415,
+    "assignment_id": 4005,
+    "user_id": 1443,
+    "submitted_at": "2026-07-14T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-55.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T02:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6054,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-15T02:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5416,
+    "assignment_id": 4005,
+    "user_id": 1444,
+    "submitted_at": "2026-07-14T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5417,
+    "assignment_id": 4005,
+    "user_id": 1445,
+    "submitted_at": "2026-07-13T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 85.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T19:00:00Z"
+  },
+  {
+    "id": 5418,
+    "assignment_id": 4005,
+    "user_id": 1446,
+    "submitted_at": "2026-07-15T15:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-58.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T21:00:00Z"
+  },
+  {
+    "id": 5419,
+    "assignment_id": 4005,
+    "user_id": 1447,
+    "submitted_at": "2026-07-15T04:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T10:00:00Z"
+  },
+  {
+    "id": 5420,
+    "assignment_id": 4005,
+    "user_id": 1448,
+    "submitted_at": "2026-07-18T01:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 88."
+  },
+  {
+    "id": 5421,
+    "assignment_id": 4005,
+    "user_id": 1449,
+    "submitted_at": "2026-07-18T02:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-61.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T08:00:00Z"
+  },
+  {
+    "id": 5422,
+    "assignment_id": 4005,
+    "user_id": 1450,
+    "submitted_at": "2026-07-18T00:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T06:00:00Z"
+  },
+  {
+    "id": 5423,
+    "assignment_id": 4005,
+    "user_id": 1451,
+    "submitted_at": "2026-07-15T00:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 91.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T06:00:00Z"
+  },
+  {
+    "id": 5424,
+    "assignment_id": 4005,
+    "user_id": 1452,
+    "submitted_at": "2026-07-14T07:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-64.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5425,
+    "assignment_id": 4005,
+    "user_id": 1453,
+    "submitted_at": "2026-07-16T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T08:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6055,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-16T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5426,
+    "assignment_id": 4005,
+    "user_id": 1454,
+    "submitted_at": "2026-07-15T17:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 94.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T23:00:00Z"
+  },
+  {
+    "id": 5427,
+    "assignment_id": 4005,
+    "user_id": 1455,
+    "submitted_at": "2026-07-14T04:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-67.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T10:00:00Z"
+  },
+  {
+    "id": 5428,
+    "assignment_id": 4005,
+    "user_id": 1456,
+    "submitted_at": "2026-07-13T19:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5429,
+    "assignment_id": 4005,
+    "user_id": 1457,
+    "submitted_at": "2026-07-15T02:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 97.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T08:00:00Z"
+  },
+  {
+    "id": 5430,
+    "assignment_id": 4005,
+    "user_id": 1458,
+    "submitted_at": "2026-07-17T10:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-70.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T16:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6056,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-17T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5431,
+    "assignment_id": 4005,
+    "user_id": 1459,
+    "submitted_at": "2026-07-17T12:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T18:00:00Z"
+  },
+  {
+    "id": 5432,
+    "assignment_id": 4005,
+    "user_id": 1460,
+    "submitted_at": "2026-07-16T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 100."
+  },
+  {
+    "id": 5433,
+    "assignment_id": 4005,
+    "user_id": 1461,
+    "submitted_at": "2026-07-13T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-73.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T20:00:00Z"
+  },
+  {
+    "id": 5434,
+    "assignment_id": 4005,
+    "user_id": 1462,
+    "submitted_at": "2026-07-15T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T08:00:00Z"
+  },
+  {
+    "id": 5435,
+    "assignment_id": 4005,
+    "user_id": 1463,
+    "submitted_at": "2026-07-13T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 103.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T21:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6057,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-13T21:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5436,
+    "assignment_id": 4005,
+    "user_id": 1464,
+    "submitted_at": "2026-07-15T21:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-76.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5437,
+    "assignment_id": 4005,
+    "user_id": 1465,
+    "submitted_at": "2026-07-15T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T08:00:00Z"
+  },
+  {
+    "id": 5438,
+    "assignment_id": 4005,
+    "user_id": 1466,
+    "submitted_at": "2026-07-14T09:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 106.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T15:00:00Z"
+  },
+  {
+    "id": 5439,
+    "assignment_id": 4005,
+    "user_id": 1467,
+    "submitted_at": "2026-07-13T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-79.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T02:00:00Z"
+  },
+  {
+    "id": 5440,
+    "assignment_id": 4005,
+    "user_id": 1468,
+    "submitted_at": "2026-07-16T13:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5441,
+    "assignment_id": 4005,
+    "user_id": 1469,
+    "submitted_at": "2026-07-17T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 109.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T12:00:00Z"
+  },
+  {
+    "id": 5442,
+    "assignment_id": 4005,
+    "user_id": 1470,
+    "submitted_at": "2026-07-18T02:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-82.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T08:00:00Z"
+  },
+  {
+    "id": 5443,
+    "assignment_id": 4005,
+    "user_id": 1471,
+    "submitted_at": "2026-07-15T15:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T21:00:00Z"
+  },
+  {
+    "id": 5444,
+    "assignment_id": 4005,
+    "user_id": 1472,
+    "submitted_at": "2026-07-15T04:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 112."
+  },
+  {
+    "id": 5445,
+    "assignment_id": 4005,
+    "user_id": 1473,
+    "submitted_at": "2026-07-14T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-85.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T02:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6058,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-15T02:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5446,
+    "assignment_id": 4005,
+    "user_id": 1474,
+    "submitted_at": "2026-07-14T08:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T14:00:00Z"
+  },
+  {
+    "id": 5447,
+    "assignment_id": 4005,
+    "user_id": 1475,
+    "submitted_at": "2026-07-15T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 115.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T18:00:00Z"
+  },
+  {
+    "id": 5448,
+    "assignment_id": 4005,
+    "user_id": 1476,
+    "submitted_at": "2026-07-15T16:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-88.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5449,
+    "assignment_id": 4005,
+    "user_id": 1477,
+    "submitted_at": "2026-07-15T23:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T05:00:00Z"
+  },
+  {
+    "id": 5450,
+    "assignment_id": 4005,
+    "user_id": 1478,
+    "submitted_at": "2026-07-17T23:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 118.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T05:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6059,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-18T05:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5451,
+    "assignment_id": 4005,
+    "user_id": 1479,
+    "submitted_at": "2026-07-16T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-91.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T02:00:00Z"
+  },
+  {
+    "id": 5452,
+    "assignment_id": 4005,
+    "user_id": 1480,
+    "submitted_at": "2026-07-17T15:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5453,
+    "assignment_id": 4005,
+    "user_id": 1481,
+    "submitted_at": "2026-07-16T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 121.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T12:00:00Z"
+  },
+  {
+    "id": 5454,
+    "assignment_id": 4005,
+    "user_id": 1482,
+    "submitted_at": "2026-07-14T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-94.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T09:00:00Z"
+  },
+  {
+    "id": 5455,
+    "assignment_id": 4005,
+    "user_id": 1483,
+    "submitted_at": "2026-07-14T07:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T13:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6060,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-14T13:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5456,
+    "assignment_id": 4005,
+    "user_id": 1484,
+    "submitted_at": "2026-07-13T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 124."
+  },
+  {
+    "id": 5457,
+    "assignment_id": 4005,
+    "user_id": 1485,
+    "submitted_at": "2026-07-13T13:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-97.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T19:00:00Z"
+  },
+  {
+    "id": 5458,
+    "assignment_id": 4005,
+    "user_id": 1486,
+    "submitted_at": "2026-07-13T18:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": 5459,
+    "assignment_id": 4005,
+    "user_id": 1487,
+    "submitted_at": "2026-07-14T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 127.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T04:00:00Z"
+  },
+  {
+    "id": 5460,
+    "assignment_id": 4005,
+    "user_id": 1488,
+    "submitted_at": "2026-07-18T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-100.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5461,
+    "assignment_id": 4005,
+    "user_id": 1489,
+    "submitted_at": "2026-07-17T20:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T02:00:00Z"
+  },
+  {
+    "id": 5462,
+    "assignment_id": 4005,
+    "user_id": 1490,
+    "submitted_at": "2026-07-16T18:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 130.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": 5463,
+    "assignment_id": 4005,
+    "user_id": 1491,
+    "submitted_at": "2026-07-13T15:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-103.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T21:00:00Z"
+  },
+  {
+    "id": 5464,
+    "assignment_id": 4005,
+    "user_id": 1492,
+    "submitted_at": "2026-07-15T07:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5465,
+    "assignment_id": 4005,
+    "user_id": 1493,
+    "submitted_at": "2026-07-15T16:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 133.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T22:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6061,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-15T22:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5466,
+    "assignment_id": 4005,
+    "user_id": 1494,
+    "submitted_at": "2026-07-13T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-106.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": 5467,
+    "assignment_id": 4005,
+    "user_id": 1495,
+    "submitted_at": "2026-07-15T20:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T02:00:00Z"
+  },
+  {
+    "id": 5468,
+    "assignment_id": 4005,
+    "user_id": 1496,
+    "submitted_at": "2026-07-15T04:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 136."
+  },
+  {
+    "id": 5469,
+    "assignment_id": 4005,
+    "user_id": 1497,
+    "submitted_at": "2026-07-15T07:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-109.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T13:00:00Z"
+  },
+  {
+    "id": 5470,
+    "assignment_id": 4005,
+    "user_id": 1498,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6062,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-17T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5471,
+    "assignment_id": 4005,
+    "user_id": 1499,
+    "submitted_at": "2026-07-18T03:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 139.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T09:00:00Z"
+  },
+  {
+    "id": 5472,
+    "assignment_id": 4005,
+    "user_id": 1500,
+    "submitted_at": "2026-07-16T17:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-112.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5473,
+    "assignment_id": 4005,
+    "user_id": 1501,
+    "submitted_at": "2026-07-15T23:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T05:00:00Z"
+  },
+  {
+    "id": 5474,
+    "assignment_id": 4005,
+    "user_id": 1502,
+    "submitted_at": "2026-07-13T14:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 142.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T20:00:00Z"
+  },
+  {
+    "id": 5475,
+    "assignment_id": 4005,
+    "user_id": 1503,
+    "submitted_at": "2026-07-14T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-115.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T15:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6063,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-14T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5476,
+    "assignment_id": 4005,
+    "user_id": 1504,
+    "submitted_at": "2026-07-14T13:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5477,
+    "assignment_id": 4005,
+    "user_id": 1505,
+    "submitted_at": "2026-07-13T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 145.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T19:00:00Z"
+  },
+  {
+    "id": 5478,
+    "assignment_id": 4005,
+    "user_id": 1506,
+    "submitted_at": "2026-07-14T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-118.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T02:00:00Z"
+  },
+  {
+    "id": 5479,
+    "assignment_id": 4005,
+    "user_id": 1507,
+    "submitted_at": "2026-07-14T19:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T01:00:00Z"
+  },
+  {
+    "id": 5480,
+    "assignment_id": 4005,
+    "user_id": 1508,
+    "submitted_at": "2026-07-18T02:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 148."
+  },
+  {
+    "id": 5481,
+    "assignment_id": 4005,
+    "user_id": 1509,
+    "submitted_at": "2026-07-17T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-121.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T15:00:00Z"
+  },
+  {
+    "id": 5482,
+    "assignment_id": 4005,
+    "user_id": 1510,
+    "submitted_at": "2026-07-17T12:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T18:00:00Z"
+  },
+  {
+    "id": 5483,
+    "assignment_id": 4005,
+    "user_id": 1511,
+    "submitted_at": "2026-07-15T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 151.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T12:00:00Z"
+  },
+  {
+    "id": 5484,
+    "assignment_id": 4005,
+    "user_id": 1512,
+    "submitted_at": "2026-07-15T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-124.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5485,
+    "assignment_id": 4005,
+    "user_id": 1513,
+    "submitted_at": "2026-07-15T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T08:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6064,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-15T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5486,
+    "assignment_id": 4005,
+    "user_id": 1514,
+    "submitted_at": "2026-07-13T21:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 154.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T03:00:00Z"
+  },
+  {
+    "id": 5487,
+    "assignment_id": 4005,
+    "user_id": 1515,
+    "submitted_at": "2026-07-14T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-127.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T20:00:00Z"
+  },
+  {
+    "id": 5488,
+    "assignment_id": 4005,
+    "user_id": 1516,
+    "submitted_at": "2026-07-15T18:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5489,
+    "assignment_id": 4005,
+    "user_id": 1517,
+    "submitted_at": "2026-07-15T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 157.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T19:00:00Z"
+  },
+  {
+    "id": 5490,
+    "assignment_id": 4005,
+    "user_id": 1518,
+    "submitted_at": "2026-07-17T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-130.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T17:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6065,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-17T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5491,
+    "assignment_id": 4005,
+    "user_id": 1519,
+    "submitted_at": "2026-07-17T19:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T01:00:00Z"
+  },
+  {
+    "id": 5492,
+    "assignment_id": 4005,
+    "user_id": 1520,
+    "submitted_at": "2026-07-17T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 160."
+  },
+  {
+    "id": 5493,
+    "assignment_id": 4005,
+    "user_id": 1521,
+    "submitted_at": "2026-07-14T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-133.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T14:00:00Z"
+  },
+  {
+    "id": 5494,
+    "assignment_id": 4005,
+    "user_id": 1522,
+    "submitted_at": "2026-07-16T04:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T10:00:00Z"
+  },
+  {
+    "id": 5495,
+    "assignment_id": 4005,
+    "user_id": 1523,
+    "submitted_at": "2026-07-15T08:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 163.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T14:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6066,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-15T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5496,
+    "assignment_id": 4005,
+    "user_id": 1524,
+    "submitted_at": "2026-07-16T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-136.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5497,
+    "assignment_id": 4005,
+    "user_id": 1525,
+    "submitted_at": "2026-07-16T05:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T11:00:00Z"
+  },
+  {
+    "id": 5498,
+    "assignment_id": 4005,
+    "user_id": 1526,
+    "submitted_at": "2026-07-14T18:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 166.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T00:00:00Z"
+  },
+  {
+    "id": 5499,
+    "assignment_id": 4005,
+    "user_id": 1527,
+    "submitted_at": "2026-07-13T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-139.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-13T20:00:00Z"
+  },
+  {
+    "id": 5500,
+    "assignment_id": 4005,
+    "user_id": 1528,
+    "submitted_at": "2026-07-16T21:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5501,
+    "assignment_id": 4005,
+    "user_id": 1529,
+    "submitted_at": "2026-07-18T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 169.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T18:00:00Z"
+  },
+  {
+    "id": 5502,
+    "assignment_id": 4005,
+    "user_id": 1530,
+    "submitted_at": "2026-07-16T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-142.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": 5503,
+    "assignment_id": 4005,
+    "user_id": 1531,
+    "submitted_at": "2026-07-14T18:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T00:00:00Z"
+  },
+  {
+    "id": 5504,
+    "assignment_id": 4005,
+    "user_id": 1532,
+    "submitted_at": "2026-07-15T19:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from ENGL 112 Student 172."
+  },
+  {
+    "id": 5505,
+    "assignment_id": 4005,
+    "user_id": 1533,
+    "submitted_at": "2026-07-14T01:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-145.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T07:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6067,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-14T07:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5506,
+    "assignment_id": 4005,
+    "user_id": 1534,
+    "submitted_at": "2026-07-15T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T07:00:00Z"
+  },
+  {
+    "id": 5507,
+    "assignment_id": 4005,
+    "user_id": 1535,
+    "submitted_at": "2026-07-14T16:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 175.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-14T22:00:00Z"
+  },
+  {
+    "id": 5508,
+    "assignment_id": 4005,
+    "user_id": 1536,
+    "submitted_at": "2026-07-15T17:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-148.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5509,
+    "assignment_id": 4005,
+    "user_id": 1537,
+    "submitted_at": "2026-07-16T00:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/engl-project",
+    "score": 18,
+    "grade": "18",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T06:00:00Z"
+  },
+  {
+    "id": 5510,
+    "assignment_id": 4005,
+    "user_id": 1538,
+    "submitted_at": "2026-07-17T19:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from ENGL 112 Student 178.",
+    "score": 20,
+    "grade": "20",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6068,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-18T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5511,
+    "assignment_id": 4005,
+    "user_id": 1539,
+    "submitted_at": "2026-07-18T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-151.txt",
+        "display_name": "engl-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 19,
+    "grade": "19",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T09:00:00Z"
+  },
+  {
+    "id": 5512,
+    "assignment_id": 4005,
+    "user_id": 1540,
+    "submitted_at": "2026-07-17T04:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/engl-project"
+  },
+  {
+    "id": 5513,
+    "assignment_id": 4005,
+    "user_id": 1361,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5514,
+    "assignment_id": 4005,
+    "user_id": 1362,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5515,
+    "assignment_id": 4005,
+    "user_id": 1363,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5516,
+    "assignment_id": 4005,
+    "user_id": 1364,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5517,
+    "assignment_id": 4005,
+    "user_id": 1365,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5518,
+    "assignment_id": 4005,
+    "user_id": 1366,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5519,
+    "assignment_id": 4005,
+    "user_id": 1367,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5520,
+    "assignment_id": 4005,
+    "user_id": 1368,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5521,
+    "assignment_id": 4005,
+    "user_id": 1369,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5522,
+    "assignment_id": 4005,
+    "user_id": 1370,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5523,
+    "assignment_id": 4005,
+    "user_id": 1371,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5524,
+    "assignment_id": 4005,
+    "user_id": 1372,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5525,
+    "assignment_id": 4005,
+    "user_id": 1373,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5526,
+    "assignment_id": 4005,
+    "user_id": 1374,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5527,
+    "assignment_id": 4005,
+    "user_id": 1375,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5528,
+    "assignment_id": 4005,
+    "user_id": 1376,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5529,
+    "assignment_id": 4005,
+    "user_id": 1377,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5530,
+    "assignment_id": 4005,
+    "user_id": 1378,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5531,
+    "assignment_id": 4005,
+    "user_id": 1379,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5532,
+    "assignment_id": 4005,
+    "user_id": 1380,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5533,
+    "assignment_id": 4005,
+    "user_id": 1381,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5534,
+    "assignment_id": 4005,
+    "user_id": 1382,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5535,
+    "assignment_id": 4005,
+    "user_id": 1383,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5536,
+    "assignment_id": 4005,
+    "user_id": 1384,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5537,
+    "assignment_id": 4005,
+    "user_id": 1385,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5538,
+    "assignment_id": 4005,
+    "user_id": 1386,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5539,
+    "assignment_id": 4005,
+    "user_id": 1387,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  }
+]

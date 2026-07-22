@@ -1,0 +1,140 @@
+[
+  {
+    "id": 12018,
+    "course_id": 2003,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1571,
+        "name": "COSC 221 Student 30"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13018,
+        "author_id": 1571,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12019,
+    "course_id": 2003,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1711,
+        "name": "COSC 221 Student 170"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13019,
+        "author_id": 1711,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-14T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12020,
+    "course_id": 2003,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1592,
+        "name": "COSC 221 Student 51"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13020,
+        "author_id": 1592,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-14T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12021,
+    "course_id": 2003,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1719,
+        "name": "COSC 221 Student 178"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13021,
+        "author_id": 1719,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-21T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12022,
+    "course_id": 2003,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1698,
+        "name": "COSC 221 Student 157"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13022,
+        "author_id": 1698,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-14T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12023,
+    "course_id": 2003,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1667,
+        "name": "COSC 221 Student 126"
+      },
+      {
+        "id": 1541,
+        "name": "Dana Rivera"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13023,
+        "author_id": 1667,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-12T12:00:00Z"
+      }
+    ]
+  }
+]

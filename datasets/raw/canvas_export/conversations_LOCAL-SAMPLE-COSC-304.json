@@ -1,0 +1,140 @@
+[
+  {
+    "id": 12024,
+    "course_id": 2004,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1858,
+        "name": "COSC 304 Student 136"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13024,
+        "author_id": 1858,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-16T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12025,
+    "course_id": 2004,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1868,
+        "name": "COSC 304 Student 146"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13025,
+        "author_id": 1868,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12026,
+    "course_id": 2004,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1813,
+        "name": "COSC 304 Student 91"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13026,
+        "author_id": 1813,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12027,
+    "course_id": 2004,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1733,
+        "name": "COSC 304 Student 11"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13027,
+        "author_id": 1733,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-20T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12028,
+    "course_id": 2004,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1855,
+        "name": "COSC 304 Student 133"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13028,
+        "author_id": 1855,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-16T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12029,
+    "course_id": 2004,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1822,
+        "name": "COSC 304 Student 100"
+      },
+      {
+        "id": 1722,
+        "name": "Drew Okafor"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13029,
+        "author_id": 1822,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-16T12:00:00Z"
+      }
+    ]
+  }
+]

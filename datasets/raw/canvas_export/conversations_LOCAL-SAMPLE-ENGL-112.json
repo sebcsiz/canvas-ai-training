@@ -1,0 +1,140 @@
+[
+  {
+    "id": 12012,
+    "course_id": 2002,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1478,
+        "name": "ENGL 112 Student 118"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13012,
+        "author_id": 1478,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-18T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12013,
+    "course_id": 2002,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1527,
+        "name": "ENGL 112 Student 167"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13013,
+        "author_id": 1527,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12014,
+    "course_id": 2002,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1391,
+        "name": "ENGL 112 Student 31"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13014,
+        "author_id": 1391,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12015,
+    "course_id": 2002,
+    "subject": "Question about the assignment",
+    "participants": [
+      {
+        "id": 1518,
+        "name": "ENGL 112 Student 158"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13015,
+        "author_id": 1518,
+        "body": "I had a question about the due date, could you clarify?",
+        "created_at": "2026-07-13T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12016,
+    "course_id": 2002,
+    "subject": "Extension request",
+    "participants": [
+      {
+        "id": 1459,
+        "name": "ENGL 112 Student 99"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13016,
+        "author_id": 1459,
+        "body": "Would it be possible to get a short extension on this one?",
+        "created_at": "2026-07-12T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 12017,
+    "course_id": 2002,
+    "subject": "Great work reminder",
+    "participants": [
+      {
+        "id": 1380,
+        "name": "ENGL 112 Student 20"
+      },
+      {
+        "id": 1000,
+        "name": "Taylor Teacher"
+      }
+    ],
+    "messages": [
+      {
+        "id": 13017,
+        "author_id": 1380,
+        "body": "Just checking in on your progress with the current assignment.",
+        "created_at": "2026-07-21T12:00:00Z"
+      }
+    ]
+  }
+]
