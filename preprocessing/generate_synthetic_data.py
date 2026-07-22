@@ -83,13 +83,16 @@ def call_teacher_openai(model: str, system_prompt: str, user_prompt: str, temper
     import openai
 
     client = openai.OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    # gpt-5 family models only support the default temperature (1); they reject
+    # any explicit value, including the "no-op" 1.0 (BadRequestError otherwise).
+    kwargs = {} if model.startswith("gpt-5") else {"temperature": temperature}
     response = client.chat.completions.create(
         model=model,
-        temperature=temperature,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
+        **kwargs,
     )
     return response.choices[0].message.content or ""
 

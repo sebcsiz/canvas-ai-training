@@ -1,0 +1,1372 @@
+{"text": "Linked Lists Lab", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "<p>Linked Lists Lab \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Content quality", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Clarity and organization", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Big-O Analysis", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "<p>Big-O Analysis \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "ER Diagram", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "<p>ER Diagram \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Content quality", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Clarity and organization", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "SQL Query Set", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "<p>SQL Query Set \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Design Document", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "<p>Design Document \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Content quality", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Clarity and organization", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sprint Retrospective", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "<p>Sprint Retrospective \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Intro Reflection", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "<p>Intro Reflection \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Content quality", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Clarity and organization", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Project Checkpoint", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "<p>Project Checkpoint \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Final Report", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "<p>Final Report \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Rhetorical Analysis Essay", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "<p>Rhetorical Analysis Essay \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Content quality", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Clarity and organization", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Excellent", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Satisfactory", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Needs work", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Argumentative Essay", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "<p>Argumentative Essay \u2014 see course syllabus for full instructions.</p>", "source": "assignments_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "COSC 221 Student 30", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 221 Student 170", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 221 Student 51", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 221 Student 178", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 221 Student 157", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 221 Student 126", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "COSC 304 Student 136", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 304 Student 146", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 304 Student 91", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 304 Student 11", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 304 Student 133", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 304 Student 100", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "COSC 310 Student 135", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 310 Student 170", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 310 Student 30", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 310 Student 130", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 310 Student 134", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 310 Student 27", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "COSC 499 Student 99", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "COSC 499 Student 26", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "COSC 499 Student 173", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "COSC 499 Student 36", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "COSC 499 Student 23", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "COSC 499 Student 75", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 118", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 167", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 31", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 158", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "I had a question about the due date, could you clarify?", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 99", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Would it be possible to get a short extension on this one?", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "ENGL 112 Student 20", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Just checking in on your progress with the current assignment.", "source": "conversations_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Capstone Test COSC 499", "source": "courses.json", "chunk_index": 0}
+{"text": "<p>Capstone project course. Weekly deliverables, final demo in week 12.</p>", "source": "courses.json", "chunk_index": 0}
+{"text": "Software Engineering COSC 310", "source": "courses.json", "chunk_index": 0}
+{"text": "<p>Software engineering practices: design docs, code review, testing.</p>", "source": "courses.json", "chunk_index": 0}
+{"text": "Introduction to Composition ENGL 112", "source": "courses.json", "chunk_index": 0}
+{"text": "<p>Composition fundamentals: rhetorical analysis, argumentative writing.</p>", "source": "courses.json", "chunk_index": 0}
+{"text": "Data Structures COSC 221", "source": "courses.json", "chunk_index": 0}
+{"text": "<p>Core data structures and algorithmic complexity.</p>", "source": "courses.json", "chunk_index": 0}
+{"text": "Intro to Databases COSC 304", "source": "courses.json", "chunk_index": 0}
+{"text": "<p>Relational database design, normalization, SQL.</p>", "source": "courses.json", "chunk_index": 0}
+{"text": "Welcome Discussion", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Introduce yourself and describe what you want to validate in this local Canvas instance.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Welcome to Data Structures COSC 221", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Course materials are posted. Please review the syllabus and reach out with questions.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "discussion_topics_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Welcome Discussion", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Introduce yourself and describe what you want to validate in this local Canvas instance.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Welcome to Intro to Databases COSC 304", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Course materials are posted. Please review the syllabus and reach out with questions.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "discussion_topics_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Welcome Discussion", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Introduce yourself and describe what you want to validate in this local Canvas instance.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Welcome to Software Engineering COSC 310", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Course materials are posted. Please review the syllabus and reach out with questions.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Welcome Discussion", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Introduce yourself and describe what you want to validate in this local Canvas instance.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Welcome to Capstone Test COSC 499", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Course materials are posted. Please review the syllabus and reach out with questions.", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Welcome Discussion", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Introduce yourself and describe what you want to validate in this local Canvas instance.", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Welcome to Introduction to Composition ENGL 112", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Course materials are posted. Please review the syllabus and reach out with questions.", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "discussion_topics_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample Module", "source": "modules_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample Module", "source": "modules_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample Module", "source": "modules_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample Module", "source": "modules_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample Module", "source": "modules_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Local Canvas Test Page", "source": "pages_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "<p>This page exists so everyone has shared content to inspect after seeding.</p>", "source": "pages_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Local Canvas Test Page", "source": "pages_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "<p>This page exists so everyone has shared content to inspect after seeding.</p>", "source": "pages_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Local Canvas Test Page", "source": "pages_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "<p>This page exists so everyone has shared content to inspect after seeding.</p>", "source": "pages_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Local Canvas Test Page", "source": "pages_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "<p>This page exists so everyone has shared content to inspect after seeding.</p>", "source": "pages_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Local Canvas Test Page", "source": "pages_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "<p>This page exists so everyone has shared content to inspect after seeding.</p>", "source": "pages_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Big-O Notation Quiz", "source": "quizzes_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Normalization Quiz", "source": "quizzes_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Agile Terminology Quiz", "source": "quizzes_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sprint Planning Basics", "source": "quizzes_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Citation Styles Quiz", "source": "quizzes_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 28.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 31.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 34.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 37.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 40.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 43.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 46.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 49.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 52.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 55.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 58.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 61.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 64.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 67.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 70.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 73.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 76.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 79.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 82.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 85.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 88.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 91.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 94.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 97.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 100.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 103.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 106.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 109.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 112.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 115.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 118.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 121.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 124.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 127.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 130.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 133.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 136.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 139.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 142.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 145.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 148.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 151.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 154.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 157.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 160.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 163.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 166.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 169.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 172.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 175.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 221 Student 178.", "source": "submissions_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 28.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 31.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 34.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 37.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 40.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 43.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 46.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 49.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 52.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 55.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 58.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 61.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 64.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 67.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 70.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 73.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 76.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 79.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 82.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 85.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 88.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 91.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 94.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 97.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 100.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 103.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 106.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 109.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 112.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 115.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 118.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 121.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 124.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 127.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 130.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 133.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 136.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 139.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 142.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 145.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 148.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 151.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 154.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 157.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 160.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 163.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 166.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 169.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 172.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 175.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 304 Student 178.", "source": "submissions_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 28.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 31.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 34.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 37.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 40.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 43.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 46.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 49.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 52.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 55.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 58.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 61.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 64.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 67.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 70.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 73.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 76.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 79.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 82.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 85.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 88.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 91.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 94.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 97.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 100.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 103.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 106.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 109.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 112.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 115.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 118.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 121.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 124.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 127.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 130.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 133.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 136.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 139.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 142.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 145.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 148.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 151.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 154.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 157.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 160.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 163.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 166.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 169.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 172.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 175.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 310 Student 178.", "source": "submissions_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 28.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 31.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 34.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 37.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 40.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 43.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 46.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 49.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 52.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 55.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 58.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 61.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 64.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 67.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 70.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 73.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 76.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 79.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 82.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 85.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 88.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 91.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 94.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 97.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 100.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 103.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 106.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 109.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 112.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 115.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 118.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 121.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 124.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 127.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 130.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 133.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 136.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 139.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 142.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 145.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 148.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 151.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 154.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 157.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 160.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 163.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 166.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 169.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 172.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 175.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from COSC 499 Student 178.", "source": "submissions_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 28.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 31.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 34.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 37.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 40.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 43.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 46.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 49.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 52.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 55.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 58.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 61.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 64.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 67.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 70.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 73.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 76.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 79.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 82.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 85.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 88.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 91.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 94.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 97.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 100.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 103.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 106.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 109.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 112.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 115.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 118.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 121.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 124.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 127.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 130.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 133.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 136.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 139.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 142.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 145.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 148.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 151.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 154.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 157.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 160.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 163.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 166.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 169.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 172.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 175.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Sample submission from ENGL 112 Student 178.", "source": "submissions_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Dana Rivera", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student A", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z1", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z2", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z3", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z4", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z5", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z6", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z7", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z8", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z9", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z10", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z11", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student X12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student Z12", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student B13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student D13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student F13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student H13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student J13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student L13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student N13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student P13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student R13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student T13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Student V13", "source": "users_LOCAL-SAMPLE-COSC-221.json", "chunk_index": 0}
+{"text": "Drew Okafor", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student A", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z1", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z2", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z3", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z4", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z5", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z6", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z7", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z8", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z9", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z10", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z11", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student X12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student Z12", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student B13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student D13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student F13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student H13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student J13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student L13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student N13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student P13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student R13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student T13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Student V13", "source": "users_LOCAL-SAMPLE-COSC-304.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student A", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z1", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z2", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z3", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z4", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z5", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z6", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z7", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z8", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z9", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z10", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z11", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student X12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student Z12", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student B13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student D13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student F13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student H13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student J13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student L13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student N13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student P13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student R13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student T13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Student V13", "source": "users_LOCAL-SAMPLE-COSC-310.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student A", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z1", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z2", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z3", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z4", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z5", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z6", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z7", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z8", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z9", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z10", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z11", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student X12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student Z12", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student B13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student D13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student F13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student H13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student J13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student L13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student N13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student P13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student R13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student T13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Student V13", "source": "users_LOCAL-SAMPLE-COSC-499.json", "chunk_index": 0}
+{"text": "Taylor Teacher", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student A", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z1", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z2", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z3", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z4", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z5", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z6", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z7", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z8", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z9", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z10", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z11", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student X12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student Z12", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student B13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student D13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student F13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student H13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student J13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student L13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student N13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student P13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student R13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student T13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}
+{"text": "Student V13", "source": "users_LOCAL-SAMPLE-ENGL-112.json", "chunk_index": 0}

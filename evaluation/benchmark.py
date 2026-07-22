@@ -15,8 +15,12 @@ from __future__ import annotations
 import argparse
 import asyncio
 import statistics
+import sys
 import time
 from dataclasses import dataclass
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from inference.provider import LocalQwenProvider
 

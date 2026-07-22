@@ -1,0 +1,9 @@
+[
+  {
+    "page_id": 10004,
+    "course_id": 2004,
+    "title": "Local Canvas Test Page",
+    "body": "<p>This page exists so everyone has shared content to inspect after seeding.</p>",
+    "workflow_state": "active"
+  }
+]

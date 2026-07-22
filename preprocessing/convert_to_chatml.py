@@ -43,6 +43,9 @@ def build_user_turn(example: dict, retrieved_context: str | None) -> str:
 
 
 def load_retriever(top_k: int):
+    import sys
+
+    sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
     from embeddings.retrieve import Retriever
 
     try:

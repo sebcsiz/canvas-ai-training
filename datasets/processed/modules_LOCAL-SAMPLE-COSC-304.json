@@ -1,0 +1,26 @@
+[
+  {
+    "id": 11004,
+    "course_id": 2004,
+    "name": "Sample Module",
+    "workflow_state": "active",
+    "items": [
+      {
+        "type": "Assignment",
+        "content_id": 4009
+      },
+      {
+        "type": "Assignment",
+        "content_id": 4010
+      },
+      {
+        "type": "Discussion",
+        "content_id": 9008
+      },
+      {
+        "type": "Page",
+        "content_id": 10004
+      }
+    ]
+  }
+]

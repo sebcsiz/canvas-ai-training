@@ -1,0 +1,52 @@
+[
+  {
+    "id": 7002,
+    "course_id": 2002,
+    "title": "Citation Styles Quiz",
+    "quiz_type": "assignment",
+    "points_possible": 6,
+    "due_at": "2026-07-27T12:00:00Z",
+    "question_count": 2,
+    "published": true,
+    "questions": [
+      {
+        "id": 8004,
+        "question_name": "Question 1",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which best describes a core concept from Citation Styles?",
+        "points_possible": 3.0,
+        "answers": [
+          {
+            "text": "Correct answer",
+            "weight": 100
+          },
+          {
+            "text": "Distractor A",
+            "weight": 0
+          },
+          {
+            "text": "Distractor B",
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "id": 8005,
+        "question_name": "Question 2",
+        "question_type": "true_false_question",
+        "question_text": "True or false: this concept applies in the context covered this week.",
+        "points_possible": 3.0,
+        "answers": [
+          {
+            "text": "True",
+            "weight": 100
+          },
+          {
+            "text": "False",
+            "weight": 0
+          }
+        ]
+      }
+    ]
+  }
+]

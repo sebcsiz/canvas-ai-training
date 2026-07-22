@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2000,
+    "sis_course_id": "LOCAL-SAMPLE-COSC-499",
+    "name": "Capstone Test COSC 499",
+    "course_code": "COSC 499 CAPSTONE",
+    "workflow_state": "available",
+    "start_at": "2026-07-15T12:00:00Z",
+    "end_at": "2026-10-14T12:00:00Z",
+    "syllabus_body": "<p>Capstone project course. Weekly deliverables, final demo in week 12.</p>"
+  },
+  {
+    "id": 2001,
+    "sis_course_id": "LOCAL-SAMPLE-COSC-310",
+    "name": "Software Engineering COSC 310",
+    "course_code": "COSC 310",
+    "workflow_state": "available",
+    "start_at": "2026-07-15T12:00:00Z",
+    "end_at": "2026-10-14T12:00:00Z",
+    "syllabus_body": "<p>Software engineering practices: design docs, code review, testing.</p>"
+  },
+  {
+    "id": 2002,
+    "sis_course_id": "LOCAL-SAMPLE-ENGL-112",
+    "name": "Introduction to Composition ENGL 112",
+    "course_code": "ENGL 112",
+    "workflow_state": "available",
+    "start_at": "2026-07-15T12:00:00Z",
+    "end_at": "2026-10-14T12:00:00Z",
+    "syllabus_body": "<p>Composition fundamentals: rhetorical analysis, argumentative writing.</p>"
+  },
+  {
+    "id": 2003,
+    "sis_course_id": "LOCAL-SAMPLE-COSC-221",
+    "name": "Data Structures COSC 221",
+    "course_code": "COSC 221",
+    "workflow_state": "available",
+    "start_at": "2026-07-15T12:00:00Z",
+    "end_at": "2026-10-14T12:00:00Z",
+    "syllabus_body": "<p>Core data structures and algorithmic complexity.</p>"
+  },
+  {
+    "id": 2004,
+    "sis_course_id": "LOCAL-SAMPLE-COSC-304",
+    "name": "Intro to Databases COSC 304",
+    "course_code": "COSC 304",
+    "workflow_state": "available",
+    "start_at": "2026-07-15T12:00:00Z",
+    "end_at": "2026-10-14T12:00:00Z",
+    "syllabus_body": "<p>Relational database design, normalization, SQL.</p>"
+  }
+]
