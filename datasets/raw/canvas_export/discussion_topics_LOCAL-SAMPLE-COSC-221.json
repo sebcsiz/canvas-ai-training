@@ -1,0 +1,27 @@
+[
+  {
+    "id": 9006,
+    "course_id": 2003,
+    "title": "Welcome Discussion",
+    "message": "Introduce yourself and describe what you want to validate in this local Canvas instance.",
+    "posted_by": {
+      "id": 1541,
+      "name": "Dana Rivera"
+    },
+    "workflow_state": "active",
+    "is_announcement": false
+  },
+  {
+    "id": 9007,
+    "course_id": 2003,
+    "title": "Welcome to Data Structures COSC 221",
+    "message": "Course materials are posted. Please review the syllabus and reach out with questions.",
+    "posted_by": {
+      "id": 1541,
+      "name": "Dana Rivera"
+    },
+    "workflow_state": "active",
+    "is_announcement": true,
+    "posted_at": "2026-07-15T12:00:00Z"
+  }
+]

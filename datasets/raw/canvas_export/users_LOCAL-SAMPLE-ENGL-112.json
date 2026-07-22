@@ -1,0 +1,2717 @@
+[
+  {
+    "id": 3362,
+    "course_id": 2002,
+    "type": "TeacherEnrollment",
+    "role": "TeacherEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1000,
+      "name": "Taylor Teacher",
+      "short_name": "Taylor",
+      "sortable_name": "Teacher, Taylor",
+      "login_id": "teacher@example.test",
+      "email": "teacher@example.test"
+    }
+  },
+  {
+    "id": 3363,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1361,
+      "name": "ENGL 112 Student 1",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 1, ENGL",
+      "login_id": "engl112student1@example.test",
+      "email": "engl112student1@example.test"
+    }
+  },
+  {
+    "id": 3364,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1362,
+      "name": "ENGL 112 Student 2",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 2, ENGL",
+      "login_id": "engl112student2@example.test",
+      "email": "engl112student2@example.test"
+    }
+  },
+  {
+    "id": 3365,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1363,
+      "name": "ENGL 112 Student 3",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 3, ENGL",
+      "login_id": "engl112student3@example.test",
+      "email": "engl112student3@example.test"
+    }
+  },
+  {
+    "id": 3366,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1364,
+      "name": "ENGL 112 Student 4",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 4, ENGL",
+      "login_id": "engl112student4@example.test",
+      "email": "engl112student4@example.test"
+    }
+  },
+  {
+    "id": 3367,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1365,
+      "name": "ENGL 112 Student 5",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 5, ENGL",
+      "login_id": "engl112student5@example.test",
+      "email": "engl112student5@example.test"
+    }
+  },
+  {
+    "id": 3368,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1366,
+      "name": "ENGL 112 Student 6",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 6, ENGL",
+      "login_id": "engl112student6@example.test",
+      "email": "engl112student6@example.test"
+    }
+  },
+  {
+    "id": 3369,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1367,
+      "name": "ENGL 112 Student 7",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 7, ENGL",
+      "login_id": "engl112student7@example.test",
+      "email": "engl112student7@example.test"
+    }
+  },
+  {
+    "id": 3370,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1368,
+      "name": "ENGL 112 Student 8",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 8, ENGL",
+      "login_id": "engl112student8@example.test",
+      "email": "engl112student8@example.test"
+    }
+  },
+  {
+    "id": 3371,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1369,
+      "name": "ENGL 112 Student 9",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 9, ENGL",
+      "login_id": "engl112student9@example.test",
+      "email": "engl112student9@example.test"
+    }
+  },
+  {
+    "id": 3372,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1370,
+      "name": "ENGL 112 Student 10",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 10, ENGL",
+      "login_id": "engl112student10@example.test",
+      "email": "engl112student10@example.test"
+    }
+  },
+  {
+    "id": 3373,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1371,
+      "name": "ENGL 112 Student 11",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 11, ENGL",
+      "login_id": "engl112student11@example.test",
+      "email": "engl112student11@example.test"
+    }
+  },
+  {
+    "id": 3374,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1372,
+      "name": "ENGL 112 Student 12",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 12, ENGL",
+      "login_id": "engl112student12@example.test",
+      "email": "engl112student12@example.test"
+    }
+  },
+  {
+    "id": 3375,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1373,
+      "name": "ENGL 112 Student 13",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 13, ENGL",
+      "login_id": "engl112student13@example.test",
+      "email": "engl112student13@example.test"
+    }
+  },
+  {
+    "id": 3376,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1374,
+      "name": "ENGL 112 Student 14",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 14, ENGL",
+      "login_id": "engl112student14@example.test",
+      "email": "engl112student14@example.test"
+    }
+  },
+  {
+    "id": 3377,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1375,
+      "name": "ENGL 112 Student 15",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 15, ENGL",
+      "login_id": "engl112student15@example.test",
+      "email": "engl112student15@example.test"
+    }
+  },
+  {
+    "id": 3378,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1376,
+      "name": "ENGL 112 Student 16",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 16, ENGL",
+      "login_id": "engl112student16@example.test",
+      "email": "engl112student16@example.test"
+    }
+  },
+  {
+    "id": 3379,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1377,
+      "name": "ENGL 112 Student 17",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 17, ENGL",
+      "login_id": "engl112student17@example.test",
+      "email": "engl112student17@example.test"
+    }
+  },
+  {
+    "id": 3380,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1378,
+      "name": "ENGL 112 Student 18",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 18, ENGL",
+      "login_id": "engl112student18@example.test",
+      "email": "engl112student18@example.test"
+    }
+  },
+  {
+    "id": 3381,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1379,
+      "name": "ENGL 112 Student 19",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 19, ENGL",
+      "login_id": "engl112student19@example.test",
+      "email": "engl112student19@example.test"
+    }
+  },
+  {
+    "id": 3382,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1380,
+      "name": "ENGL 112 Student 20",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 20, ENGL",
+      "login_id": "engl112student20@example.test",
+      "email": "engl112student20@example.test"
+    }
+  },
+  {
+    "id": 3383,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1381,
+      "name": "ENGL 112 Student 21",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 21, ENGL",
+      "login_id": "engl112student21@example.test",
+      "email": "engl112student21@example.test"
+    }
+  },
+  {
+    "id": 3384,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1382,
+      "name": "ENGL 112 Student 22",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 22, ENGL",
+      "login_id": "engl112student22@example.test",
+      "email": "engl112student22@example.test"
+    }
+  },
+  {
+    "id": 3385,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1383,
+      "name": "ENGL 112 Student 23",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 23, ENGL",
+      "login_id": "engl112student23@example.test",
+      "email": "engl112student23@example.test"
+    }
+  },
+  {
+    "id": 3386,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1384,
+      "name": "ENGL 112 Student 24",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 24, ENGL",
+      "login_id": "engl112student24@example.test",
+      "email": "engl112student24@example.test"
+    }
+  },
+  {
+    "id": 3387,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1385,
+      "name": "ENGL 112 Student 25",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 25, ENGL",
+      "login_id": "engl112student25@example.test",
+      "email": "engl112student25@example.test"
+    }
+  },
+  {
+    "id": 3388,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1386,
+      "name": "ENGL 112 Student 26",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 26, ENGL",
+      "login_id": "engl112student26@example.test",
+      "email": "engl112student26@example.test"
+    }
+  },
+  {
+    "id": 3389,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1387,
+      "name": "ENGL 112 Student 27",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 27, ENGL",
+      "login_id": "engl112student27@example.test",
+      "email": "engl112student27@example.test"
+    }
+  },
+  {
+    "id": 3390,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1388,
+      "name": "ENGL 112 Student 28",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 28, ENGL",
+      "login_id": "engl112student28@example.test",
+      "email": "engl112student28@example.test"
+    }
+  },
+  {
+    "id": 3391,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1389,
+      "name": "ENGL 112 Student 29",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 29, ENGL",
+      "login_id": "engl112student29@example.test",
+      "email": "engl112student29@example.test"
+    }
+  },
+  {
+    "id": 3392,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1390,
+      "name": "ENGL 112 Student 30",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 30, ENGL",
+      "login_id": "engl112student30@example.test",
+      "email": "engl112student30@example.test"
+    }
+  },
+  {
+    "id": 3393,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1391,
+      "name": "ENGL 112 Student 31",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 31, ENGL",
+      "login_id": "engl112student31@example.test",
+      "email": "engl112student31@example.test"
+    }
+  },
+  {
+    "id": 3394,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1392,
+      "name": "ENGL 112 Student 32",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 32, ENGL",
+      "login_id": "engl112student32@example.test",
+      "email": "engl112student32@example.test"
+    }
+  },
+  {
+    "id": 3395,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1393,
+      "name": "ENGL 112 Student 33",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 33, ENGL",
+      "login_id": "engl112student33@example.test",
+      "email": "engl112student33@example.test"
+    }
+  },
+  {
+    "id": 3396,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1394,
+      "name": "ENGL 112 Student 34",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 34, ENGL",
+      "login_id": "engl112student34@example.test",
+      "email": "engl112student34@example.test"
+    }
+  },
+  {
+    "id": 3397,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1395,
+      "name": "ENGL 112 Student 35",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 35, ENGL",
+      "login_id": "engl112student35@example.test",
+      "email": "engl112student35@example.test"
+    }
+  },
+  {
+    "id": 3398,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1396,
+      "name": "ENGL 112 Student 36",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 36, ENGL",
+      "login_id": "engl112student36@example.test",
+      "email": "engl112student36@example.test"
+    }
+  },
+  {
+    "id": 3399,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1397,
+      "name": "ENGL 112 Student 37",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 37, ENGL",
+      "login_id": "engl112student37@example.test",
+      "email": "engl112student37@example.test"
+    }
+  },
+  {
+    "id": 3400,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1398,
+      "name": "ENGL 112 Student 38",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 38, ENGL",
+      "login_id": "engl112student38@example.test",
+      "email": "engl112student38@example.test"
+    }
+  },
+  {
+    "id": 3401,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1399,
+      "name": "ENGL 112 Student 39",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 39, ENGL",
+      "login_id": "engl112student39@example.test",
+      "email": "engl112student39@example.test"
+    }
+  },
+  {
+    "id": 3402,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1400,
+      "name": "ENGL 112 Student 40",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 40, ENGL",
+      "login_id": "engl112student40@example.test",
+      "email": "engl112student40@example.test"
+    }
+  },
+  {
+    "id": 3403,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1401,
+      "name": "ENGL 112 Student 41",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 41, ENGL",
+      "login_id": "engl112student41@example.test",
+      "email": "engl112student41@example.test"
+    }
+  },
+  {
+    "id": 3404,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1402,
+      "name": "ENGL 112 Student 42",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 42, ENGL",
+      "login_id": "engl112student42@example.test",
+      "email": "engl112student42@example.test"
+    }
+  },
+  {
+    "id": 3405,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1403,
+      "name": "ENGL 112 Student 43",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 43, ENGL",
+      "login_id": "engl112student43@example.test",
+      "email": "engl112student43@example.test"
+    }
+  },
+  {
+    "id": 3406,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1404,
+      "name": "ENGL 112 Student 44",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 44, ENGL",
+      "login_id": "engl112student44@example.test",
+      "email": "engl112student44@example.test"
+    }
+  },
+  {
+    "id": 3407,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1405,
+      "name": "ENGL 112 Student 45",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 45, ENGL",
+      "login_id": "engl112student45@example.test",
+      "email": "engl112student45@example.test"
+    }
+  },
+  {
+    "id": 3408,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1406,
+      "name": "ENGL 112 Student 46",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 46, ENGL",
+      "login_id": "engl112student46@example.test",
+      "email": "engl112student46@example.test"
+    }
+  },
+  {
+    "id": 3409,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1407,
+      "name": "ENGL 112 Student 47",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 47, ENGL",
+      "login_id": "engl112student47@example.test",
+      "email": "engl112student47@example.test"
+    }
+  },
+  {
+    "id": 3410,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1408,
+      "name": "ENGL 112 Student 48",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 48, ENGL",
+      "login_id": "engl112student48@example.test",
+      "email": "engl112student48@example.test"
+    }
+  },
+  {
+    "id": 3411,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1409,
+      "name": "ENGL 112 Student 49",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 49, ENGL",
+      "login_id": "engl112student49@example.test",
+      "email": "engl112student49@example.test"
+    }
+  },
+  {
+    "id": 3412,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1410,
+      "name": "ENGL 112 Student 50",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 50, ENGL",
+      "login_id": "engl112student50@example.test",
+      "email": "engl112student50@example.test"
+    }
+  },
+  {
+    "id": 3413,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1411,
+      "name": "ENGL 112 Student 51",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 51, ENGL",
+      "login_id": "engl112student51@example.test",
+      "email": "engl112student51@example.test"
+    }
+  },
+  {
+    "id": 3414,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1412,
+      "name": "ENGL 112 Student 52",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 52, ENGL",
+      "login_id": "engl112student52@example.test",
+      "email": "engl112student52@example.test"
+    }
+  },
+  {
+    "id": 3415,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1413,
+      "name": "ENGL 112 Student 53",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 53, ENGL",
+      "login_id": "engl112student53@example.test",
+      "email": "engl112student53@example.test"
+    }
+  },
+  {
+    "id": 3416,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1414,
+      "name": "ENGL 112 Student 54",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 54, ENGL",
+      "login_id": "engl112student54@example.test",
+      "email": "engl112student54@example.test"
+    }
+  },
+  {
+    "id": 3417,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1415,
+      "name": "ENGL 112 Student 55",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 55, ENGL",
+      "login_id": "engl112student55@example.test",
+      "email": "engl112student55@example.test"
+    }
+  },
+  {
+    "id": 3418,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1416,
+      "name": "ENGL 112 Student 56",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 56, ENGL",
+      "login_id": "engl112student56@example.test",
+      "email": "engl112student56@example.test"
+    }
+  },
+  {
+    "id": 3419,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1417,
+      "name": "ENGL 112 Student 57",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 57, ENGL",
+      "login_id": "engl112student57@example.test",
+      "email": "engl112student57@example.test"
+    }
+  },
+  {
+    "id": 3420,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1418,
+      "name": "ENGL 112 Student 58",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 58, ENGL",
+      "login_id": "engl112student58@example.test",
+      "email": "engl112student58@example.test"
+    }
+  },
+  {
+    "id": 3421,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1419,
+      "name": "ENGL 112 Student 59",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 59, ENGL",
+      "login_id": "engl112student59@example.test",
+      "email": "engl112student59@example.test"
+    }
+  },
+  {
+    "id": 3422,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1420,
+      "name": "ENGL 112 Student 60",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 60, ENGL",
+      "login_id": "engl112student60@example.test",
+      "email": "engl112student60@example.test"
+    }
+  },
+  {
+    "id": 3423,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1421,
+      "name": "ENGL 112 Student 61",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 61, ENGL",
+      "login_id": "engl112student61@example.test",
+      "email": "engl112student61@example.test"
+    }
+  },
+  {
+    "id": 3424,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1422,
+      "name": "ENGL 112 Student 62",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 62, ENGL",
+      "login_id": "engl112student62@example.test",
+      "email": "engl112student62@example.test"
+    }
+  },
+  {
+    "id": 3425,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1423,
+      "name": "ENGL 112 Student 63",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 63, ENGL",
+      "login_id": "engl112student63@example.test",
+      "email": "engl112student63@example.test"
+    }
+  },
+  {
+    "id": 3426,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1424,
+      "name": "ENGL 112 Student 64",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 64, ENGL",
+      "login_id": "engl112student64@example.test",
+      "email": "engl112student64@example.test"
+    }
+  },
+  {
+    "id": 3427,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1425,
+      "name": "ENGL 112 Student 65",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 65, ENGL",
+      "login_id": "engl112student65@example.test",
+      "email": "engl112student65@example.test"
+    }
+  },
+  {
+    "id": 3428,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1426,
+      "name": "ENGL 112 Student 66",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 66, ENGL",
+      "login_id": "engl112student66@example.test",
+      "email": "engl112student66@example.test"
+    }
+  },
+  {
+    "id": 3429,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1427,
+      "name": "ENGL 112 Student 67",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 67, ENGL",
+      "login_id": "engl112student67@example.test",
+      "email": "engl112student67@example.test"
+    }
+  },
+  {
+    "id": 3430,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1428,
+      "name": "ENGL 112 Student 68",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 68, ENGL",
+      "login_id": "engl112student68@example.test",
+      "email": "engl112student68@example.test"
+    }
+  },
+  {
+    "id": 3431,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1429,
+      "name": "ENGL 112 Student 69",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 69, ENGL",
+      "login_id": "engl112student69@example.test",
+      "email": "engl112student69@example.test"
+    }
+  },
+  {
+    "id": 3432,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1430,
+      "name": "ENGL 112 Student 70",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 70, ENGL",
+      "login_id": "engl112student70@example.test",
+      "email": "engl112student70@example.test"
+    }
+  },
+  {
+    "id": 3433,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1431,
+      "name": "ENGL 112 Student 71",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 71, ENGL",
+      "login_id": "engl112student71@example.test",
+      "email": "engl112student71@example.test"
+    }
+  },
+  {
+    "id": 3434,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1432,
+      "name": "ENGL 112 Student 72",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 72, ENGL",
+      "login_id": "engl112student72@example.test",
+      "email": "engl112student72@example.test"
+    }
+  },
+  {
+    "id": 3435,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1433,
+      "name": "ENGL 112 Student 73",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 73, ENGL",
+      "login_id": "engl112student73@example.test",
+      "email": "engl112student73@example.test"
+    }
+  },
+  {
+    "id": 3436,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1434,
+      "name": "ENGL 112 Student 74",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 74, ENGL",
+      "login_id": "engl112student74@example.test",
+      "email": "engl112student74@example.test"
+    }
+  },
+  {
+    "id": 3437,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1435,
+      "name": "ENGL 112 Student 75",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 75, ENGL",
+      "login_id": "engl112student75@example.test",
+      "email": "engl112student75@example.test"
+    }
+  },
+  {
+    "id": 3438,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1436,
+      "name": "ENGL 112 Student 76",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 76, ENGL",
+      "login_id": "engl112student76@example.test",
+      "email": "engl112student76@example.test"
+    }
+  },
+  {
+    "id": 3439,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1437,
+      "name": "ENGL 112 Student 77",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 77, ENGL",
+      "login_id": "engl112student77@example.test",
+      "email": "engl112student77@example.test"
+    }
+  },
+  {
+    "id": 3440,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1438,
+      "name": "ENGL 112 Student 78",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 78, ENGL",
+      "login_id": "engl112student78@example.test",
+      "email": "engl112student78@example.test"
+    }
+  },
+  {
+    "id": 3441,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1439,
+      "name": "ENGL 112 Student 79",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 79, ENGL",
+      "login_id": "engl112student79@example.test",
+      "email": "engl112student79@example.test"
+    }
+  },
+  {
+    "id": 3442,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1440,
+      "name": "ENGL 112 Student 80",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 80, ENGL",
+      "login_id": "engl112student80@example.test",
+      "email": "engl112student80@example.test"
+    }
+  },
+  {
+    "id": 3443,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1441,
+      "name": "ENGL 112 Student 81",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 81, ENGL",
+      "login_id": "engl112student81@example.test",
+      "email": "engl112student81@example.test"
+    }
+  },
+  {
+    "id": 3444,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1442,
+      "name": "ENGL 112 Student 82",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 82, ENGL",
+      "login_id": "engl112student82@example.test",
+      "email": "engl112student82@example.test"
+    }
+  },
+  {
+    "id": 3445,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1443,
+      "name": "ENGL 112 Student 83",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 83, ENGL",
+      "login_id": "engl112student83@example.test",
+      "email": "engl112student83@example.test"
+    }
+  },
+  {
+    "id": 3446,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1444,
+      "name": "ENGL 112 Student 84",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 84, ENGL",
+      "login_id": "engl112student84@example.test",
+      "email": "engl112student84@example.test"
+    }
+  },
+  {
+    "id": 3447,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1445,
+      "name": "ENGL 112 Student 85",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 85, ENGL",
+      "login_id": "engl112student85@example.test",
+      "email": "engl112student85@example.test"
+    }
+  },
+  {
+    "id": 3448,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1446,
+      "name": "ENGL 112 Student 86",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 86, ENGL",
+      "login_id": "engl112student86@example.test",
+      "email": "engl112student86@example.test"
+    }
+  },
+  {
+    "id": 3449,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1447,
+      "name": "ENGL 112 Student 87",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 87, ENGL",
+      "login_id": "engl112student87@example.test",
+      "email": "engl112student87@example.test"
+    }
+  },
+  {
+    "id": 3450,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1448,
+      "name": "ENGL 112 Student 88",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 88, ENGL",
+      "login_id": "engl112student88@example.test",
+      "email": "engl112student88@example.test"
+    }
+  },
+  {
+    "id": 3451,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1449,
+      "name": "ENGL 112 Student 89",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 89, ENGL",
+      "login_id": "engl112student89@example.test",
+      "email": "engl112student89@example.test"
+    }
+  },
+  {
+    "id": 3452,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1450,
+      "name": "ENGL 112 Student 90",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 90, ENGL",
+      "login_id": "engl112student90@example.test",
+      "email": "engl112student90@example.test"
+    }
+  },
+  {
+    "id": 3453,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1451,
+      "name": "ENGL 112 Student 91",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 91, ENGL",
+      "login_id": "engl112student91@example.test",
+      "email": "engl112student91@example.test"
+    }
+  },
+  {
+    "id": 3454,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1452,
+      "name": "ENGL 112 Student 92",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 92, ENGL",
+      "login_id": "engl112student92@example.test",
+      "email": "engl112student92@example.test"
+    }
+  },
+  {
+    "id": 3455,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1453,
+      "name": "ENGL 112 Student 93",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 93, ENGL",
+      "login_id": "engl112student93@example.test",
+      "email": "engl112student93@example.test"
+    }
+  },
+  {
+    "id": 3456,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1454,
+      "name": "ENGL 112 Student 94",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 94, ENGL",
+      "login_id": "engl112student94@example.test",
+      "email": "engl112student94@example.test"
+    }
+  },
+  {
+    "id": 3457,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1455,
+      "name": "ENGL 112 Student 95",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 95, ENGL",
+      "login_id": "engl112student95@example.test",
+      "email": "engl112student95@example.test"
+    }
+  },
+  {
+    "id": 3458,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1456,
+      "name": "ENGL 112 Student 96",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 96, ENGL",
+      "login_id": "engl112student96@example.test",
+      "email": "engl112student96@example.test"
+    }
+  },
+  {
+    "id": 3459,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1457,
+      "name": "ENGL 112 Student 97",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 97, ENGL",
+      "login_id": "engl112student97@example.test",
+      "email": "engl112student97@example.test"
+    }
+  },
+  {
+    "id": 3460,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1458,
+      "name": "ENGL 112 Student 98",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 98, ENGL",
+      "login_id": "engl112student98@example.test",
+      "email": "engl112student98@example.test"
+    }
+  },
+  {
+    "id": 3461,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1459,
+      "name": "ENGL 112 Student 99",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 99, ENGL",
+      "login_id": "engl112student99@example.test",
+      "email": "engl112student99@example.test"
+    }
+  },
+  {
+    "id": 3462,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1460,
+      "name": "ENGL 112 Student 100",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 100, ENGL",
+      "login_id": "engl112student100@example.test",
+      "email": "engl112student100@example.test"
+    }
+  },
+  {
+    "id": 3463,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1461,
+      "name": "ENGL 112 Student 101",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 101, ENGL",
+      "login_id": "engl112student101@example.test",
+      "email": "engl112student101@example.test"
+    }
+  },
+  {
+    "id": 3464,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1462,
+      "name": "ENGL 112 Student 102",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 102, ENGL",
+      "login_id": "engl112student102@example.test",
+      "email": "engl112student102@example.test"
+    }
+  },
+  {
+    "id": 3465,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1463,
+      "name": "ENGL 112 Student 103",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 103, ENGL",
+      "login_id": "engl112student103@example.test",
+      "email": "engl112student103@example.test"
+    }
+  },
+  {
+    "id": 3466,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1464,
+      "name": "ENGL 112 Student 104",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 104, ENGL",
+      "login_id": "engl112student104@example.test",
+      "email": "engl112student104@example.test"
+    }
+  },
+  {
+    "id": 3467,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1465,
+      "name": "ENGL 112 Student 105",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 105, ENGL",
+      "login_id": "engl112student105@example.test",
+      "email": "engl112student105@example.test"
+    }
+  },
+  {
+    "id": 3468,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1466,
+      "name": "ENGL 112 Student 106",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 106, ENGL",
+      "login_id": "engl112student106@example.test",
+      "email": "engl112student106@example.test"
+    }
+  },
+  {
+    "id": 3469,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1467,
+      "name": "ENGL 112 Student 107",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 107, ENGL",
+      "login_id": "engl112student107@example.test",
+      "email": "engl112student107@example.test"
+    }
+  },
+  {
+    "id": 3470,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1468,
+      "name": "ENGL 112 Student 108",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 108, ENGL",
+      "login_id": "engl112student108@example.test",
+      "email": "engl112student108@example.test"
+    }
+  },
+  {
+    "id": 3471,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1469,
+      "name": "ENGL 112 Student 109",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 109, ENGL",
+      "login_id": "engl112student109@example.test",
+      "email": "engl112student109@example.test"
+    }
+  },
+  {
+    "id": 3472,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1470,
+      "name": "ENGL 112 Student 110",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 110, ENGL",
+      "login_id": "engl112student110@example.test",
+      "email": "engl112student110@example.test"
+    }
+  },
+  {
+    "id": 3473,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1471,
+      "name": "ENGL 112 Student 111",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 111, ENGL",
+      "login_id": "engl112student111@example.test",
+      "email": "engl112student111@example.test"
+    }
+  },
+  {
+    "id": 3474,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1472,
+      "name": "ENGL 112 Student 112",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 112, ENGL",
+      "login_id": "engl112student112@example.test",
+      "email": "engl112student112@example.test"
+    }
+  },
+  {
+    "id": 3475,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1473,
+      "name": "ENGL 112 Student 113",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 113, ENGL",
+      "login_id": "engl112student113@example.test",
+      "email": "engl112student113@example.test"
+    }
+  },
+  {
+    "id": 3476,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1474,
+      "name": "ENGL 112 Student 114",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 114, ENGL",
+      "login_id": "engl112student114@example.test",
+      "email": "engl112student114@example.test"
+    }
+  },
+  {
+    "id": 3477,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1475,
+      "name": "ENGL 112 Student 115",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 115, ENGL",
+      "login_id": "engl112student115@example.test",
+      "email": "engl112student115@example.test"
+    }
+  },
+  {
+    "id": 3478,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1476,
+      "name": "ENGL 112 Student 116",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 116, ENGL",
+      "login_id": "engl112student116@example.test",
+      "email": "engl112student116@example.test"
+    }
+  },
+  {
+    "id": 3479,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1477,
+      "name": "ENGL 112 Student 117",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 117, ENGL",
+      "login_id": "engl112student117@example.test",
+      "email": "engl112student117@example.test"
+    }
+  },
+  {
+    "id": 3480,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1478,
+      "name": "ENGL 112 Student 118",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 118, ENGL",
+      "login_id": "engl112student118@example.test",
+      "email": "engl112student118@example.test"
+    }
+  },
+  {
+    "id": 3481,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1479,
+      "name": "ENGL 112 Student 119",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 119, ENGL",
+      "login_id": "engl112student119@example.test",
+      "email": "engl112student119@example.test"
+    }
+  },
+  {
+    "id": 3482,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1480,
+      "name": "ENGL 112 Student 120",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 120, ENGL",
+      "login_id": "engl112student120@example.test",
+      "email": "engl112student120@example.test"
+    }
+  },
+  {
+    "id": 3483,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1481,
+      "name": "ENGL 112 Student 121",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 121, ENGL",
+      "login_id": "engl112student121@example.test",
+      "email": "engl112student121@example.test"
+    }
+  },
+  {
+    "id": 3484,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1482,
+      "name": "ENGL 112 Student 122",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 122, ENGL",
+      "login_id": "engl112student122@example.test",
+      "email": "engl112student122@example.test"
+    }
+  },
+  {
+    "id": 3485,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1483,
+      "name": "ENGL 112 Student 123",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 123, ENGL",
+      "login_id": "engl112student123@example.test",
+      "email": "engl112student123@example.test"
+    }
+  },
+  {
+    "id": 3486,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1484,
+      "name": "ENGL 112 Student 124",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 124, ENGL",
+      "login_id": "engl112student124@example.test",
+      "email": "engl112student124@example.test"
+    }
+  },
+  {
+    "id": 3487,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1485,
+      "name": "ENGL 112 Student 125",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 125, ENGL",
+      "login_id": "engl112student125@example.test",
+      "email": "engl112student125@example.test"
+    }
+  },
+  {
+    "id": 3488,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1486,
+      "name": "ENGL 112 Student 126",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 126, ENGL",
+      "login_id": "engl112student126@example.test",
+      "email": "engl112student126@example.test"
+    }
+  },
+  {
+    "id": 3489,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1487,
+      "name": "ENGL 112 Student 127",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 127, ENGL",
+      "login_id": "engl112student127@example.test",
+      "email": "engl112student127@example.test"
+    }
+  },
+  {
+    "id": 3490,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1488,
+      "name": "ENGL 112 Student 128",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 128, ENGL",
+      "login_id": "engl112student128@example.test",
+      "email": "engl112student128@example.test"
+    }
+  },
+  {
+    "id": 3491,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1489,
+      "name": "ENGL 112 Student 129",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 129, ENGL",
+      "login_id": "engl112student129@example.test",
+      "email": "engl112student129@example.test"
+    }
+  },
+  {
+    "id": 3492,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1490,
+      "name": "ENGL 112 Student 130",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 130, ENGL",
+      "login_id": "engl112student130@example.test",
+      "email": "engl112student130@example.test"
+    }
+  },
+  {
+    "id": 3493,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1491,
+      "name": "ENGL 112 Student 131",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 131, ENGL",
+      "login_id": "engl112student131@example.test",
+      "email": "engl112student131@example.test"
+    }
+  },
+  {
+    "id": 3494,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1492,
+      "name": "ENGL 112 Student 132",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 132, ENGL",
+      "login_id": "engl112student132@example.test",
+      "email": "engl112student132@example.test"
+    }
+  },
+  {
+    "id": 3495,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1493,
+      "name": "ENGL 112 Student 133",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 133, ENGL",
+      "login_id": "engl112student133@example.test",
+      "email": "engl112student133@example.test"
+    }
+  },
+  {
+    "id": 3496,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1494,
+      "name": "ENGL 112 Student 134",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 134, ENGL",
+      "login_id": "engl112student134@example.test",
+      "email": "engl112student134@example.test"
+    }
+  },
+  {
+    "id": 3497,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1495,
+      "name": "ENGL 112 Student 135",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 135, ENGL",
+      "login_id": "engl112student135@example.test",
+      "email": "engl112student135@example.test"
+    }
+  },
+  {
+    "id": 3498,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1496,
+      "name": "ENGL 112 Student 136",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 136, ENGL",
+      "login_id": "engl112student136@example.test",
+      "email": "engl112student136@example.test"
+    }
+  },
+  {
+    "id": 3499,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1497,
+      "name": "ENGL 112 Student 137",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 137, ENGL",
+      "login_id": "engl112student137@example.test",
+      "email": "engl112student137@example.test"
+    }
+  },
+  {
+    "id": 3500,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1498,
+      "name": "ENGL 112 Student 138",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 138, ENGL",
+      "login_id": "engl112student138@example.test",
+      "email": "engl112student138@example.test"
+    }
+  },
+  {
+    "id": 3501,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1499,
+      "name": "ENGL 112 Student 139",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 139, ENGL",
+      "login_id": "engl112student139@example.test",
+      "email": "engl112student139@example.test"
+    }
+  },
+  {
+    "id": 3502,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1500,
+      "name": "ENGL 112 Student 140",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 140, ENGL",
+      "login_id": "engl112student140@example.test",
+      "email": "engl112student140@example.test"
+    }
+  },
+  {
+    "id": 3503,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1501,
+      "name": "ENGL 112 Student 141",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 141, ENGL",
+      "login_id": "engl112student141@example.test",
+      "email": "engl112student141@example.test"
+    }
+  },
+  {
+    "id": 3504,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1502,
+      "name": "ENGL 112 Student 142",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 142, ENGL",
+      "login_id": "engl112student142@example.test",
+      "email": "engl112student142@example.test"
+    }
+  },
+  {
+    "id": 3505,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1503,
+      "name": "ENGL 112 Student 143",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 143, ENGL",
+      "login_id": "engl112student143@example.test",
+      "email": "engl112student143@example.test"
+    }
+  },
+  {
+    "id": 3506,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1504,
+      "name": "ENGL 112 Student 144",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 144, ENGL",
+      "login_id": "engl112student144@example.test",
+      "email": "engl112student144@example.test"
+    }
+  },
+  {
+    "id": 3507,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1505,
+      "name": "ENGL 112 Student 145",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 145, ENGL",
+      "login_id": "engl112student145@example.test",
+      "email": "engl112student145@example.test"
+    }
+  },
+  {
+    "id": 3508,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1506,
+      "name": "ENGL 112 Student 146",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 146, ENGL",
+      "login_id": "engl112student146@example.test",
+      "email": "engl112student146@example.test"
+    }
+  },
+  {
+    "id": 3509,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1507,
+      "name": "ENGL 112 Student 147",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 147, ENGL",
+      "login_id": "engl112student147@example.test",
+      "email": "engl112student147@example.test"
+    }
+  },
+  {
+    "id": 3510,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1508,
+      "name": "ENGL 112 Student 148",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 148, ENGL",
+      "login_id": "engl112student148@example.test",
+      "email": "engl112student148@example.test"
+    }
+  },
+  {
+    "id": 3511,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1509,
+      "name": "ENGL 112 Student 149",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 149, ENGL",
+      "login_id": "engl112student149@example.test",
+      "email": "engl112student149@example.test"
+    }
+  },
+  {
+    "id": 3512,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1510,
+      "name": "ENGL 112 Student 150",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 150, ENGL",
+      "login_id": "engl112student150@example.test",
+      "email": "engl112student150@example.test"
+    }
+  },
+  {
+    "id": 3513,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1511,
+      "name": "ENGL 112 Student 151",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 151, ENGL",
+      "login_id": "engl112student151@example.test",
+      "email": "engl112student151@example.test"
+    }
+  },
+  {
+    "id": 3514,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1512,
+      "name": "ENGL 112 Student 152",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 152, ENGL",
+      "login_id": "engl112student152@example.test",
+      "email": "engl112student152@example.test"
+    }
+  },
+  {
+    "id": 3515,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1513,
+      "name": "ENGL 112 Student 153",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 153, ENGL",
+      "login_id": "engl112student153@example.test",
+      "email": "engl112student153@example.test"
+    }
+  },
+  {
+    "id": 3516,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1514,
+      "name": "ENGL 112 Student 154",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 154, ENGL",
+      "login_id": "engl112student154@example.test",
+      "email": "engl112student154@example.test"
+    }
+  },
+  {
+    "id": 3517,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1515,
+      "name": "ENGL 112 Student 155",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 155, ENGL",
+      "login_id": "engl112student155@example.test",
+      "email": "engl112student155@example.test"
+    }
+  },
+  {
+    "id": 3518,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1516,
+      "name": "ENGL 112 Student 156",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 156, ENGL",
+      "login_id": "engl112student156@example.test",
+      "email": "engl112student156@example.test"
+    }
+  },
+  {
+    "id": 3519,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1517,
+      "name": "ENGL 112 Student 157",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 157, ENGL",
+      "login_id": "engl112student157@example.test",
+      "email": "engl112student157@example.test"
+    }
+  },
+  {
+    "id": 3520,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1518,
+      "name": "ENGL 112 Student 158",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 158, ENGL",
+      "login_id": "engl112student158@example.test",
+      "email": "engl112student158@example.test"
+    }
+  },
+  {
+    "id": 3521,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1519,
+      "name": "ENGL 112 Student 159",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 159, ENGL",
+      "login_id": "engl112student159@example.test",
+      "email": "engl112student159@example.test"
+    }
+  },
+  {
+    "id": 3522,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1520,
+      "name": "ENGL 112 Student 160",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 160, ENGL",
+      "login_id": "engl112student160@example.test",
+      "email": "engl112student160@example.test"
+    }
+  },
+  {
+    "id": 3523,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1521,
+      "name": "ENGL 112 Student 161",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 161, ENGL",
+      "login_id": "engl112student161@example.test",
+      "email": "engl112student161@example.test"
+    }
+  },
+  {
+    "id": 3524,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1522,
+      "name": "ENGL 112 Student 162",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 162, ENGL",
+      "login_id": "engl112student162@example.test",
+      "email": "engl112student162@example.test"
+    }
+  },
+  {
+    "id": 3525,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1523,
+      "name": "ENGL 112 Student 163",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 163, ENGL",
+      "login_id": "engl112student163@example.test",
+      "email": "engl112student163@example.test"
+    }
+  },
+  {
+    "id": 3526,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1524,
+      "name": "ENGL 112 Student 164",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 164, ENGL",
+      "login_id": "engl112student164@example.test",
+      "email": "engl112student164@example.test"
+    }
+  },
+  {
+    "id": 3527,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1525,
+      "name": "ENGL 112 Student 165",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 165, ENGL",
+      "login_id": "engl112student165@example.test",
+      "email": "engl112student165@example.test"
+    }
+  },
+  {
+    "id": 3528,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1526,
+      "name": "ENGL 112 Student 166",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 166, ENGL",
+      "login_id": "engl112student166@example.test",
+      "email": "engl112student166@example.test"
+    }
+  },
+  {
+    "id": 3529,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1527,
+      "name": "ENGL 112 Student 167",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 167, ENGL",
+      "login_id": "engl112student167@example.test",
+      "email": "engl112student167@example.test"
+    }
+  },
+  {
+    "id": 3530,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1528,
+      "name": "ENGL 112 Student 168",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 168, ENGL",
+      "login_id": "engl112student168@example.test",
+      "email": "engl112student168@example.test"
+    }
+  },
+  {
+    "id": 3531,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1529,
+      "name": "ENGL 112 Student 169",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 169, ENGL",
+      "login_id": "engl112student169@example.test",
+      "email": "engl112student169@example.test"
+    }
+  },
+  {
+    "id": 3532,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1530,
+      "name": "ENGL 112 Student 170",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 170, ENGL",
+      "login_id": "engl112student170@example.test",
+      "email": "engl112student170@example.test"
+    }
+  },
+  {
+    "id": 3533,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1531,
+      "name": "ENGL 112 Student 171",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 171, ENGL",
+      "login_id": "engl112student171@example.test",
+      "email": "engl112student171@example.test"
+    }
+  },
+  {
+    "id": 3534,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1532,
+      "name": "ENGL 112 Student 172",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 172, ENGL",
+      "login_id": "engl112student172@example.test",
+      "email": "engl112student172@example.test"
+    }
+  },
+  {
+    "id": 3535,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1533,
+      "name": "ENGL 112 Student 173",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 173, ENGL",
+      "login_id": "engl112student173@example.test",
+      "email": "engl112student173@example.test"
+    }
+  },
+  {
+    "id": 3536,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1534,
+      "name": "ENGL 112 Student 174",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 174, ENGL",
+      "login_id": "engl112student174@example.test",
+      "email": "engl112student174@example.test"
+    }
+  },
+  {
+    "id": 3537,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1535,
+      "name": "ENGL 112 Student 175",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 175, ENGL",
+      "login_id": "engl112student175@example.test",
+      "email": "engl112student175@example.test"
+    }
+  },
+  {
+    "id": 3538,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1536,
+      "name": "ENGL 112 Student 176",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 176, ENGL",
+      "login_id": "engl112student176@example.test",
+      "email": "engl112student176@example.test"
+    }
+  },
+  {
+    "id": 3539,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1537,
+      "name": "ENGL 112 Student 177",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 177, ENGL",
+      "login_id": "engl112student177@example.test",
+      "email": "engl112student177@example.test"
+    }
+  },
+  {
+    "id": 3540,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1538,
+      "name": "ENGL 112 Student 178",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 178, ENGL",
+      "login_id": "engl112student178@example.test",
+      "email": "engl112student178@example.test"
+    }
+  },
+  {
+    "id": 3541,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1539,
+      "name": "ENGL 112 Student 179",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 179, ENGL",
+      "login_id": "engl112student179@example.test",
+      "email": "engl112student179@example.test"
+    }
+  },
+  {
+    "id": 3542,
+    "course_id": 2002,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1540,
+      "name": "ENGL 112 Student 180",
+      "short_name": "ENGL",
+      "sortable_name": "112 Student 180, ENGL",
+      "login_id": "engl112student180@example.test",
+      "email": "engl112student180@example.test"
+    }
+  }
+]

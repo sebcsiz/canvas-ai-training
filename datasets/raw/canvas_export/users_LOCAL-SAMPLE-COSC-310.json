@@ -1,0 +1,2717 @@
+[
+  {
+    "id": 3181,
+    "course_id": 2001,
+    "type": "TeacherEnrollment",
+    "role": "TeacherEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1000,
+      "name": "Taylor Teacher",
+      "short_name": "Taylor",
+      "sortable_name": "Teacher, Taylor",
+      "login_id": "teacher@example.test",
+      "email": "teacher@example.test"
+    }
+  },
+  {
+    "id": 3182,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1181,
+      "name": "COSC 310 Student 1",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 1, COSC",
+      "login_id": "cosc310student1@example.test",
+      "email": "cosc310student1@example.test"
+    }
+  },
+  {
+    "id": 3183,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1182,
+      "name": "COSC 310 Student 2",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 2, COSC",
+      "login_id": "cosc310student2@example.test",
+      "email": "cosc310student2@example.test"
+    }
+  },
+  {
+    "id": 3184,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1183,
+      "name": "COSC 310 Student 3",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 3, COSC",
+      "login_id": "cosc310student3@example.test",
+      "email": "cosc310student3@example.test"
+    }
+  },
+  {
+    "id": 3185,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1184,
+      "name": "COSC 310 Student 4",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 4, COSC",
+      "login_id": "cosc310student4@example.test",
+      "email": "cosc310student4@example.test"
+    }
+  },
+  {
+    "id": 3186,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1185,
+      "name": "COSC 310 Student 5",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 5, COSC",
+      "login_id": "cosc310student5@example.test",
+      "email": "cosc310student5@example.test"
+    }
+  },
+  {
+    "id": 3187,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1186,
+      "name": "COSC 310 Student 6",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 6, COSC",
+      "login_id": "cosc310student6@example.test",
+      "email": "cosc310student6@example.test"
+    }
+  },
+  {
+    "id": 3188,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1187,
+      "name": "COSC 310 Student 7",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 7, COSC",
+      "login_id": "cosc310student7@example.test",
+      "email": "cosc310student7@example.test"
+    }
+  },
+  {
+    "id": 3189,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1188,
+      "name": "COSC 310 Student 8",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 8, COSC",
+      "login_id": "cosc310student8@example.test",
+      "email": "cosc310student8@example.test"
+    }
+  },
+  {
+    "id": 3190,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1189,
+      "name": "COSC 310 Student 9",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 9, COSC",
+      "login_id": "cosc310student9@example.test",
+      "email": "cosc310student9@example.test"
+    }
+  },
+  {
+    "id": 3191,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1190,
+      "name": "COSC 310 Student 10",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 10, COSC",
+      "login_id": "cosc310student10@example.test",
+      "email": "cosc310student10@example.test"
+    }
+  },
+  {
+    "id": 3192,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1191,
+      "name": "COSC 310 Student 11",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 11, COSC",
+      "login_id": "cosc310student11@example.test",
+      "email": "cosc310student11@example.test"
+    }
+  },
+  {
+    "id": 3193,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1192,
+      "name": "COSC 310 Student 12",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 12, COSC",
+      "login_id": "cosc310student12@example.test",
+      "email": "cosc310student12@example.test"
+    }
+  },
+  {
+    "id": 3194,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1193,
+      "name": "COSC 310 Student 13",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 13, COSC",
+      "login_id": "cosc310student13@example.test",
+      "email": "cosc310student13@example.test"
+    }
+  },
+  {
+    "id": 3195,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1194,
+      "name": "COSC 310 Student 14",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 14, COSC",
+      "login_id": "cosc310student14@example.test",
+      "email": "cosc310student14@example.test"
+    }
+  },
+  {
+    "id": 3196,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1195,
+      "name": "COSC 310 Student 15",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 15, COSC",
+      "login_id": "cosc310student15@example.test",
+      "email": "cosc310student15@example.test"
+    }
+  },
+  {
+    "id": 3197,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1196,
+      "name": "COSC 310 Student 16",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 16, COSC",
+      "login_id": "cosc310student16@example.test",
+      "email": "cosc310student16@example.test"
+    }
+  },
+  {
+    "id": 3198,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1197,
+      "name": "COSC 310 Student 17",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 17, COSC",
+      "login_id": "cosc310student17@example.test",
+      "email": "cosc310student17@example.test"
+    }
+  },
+  {
+    "id": 3199,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1198,
+      "name": "COSC 310 Student 18",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 18, COSC",
+      "login_id": "cosc310student18@example.test",
+      "email": "cosc310student18@example.test"
+    }
+  },
+  {
+    "id": 3200,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1199,
+      "name": "COSC 310 Student 19",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 19, COSC",
+      "login_id": "cosc310student19@example.test",
+      "email": "cosc310student19@example.test"
+    }
+  },
+  {
+    "id": 3201,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1200,
+      "name": "COSC 310 Student 20",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 20, COSC",
+      "login_id": "cosc310student20@example.test",
+      "email": "cosc310student20@example.test"
+    }
+  },
+  {
+    "id": 3202,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1201,
+      "name": "COSC 310 Student 21",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 21, COSC",
+      "login_id": "cosc310student21@example.test",
+      "email": "cosc310student21@example.test"
+    }
+  },
+  {
+    "id": 3203,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1202,
+      "name": "COSC 310 Student 22",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 22, COSC",
+      "login_id": "cosc310student22@example.test",
+      "email": "cosc310student22@example.test"
+    }
+  },
+  {
+    "id": 3204,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1203,
+      "name": "COSC 310 Student 23",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 23, COSC",
+      "login_id": "cosc310student23@example.test",
+      "email": "cosc310student23@example.test"
+    }
+  },
+  {
+    "id": 3205,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1204,
+      "name": "COSC 310 Student 24",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 24, COSC",
+      "login_id": "cosc310student24@example.test",
+      "email": "cosc310student24@example.test"
+    }
+  },
+  {
+    "id": 3206,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1205,
+      "name": "COSC 310 Student 25",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 25, COSC",
+      "login_id": "cosc310student25@example.test",
+      "email": "cosc310student25@example.test"
+    }
+  },
+  {
+    "id": 3207,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1206,
+      "name": "COSC 310 Student 26",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 26, COSC",
+      "login_id": "cosc310student26@example.test",
+      "email": "cosc310student26@example.test"
+    }
+  },
+  {
+    "id": 3208,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1207,
+      "name": "COSC 310 Student 27",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 27, COSC",
+      "login_id": "cosc310student27@example.test",
+      "email": "cosc310student27@example.test"
+    }
+  },
+  {
+    "id": 3209,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1208,
+      "name": "COSC 310 Student 28",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 28, COSC",
+      "login_id": "cosc310student28@example.test",
+      "email": "cosc310student28@example.test"
+    }
+  },
+  {
+    "id": 3210,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1209,
+      "name": "COSC 310 Student 29",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 29, COSC",
+      "login_id": "cosc310student29@example.test",
+      "email": "cosc310student29@example.test"
+    }
+  },
+  {
+    "id": 3211,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1210,
+      "name": "COSC 310 Student 30",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 30, COSC",
+      "login_id": "cosc310student30@example.test",
+      "email": "cosc310student30@example.test"
+    }
+  },
+  {
+    "id": 3212,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1211,
+      "name": "COSC 310 Student 31",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 31, COSC",
+      "login_id": "cosc310student31@example.test",
+      "email": "cosc310student31@example.test"
+    }
+  },
+  {
+    "id": 3213,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1212,
+      "name": "COSC 310 Student 32",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 32, COSC",
+      "login_id": "cosc310student32@example.test",
+      "email": "cosc310student32@example.test"
+    }
+  },
+  {
+    "id": 3214,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1213,
+      "name": "COSC 310 Student 33",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 33, COSC",
+      "login_id": "cosc310student33@example.test",
+      "email": "cosc310student33@example.test"
+    }
+  },
+  {
+    "id": 3215,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1214,
+      "name": "COSC 310 Student 34",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 34, COSC",
+      "login_id": "cosc310student34@example.test",
+      "email": "cosc310student34@example.test"
+    }
+  },
+  {
+    "id": 3216,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1215,
+      "name": "COSC 310 Student 35",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 35, COSC",
+      "login_id": "cosc310student35@example.test",
+      "email": "cosc310student35@example.test"
+    }
+  },
+  {
+    "id": 3217,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1216,
+      "name": "COSC 310 Student 36",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 36, COSC",
+      "login_id": "cosc310student36@example.test",
+      "email": "cosc310student36@example.test"
+    }
+  },
+  {
+    "id": 3218,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1217,
+      "name": "COSC 310 Student 37",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 37, COSC",
+      "login_id": "cosc310student37@example.test",
+      "email": "cosc310student37@example.test"
+    }
+  },
+  {
+    "id": 3219,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1218,
+      "name": "COSC 310 Student 38",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 38, COSC",
+      "login_id": "cosc310student38@example.test",
+      "email": "cosc310student38@example.test"
+    }
+  },
+  {
+    "id": 3220,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1219,
+      "name": "COSC 310 Student 39",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 39, COSC",
+      "login_id": "cosc310student39@example.test",
+      "email": "cosc310student39@example.test"
+    }
+  },
+  {
+    "id": 3221,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1220,
+      "name": "COSC 310 Student 40",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 40, COSC",
+      "login_id": "cosc310student40@example.test",
+      "email": "cosc310student40@example.test"
+    }
+  },
+  {
+    "id": 3222,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1221,
+      "name": "COSC 310 Student 41",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 41, COSC",
+      "login_id": "cosc310student41@example.test",
+      "email": "cosc310student41@example.test"
+    }
+  },
+  {
+    "id": 3223,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1222,
+      "name": "COSC 310 Student 42",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 42, COSC",
+      "login_id": "cosc310student42@example.test",
+      "email": "cosc310student42@example.test"
+    }
+  },
+  {
+    "id": 3224,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1223,
+      "name": "COSC 310 Student 43",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 43, COSC",
+      "login_id": "cosc310student43@example.test",
+      "email": "cosc310student43@example.test"
+    }
+  },
+  {
+    "id": 3225,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1224,
+      "name": "COSC 310 Student 44",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 44, COSC",
+      "login_id": "cosc310student44@example.test",
+      "email": "cosc310student44@example.test"
+    }
+  },
+  {
+    "id": 3226,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1225,
+      "name": "COSC 310 Student 45",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 45, COSC",
+      "login_id": "cosc310student45@example.test",
+      "email": "cosc310student45@example.test"
+    }
+  },
+  {
+    "id": 3227,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1226,
+      "name": "COSC 310 Student 46",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 46, COSC",
+      "login_id": "cosc310student46@example.test",
+      "email": "cosc310student46@example.test"
+    }
+  },
+  {
+    "id": 3228,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1227,
+      "name": "COSC 310 Student 47",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 47, COSC",
+      "login_id": "cosc310student47@example.test",
+      "email": "cosc310student47@example.test"
+    }
+  },
+  {
+    "id": 3229,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1228,
+      "name": "COSC 310 Student 48",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 48, COSC",
+      "login_id": "cosc310student48@example.test",
+      "email": "cosc310student48@example.test"
+    }
+  },
+  {
+    "id": 3230,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1229,
+      "name": "COSC 310 Student 49",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 49, COSC",
+      "login_id": "cosc310student49@example.test",
+      "email": "cosc310student49@example.test"
+    }
+  },
+  {
+    "id": 3231,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1230,
+      "name": "COSC 310 Student 50",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 50, COSC",
+      "login_id": "cosc310student50@example.test",
+      "email": "cosc310student50@example.test"
+    }
+  },
+  {
+    "id": 3232,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1231,
+      "name": "COSC 310 Student 51",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 51, COSC",
+      "login_id": "cosc310student51@example.test",
+      "email": "cosc310student51@example.test"
+    }
+  },
+  {
+    "id": 3233,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1232,
+      "name": "COSC 310 Student 52",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 52, COSC",
+      "login_id": "cosc310student52@example.test",
+      "email": "cosc310student52@example.test"
+    }
+  },
+  {
+    "id": 3234,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1233,
+      "name": "COSC 310 Student 53",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 53, COSC",
+      "login_id": "cosc310student53@example.test",
+      "email": "cosc310student53@example.test"
+    }
+  },
+  {
+    "id": 3235,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1234,
+      "name": "COSC 310 Student 54",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 54, COSC",
+      "login_id": "cosc310student54@example.test",
+      "email": "cosc310student54@example.test"
+    }
+  },
+  {
+    "id": 3236,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1235,
+      "name": "COSC 310 Student 55",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 55, COSC",
+      "login_id": "cosc310student55@example.test",
+      "email": "cosc310student55@example.test"
+    }
+  },
+  {
+    "id": 3237,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1236,
+      "name": "COSC 310 Student 56",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 56, COSC",
+      "login_id": "cosc310student56@example.test",
+      "email": "cosc310student56@example.test"
+    }
+  },
+  {
+    "id": 3238,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1237,
+      "name": "COSC 310 Student 57",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 57, COSC",
+      "login_id": "cosc310student57@example.test",
+      "email": "cosc310student57@example.test"
+    }
+  },
+  {
+    "id": 3239,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1238,
+      "name": "COSC 310 Student 58",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 58, COSC",
+      "login_id": "cosc310student58@example.test",
+      "email": "cosc310student58@example.test"
+    }
+  },
+  {
+    "id": 3240,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1239,
+      "name": "COSC 310 Student 59",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 59, COSC",
+      "login_id": "cosc310student59@example.test",
+      "email": "cosc310student59@example.test"
+    }
+  },
+  {
+    "id": 3241,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1240,
+      "name": "COSC 310 Student 60",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 60, COSC",
+      "login_id": "cosc310student60@example.test",
+      "email": "cosc310student60@example.test"
+    }
+  },
+  {
+    "id": 3242,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1241,
+      "name": "COSC 310 Student 61",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 61, COSC",
+      "login_id": "cosc310student61@example.test",
+      "email": "cosc310student61@example.test"
+    }
+  },
+  {
+    "id": 3243,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1242,
+      "name": "COSC 310 Student 62",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 62, COSC",
+      "login_id": "cosc310student62@example.test",
+      "email": "cosc310student62@example.test"
+    }
+  },
+  {
+    "id": 3244,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1243,
+      "name": "COSC 310 Student 63",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 63, COSC",
+      "login_id": "cosc310student63@example.test",
+      "email": "cosc310student63@example.test"
+    }
+  },
+  {
+    "id": 3245,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1244,
+      "name": "COSC 310 Student 64",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 64, COSC",
+      "login_id": "cosc310student64@example.test",
+      "email": "cosc310student64@example.test"
+    }
+  },
+  {
+    "id": 3246,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1245,
+      "name": "COSC 310 Student 65",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 65, COSC",
+      "login_id": "cosc310student65@example.test",
+      "email": "cosc310student65@example.test"
+    }
+  },
+  {
+    "id": 3247,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1246,
+      "name": "COSC 310 Student 66",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 66, COSC",
+      "login_id": "cosc310student66@example.test",
+      "email": "cosc310student66@example.test"
+    }
+  },
+  {
+    "id": 3248,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1247,
+      "name": "COSC 310 Student 67",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 67, COSC",
+      "login_id": "cosc310student67@example.test",
+      "email": "cosc310student67@example.test"
+    }
+  },
+  {
+    "id": 3249,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1248,
+      "name": "COSC 310 Student 68",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 68, COSC",
+      "login_id": "cosc310student68@example.test",
+      "email": "cosc310student68@example.test"
+    }
+  },
+  {
+    "id": 3250,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1249,
+      "name": "COSC 310 Student 69",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 69, COSC",
+      "login_id": "cosc310student69@example.test",
+      "email": "cosc310student69@example.test"
+    }
+  },
+  {
+    "id": 3251,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1250,
+      "name": "COSC 310 Student 70",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 70, COSC",
+      "login_id": "cosc310student70@example.test",
+      "email": "cosc310student70@example.test"
+    }
+  },
+  {
+    "id": 3252,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1251,
+      "name": "COSC 310 Student 71",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 71, COSC",
+      "login_id": "cosc310student71@example.test",
+      "email": "cosc310student71@example.test"
+    }
+  },
+  {
+    "id": 3253,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1252,
+      "name": "COSC 310 Student 72",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 72, COSC",
+      "login_id": "cosc310student72@example.test",
+      "email": "cosc310student72@example.test"
+    }
+  },
+  {
+    "id": 3254,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1253,
+      "name": "COSC 310 Student 73",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 73, COSC",
+      "login_id": "cosc310student73@example.test",
+      "email": "cosc310student73@example.test"
+    }
+  },
+  {
+    "id": 3255,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1254,
+      "name": "COSC 310 Student 74",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 74, COSC",
+      "login_id": "cosc310student74@example.test",
+      "email": "cosc310student74@example.test"
+    }
+  },
+  {
+    "id": 3256,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1255,
+      "name": "COSC 310 Student 75",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 75, COSC",
+      "login_id": "cosc310student75@example.test",
+      "email": "cosc310student75@example.test"
+    }
+  },
+  {
+    "id": 3257,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1256,
+      "name": "COSC 310 Student 76",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 76, COSC",
+      "login_id": "cosc310student76@example.test",
+      "email": "cosc310student76@example.test"
+    }
+  },
+  {
+    "id": 3258,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1257,
+      "name": "COSC 310 Student 77",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 77, COSC",
+      "login_id": "cosc310student77@example.test",
+      "email": "cosc310student77@example.test"
+    }
+  },
+  {
+    "id": 3259,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1258,
+      "name": "COSC 310 Student 78",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 78, COSC",
+      "login_id": "cosc310student78@example.test",
+      "email": "cosc310student78@example.test"
+    }
+  },
+  {
+    "id": 3260,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1259,
+      "name": "COSC 310 Student 79",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 79, COSC",
+      "login_id": "cosc310student79@example.test",
+      "email": "cosc310student79@example.test"
+    }
+  },
+  {
+    "id": 3261,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1260,
+      "name": "COSC 310 Student 80",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 80, COSC",
+      "login_id": "cosc310student80@example.test",
+      "email": "cosc310student80@example.test"
+    }
+  },
+  {
+    "id": 3262,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1261,
+      "name": "COSC 310 Student 81",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 81, COSC",
+      "login_id": "cosc310student81@example.test",
+      "email": "cosc310student81@example.test"
+    }
+  },
+  {
+    "id": 3263,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1262,
+      "name": "COSC 310 Student 82",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 82, COSC",
+      "login_id": "cosc310student82@example.test",
+      "email": "cosc310student82@example.test"
+    }
+  },
+  {
+    "id": 3264,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1263,
+      "name": "COSC 310 Student 83",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 83, COSC",
+      "login_id": "cosc310student83@example.test",
+      "email": "cosc310student83@example.test"
+    }
+  },
+  {
+    "id": 3265,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1264,
+      "name": "COSC 310 Student 84",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 84, COSC",
+      "login_id": "cosc310student84@example.test",
+      "email": "cosc310student84@example.test"
+    }
+  },
+  {
+    "id": 3266,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1265,
+      "name": "COSC 310 Student 85",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 85, COSC",
+      "login_id": "cosc310student85@example.test",
+      "email": "cosc310student85@example.test"
+    }
+  },
+  {
+    "id": 3267,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1266,
+      "name": "COSC 310 Student 86",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 86, COSC",
+      "login_id": "cosc310student86@example.test",
+      "email": "cosc310student86@example.test"
+    }
+  },
+  {
+    "id": 3268,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1267,
+      "name": "COSC 310 Student 87",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 87, COSC",
+      "login_id": "cosc310student87@example.test",
+      "email": "cosc310student87@example.test"
+    }
+  },
+  {
+    "id": 3269,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1268,
+      "name": "COSC 310 Student 88",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 88, COSC",
+      "login_id": "cosc310student88@example.test",
+      "email": "cosc310student88@example.test"
+    }
+  },
+  {
+    "id": 3270,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1269,
+      "name": "COSC 310 Student 89",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 89, COSC",
+      "login_id": "cosc310student89@example.test",
+      "email": "cosc310student89@example.test"
+    }
+  },
+  {
+    "id": 3271,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1270,
+      "name": "COSC 310 Student 90",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 90, COSC",
+      "login_id": "cosc310student90@example.test",
+      "email": "cosc310student90@example.test"
+    }
+  },
+  {
+    "id": 3272,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1271,
+      "name": "COSC 310 Student 91",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 91, COSC",
+      "login_id": "cosc310student91@example.test",
+      "email": "cosc310student91@example.test"
+    }
+  },
+  {
+    "id": 3273,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1272,
+      "name": "COSC 310 Student 92",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 92, COSC",
+      "login_id": "cosc310student92@example.test",
+      "email": "cosc310student92@example.test"
+    }
+  },
+  {
+    "id": 3274,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1273,
+      "name": "COSC 310 Student 93",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 93, COSC",
+      "login_id": "cosc310student93@example.test",
+      "email": "cosc310student93@example.test"
+    }
+  },
+  {
+    "id": 3275,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1274,
+      "name": "COSC 310 Student 94",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 94, COSC",
+      "login_id": "cosc310student94@example.test",
+      "email": "cosc310student94@example.test"
+    }
+  },
+  {
+    "id": 3276,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1275,
+      "name": "COSC 310 Student 95",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 95, COSC",
+      "login_id": "cosc310student95@example.test",
+      "email": "cosc310student95@example.test"
+    }
+  },
+  {
+    "id": 3277,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1276,
+      "name": "COSC 310 Student 96",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 96, COSC",
+      "login_id": "cosc310student96@example.test",
+      "email": "cosc310student96@example.test"
+    }
+  },
+  {
+    "id": 3278,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1277,
+      "name": "COSC 310 Student 97",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 97, COSC",
+      "login_id": "cosc310student97@example.test",
+      "email": "cosc310student97@example.test"
+    }
+  },
+  {
+    "id": 3279,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1278,
+      "name": "COSC 310 Student 98",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 98, COSC",
+      "login_id": "cosc310student98@example.test",
+      "email": "cosc310student98@example.test"
+    }
+  },
+  {
+    "id": 3280,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1279,
+      "name": "COSC 310 Student 99",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 99, COSC",
+      "login_id": "cosc310student99@example.test",
+      "email": "cosc310student99@example.test"
+    }
+  },
+  {
+    "id": 3281,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1280,
+      "name": "COSC 310 Student 100",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 100, COSC",
+      "login_id": "cosc310student100@example.test",
+      "email": "cosc310student100@example.test"
+    }
+  },
+  {
+    "id": 3282,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1281,
+      "name": "COSC 310 Student 101",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 101, COSC",
+      "login_id": "cosc310student101@example.test",
+      "email": "cosc310student101@example.test"
+    }
+  },
+  {
+    "id": 3283,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1282,
+      "name": "COSC 310 Student 102",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 102, COSC",
+      "login_id": "cosc310student102@example.test",
+      "email": "cosc310student102@example.test"
+    }
+  },
+  {
+    "id": 3284,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1283,
+      "name": "COSC 310 Student 103",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 103, COSC",
+      "login_id": "cosc310student103@example.test",
+      "email": "cosc310student103@example.test"
+    }
+  },
+  {
+    "id": 3285,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1284,
+      "name": "COSC 310 Student 104",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 104, COSC",
+      "login_id": "cosc310student104@example.test",
+      "email": "cosc310student104@example.test"
+    }
+  },
+  {
+    "id": 3286,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1285,
+      "name": "COSC 310 Student 105",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 105, COSC",
+      "login_id": "cosc310student105@example.test",
+      "email": "cosc310student105@example.test"
+    }
+  },
+  {
+    "id": 3287,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1286,
+      "name": "COSC 310 Student 106",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 106, COSC",
+      "login_id": "cosc310student106@example.test",
+      "email": "cosc310student106@example.test"
+    }
+  },
+  {
+    "id": 3288,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1287,
+      "name": "COSC 310 Student 107",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 107, COSC",
+      "login_id": "cosc310student107@example.test",
+      "email": "cosc310student107@example.test"
+    }
+  },
+  {
+    "id": 3289,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1288,
+      "name": "COSC 310 Student 108",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 108, COSC",
+      "login_id": "cosc310student108@example.test",
+      "email": "cosc310student108@example.test"
+    }
+  },
+  {
+    "id": 3290,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1289,
+      "name": "COSC 310 Student 109",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 109, COSC",
+      "login_id": "cosc310student109@example.test",
+      "email": "cosc310student109@example.test"
+    }
+  },
+  {
+    "id": 3291,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1290,
+      "name": "COSC 310 Student 110",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 110, COSC",
+      "login_id": "cosc310student110@example.test",
+      "email": "cosc310student110@example.test"
+    }
+  },
+  {
+    "id": 3292,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1291,
+      "name": "COSC 310 Student 111",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 111, COSC",
+      "login_id": "cosc310student111@example.test",
+      "email": "cosc310student111@example.test"
+    }
+  },
+  {
+    "id": 3293,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1292,
+      "name": "COSC 310 Student 112",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 112, COSC",
+      "login_id": "cosc310student112@example.test",
+      "email": "cosc310student112@example.test"
+    }
+  },
+  {
+    "id": 3294,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1293,
+      "name": "COSC 310 Student 113",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 113, COSC",
+      "login_id": "cosc310student113@example.test",
+      "email": "cosc310student113@example.test"
+    }
+  },
+  {
+    "id": 3295,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1294,
+      "name": "COSC 310 Student 114",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 114, COSC",
+      "login_id": "cosc310student114@example.test",
+      "email": "cosc310student114@example.test"
+    }
+  },
+  {
+    "id": 3296,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1295,
+      "name": "COSC 310 Student 115",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 115, COSC",
+      "login_id": "cosc310student115@example.test",
+      "email": "cosc310student115@example.test"
+    }
+  },
+  {
+    "id": 3297,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1296,
+      "name": "COSC 310 Student 116",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 116, COSC",
+      "login_id": "cosc310student116@example.test",
+      "email": "cosc310student116@example.test"
+    }
+  },
+  {
+    "id": 3298,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1297,
+      "name": "COSC 310 Student 117",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 117, COSC",
+      "login_id": "cosc310student117@example.test",
+      "email": "cosc310student117@example.test"
+    }
+  },
+  {
+    "id": 3299,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1298,
+      "name": "COSC 310 Student 118",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 118, COSC",
+      "login_id": "cosc310student118@example.test",
+      "email": "cosc310student118@example.test"
+    }
+  },
+  {
+    "id": 3300,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1299,
+      "name": "COSC 310 Student 119",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 119, COSC",
+      "login_id": "cosc310student119@example.test",
+      "email": "cosc310student119@example.test"
+    }
+  },
+  {
+    "id": 3301,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1300,
+      "name": "COSC 310 Student 120",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 120, COSC",
+      "login_id": "cosc310student120@example.test",
+      "email": "cosc310student120@example.test"
+    }
+  },
+  {
+    "id": 3302,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1301,
+      "name": "COSC 310 Student 121",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 121, COSC",
+      "login_id": "cosc310student121@example.test",
+      "email": "cosc310student121@example.test"
+    }
+  },
+  {
+    "id": 3303,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1302,
+      "name": "COSC 310 Student 122",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 122, COSC",
+      "login_id": "cosc310student122@example.test",
+      "email": "cosc310student122@example.test"
+    }
+  },
+  {
+    "id": 3304,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1303,
+      "name": "COSC 310 Student 123",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 123, COSC",
+      "login_id": "cosc310student123@example.test",
+      "email": "cosc310student123@example.test"
+    }
+  },
+  {
+    "id": 3305,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1304,
+      "name": "COSC 310 Student 124",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 124, COSC",
+      "login_id": "cosc310student124@example.test",
+      "email": "cosc310student124@example.test"
+    }
+  },
+  {
+    "id": 3306,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1305,
+      "name": "COSC 310 Student 125",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 125, COSC",
+      "login_id": "cosc310student125@example.test",
+      "email": "cosc310student125@example.test"
+    }
+  },
+  {
+    "id": 3307,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1306,
+      "name": "COSC 310 Student 126",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 126, COSC",
+      "login_id": "cosc310student126@example.test",
+      "email": "cosc310student126@example.test"
+    }
+  },
+  {
+    "id": 3308,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1307,
+      "name": "COSC 310 Student 127",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 127, COSC",
+      "login_id": "cosc310student127@example.test",
+      "email": "cosc310student127@example.test"
+    }
+  },
+  {
+    "id": 3309,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1308,
+      "name": "COSC 310 Student 128",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 128, COSC",
+      "login_id": "cosc310student128@example.test",
+      "email": "cosc310student128@example.test"
+    }
+  },
+  {
+    "id": 3310,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1309,
+      "name": "COSC 310 Student 129",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 129, COSC",
+      "login_id": "cosc310student129@example.test",
+      "email": "cosc310student129@example.test"
+    }
+  },
+  {
+    "id": 3311,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1310,
+      "name": "COSC 310 Student 130",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 130, COSC",
+      "login_id": "cosc310student130@example.test",
+      "email": "cosc310student130@example.test"
+    }
+  },
+  {
+    "id": 3312,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1311,
+      "name": "COSC 310 Student 131",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 131, COSC",
+      "login_id": "cosc310student131@example.test",
+      "email": "cosc310student131@example.test"
+    }
+  },
+  {
+    "id": 3313,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1312,
+      "name": "COSC 310 Student 132",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 132, COSC",
+      "login_id": "cosc310student132@example.test",
+      "email": "cosc310student132@example.test"
+    }
+  },
+  {
+    "id": 3314,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1313,
+      "name": "COSC 310 Student 133",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 133, COSC",
+      "login_id": "cosc310student133@example.test",
+      "email": "cosc310student133@example.test"
+    }
+  },
+  {
+    "id": 3315,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1314,
+      "name": "COSC 310 Student 134",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 134, COSC",
+      "login_id": "cosc310student134@example.test",
+      "email": "cosc310student134@example.test"
+    }
+  },
+  {
+    "id": 3316,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1315,
+      "name": "COSC 310 Student 135",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 135, COSC",
+      "login_id": "cosc310student135@example.test",
+      "email": "cosc310student135@example.test"
+    }
+  },
+  {
+    "id": 3317,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1316,
+      "name": "COSC 310 Student 136",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 136, COSC",
+      "login_id": "cosc310student136@example.test",
+      "email": "cosc310student136@example.test"
+    }
+  },
+  {
+    "id": 3318,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1317,
+      "name": "COSC 310 Student 137",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 137, COSC",
+      "login_id": "cosc310student137@example.test",
+      "email": "cosc310student137@example.test"
+    }
+  },
+  {
+    "id": 3319,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1318,
+      "name": "COSC 310 Student 138",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 138, COSC",
+      "login_id": "cosc310student138@example.test",
+      "email": "cosc310student138@example.test"
+    }
+  },
+  {
+    "id": 3320,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1319,
+      "name": "COSC 310 Student 139",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 139, COSC",
+      "login_id": "cosc310student139@example.test",
+      "email": "cosc310student139@example.test"
+    }
+  },
+  {
+    "id": 3321,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1320,
+      "name": "COSC 310 Student 140",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 140, COSC",
+      "login_id": "cosc310student140@example.test",
+      "email": "cosc310student140@example.test"
+    }
+  },
+  {
+    "id": 3322,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1321,
+      "name": "COSC 310 Student 141",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 141, COSC",
+      "login_id": "cosc310student141@example.test",
+      "email": "cosc310student141@example.test"
+    }
+  },
+  {
+    "id": 3323,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1322,
+      "name": "COSC 310 Student 142",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 142, COSC",
+      "login_id": "cosc310student142@example.test",
+      "email": "cosc310student142@example.test"
+    }
+  },
+  {
+    "id": 3324,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1323,
+      "name": "COSC 310 Student 143",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 143, COSC",
+      "login_id": "cosc310student143@example.test",
+      "email": "cosc310student143@example.test"
+    }
+  },
+  {
+    "id": 3325,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1324,
+      "name": "COSC 310 Student 144",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 144, COSC",
+      "login_id": "cosc310student144@example.test",
+      "email": "cosc310student144@example.test"
+    }
+  },
+  {
+    "id": 3326,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1325,
+      "name": "COSC 310 Student 145",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 145, COSC",
+      "login_id": "cosc310student145@example.test",
+      "email": "cosc310student145@example.test"
+    }
+  },
+  {
+    "id": 3327,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1326,
+      "name": "COSC 310 Student 146",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 146, COSC",
+      "login_id": "cosc310student146@example.test",
+      "email": "cosc310student146@example.test"
+    }
+  },
+  {
+    "id": 3328,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1327,
+      "name": "COSC 310 Student 147",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 147, COSC",
+      "login_id": "cosc310student147@example.test",
+      "email": "cosc310student147@example.test"
+    }
+  },
+  {
+    "id": 3329,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1328,
+      "name": "COSC 310 Student 148",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 148, COSC",
+      "login_id": "cosc310student148@example.test",
+      "email": "cosc310student148@example.test"
+    }
+  },
+  {
+    "id": 3330,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1329,
+      "name": "COSC 310 Student 149",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 149, COSC",
+      "login_id": "cosc310student149@example.test",
+      "email": "cosc310student149@example.test"
+    }
+  },
+  {
+    "id": 3331,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1330,
+      "name": "COSC 310 Student 150",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 150, COSC",
+      "login_id": "cosc310student150@example.test",
+      "email": "cosc310student150@example.test"
+    }
+  },
+  {
+    "id": 3332,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1331,
+      "name": "COSC 310 Student 151",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 151, COSC",
+      "login_id": "cosc310student151@example.test",
+      "email": "cosc310student151@example.test"
+    }
+  },
+  {
+    "id": 3333,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1332,
+      "name": "COSC 310 Student 152",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 152, COSC",
+      "login_id": "cosc310student152@example.test",
+      "email": "cosc310student152@example.test"
+    }
+  },
+  {
+    "id": 3334,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1333,
+      "name": "COSC 310 Student 153",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 153, COSC",
+      "login_id": "cosc310student153@example.test",
+      "email": "cosc310student153@example.test"
+    }
+  },
+  {
+    "id": 3335,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1334,
+      "name": "COSC 310 Student 154",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 154, COSC",
+      "login_id": "cosc310student154@example.test",
+      "email": "cosc310student154@example.test"
+    }
+  },
+  {
+    "id": 3336,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1335,
+      "name": "COSC 310 Student 155",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 155, COSC",
+      "login_id": "cosc310student155@example.test",
+      "email": "cosc310student155@example.test"
+    }
+  },
+  {
+    "id": 3337,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1336,
+      "name": "COSC 310 Student 156",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 156, COSC",
+      "login_id": "cosc310student156@example.test",
+      "email": "cosc310student156@example.test"
+    }
+  },
+  {
+    "id": 3338,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1337,
+      "name": "COSC 310 Student 157",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 157, COSC",
+      "login_id": "cosc310student157@example.test",
+      "email": "cosc310student157@example.test"
+    }
+  },
+  {
+    "id": 3339,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1338,
+      "name": "COSC 310 Student 158",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 158, COSC",
+      "login_id": "cosc310student158@example.test",
+      "email": "cosc310student158@example.test"
+    }
+  },
+  {
+    "id": 3340,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1339,
+      "name": "COSC 310 Student 159",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 159, COSC",
+      "login_id": "cosc310student159@example.test",
+      "email": "cosc310student159@example.test"
+    }
+  },
+  {
+    "id": 3341,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1340,
+      "name": "COSC 310 Student 160",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 160, COSC",
+      "login_id": "cosc310student160@example.test",
+      "email": "cosc310student160@example.test"
+    }
+  },
+  {
+    "id": 3342,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1341,
+      "name": "COSC 310 Student 161",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 161, COSC",
+      "login_id": "cosc310student161@example.test",
+      "email": "cosc310student161@example.test"
+    }
+  },
+  {
+    "id": 3343,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1342,
+      "name": "COSC 310 Student 162",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 162, COSC",
+      "login_id": "cosc310student162@example.test",
+      "email": "cosc310student162@example.test"
+    }
+  },
+  {
+    "id": 3344,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1343,
+      "name": "COSC 310 Student 163",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 163, COSC",
+      "login_id": "cosc310student163@example.test",
+      "email": "cosc310student163@example.test"
+    }
+  },
+  {
+    "id": 3345,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1344,
+      "name": "COSC 310 Student 164",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 164, COSC",
+      "login_id": "cosc310student164@example.test",
+      "email": "cosc310student164@example.test"
+    }
+  },
+  {
+    "id": 3346,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1345,
+      "name": "COSC 310 Student 165",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 165, COSC",
+      "login_id": "cosc310student165@example.test",
+      "email": "cosc310student165@example.test"
+    }
+  },
+  {
+    "id": 3347,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1346,
+      "name": "COSC 310 Student 166",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 166, COSC",
+      "login_id": "cosc310student166@example.test",
+      "email": "cosc310student166@example.test"
+    }
+  },
+  {
+    "id": 3348,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1347,
+      "name": "COSC 310 Student 167",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 167, COSC",
+      "login_id": "cosc310student167@example.test",
+      "email": "cosc310student167@example.test"
+    }
+  },
+  {
+    "id": 3349,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1348,
+      "name": "COSC 310 Student 168",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 168, COSC",
+      "login_id": "cosc310student168@example.test",
+      "email": "cosc310student168@example.test"
+    }
+  },
+  {
+    "id": 3350,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1349,
+      "name": "COSC 310 Student 169",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 169, COSC",
+      "login_id": "cosc310student169@example.test",
+      "email": "cosc310student169@example.test"
+    }
+  },
+  {
+    "id": 3351,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1350,
+      "name": "COSC 310 Student 170",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 170, COSC",
+      "login_id": "cosc310student170@example.test",
+      "email": "cosc310student170@example.test"
+    }
+  },
+  {
+    "id": 3352,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1351,
+      "name": "COSC 310 Student 171",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 171, COSC",
+      "login_id": "cosc310student171@example.test",
+      "email": "cosc310student171@example.test"
+    }
+  },
+  {
+    "id": 3353,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1352,
+      "name": "COSC 310 Student 172",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 172, COSC",
+      "login_id": "cosc310student172@example.test",
+      "email": "cosc310student172@example.test"
+    }
+  },
+  {
+    "id": 3354,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1353,
+      "name": "COSC 310 Student 173",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 173, COSC",
+      "login_id": "cosc310student173@example.test",
+      "email": "cosc310student173@example.test"
+    }
+  },
+  {
+    "id": 3355,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1354,
+      "name": "COSC 310 Student 174",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 174, COSC",
+      "login_id": "cosc310student174@example.test",
+      "email": "cosc310student174@example.test"
+    }
+  },
+  {
+    "id": 3356,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1355,
+      "name": "COSC 310 Student 175",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 175, COSC",
+      "login_id": "cosc310student175@example.test",
+      "email": "cosc310student175@example.test"
+    }
+  },
+  {
+    "id": 3357,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1356,
+      "name": "COSC 310 Student 176",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 176, COSC",
+      "login_id": "cosc310student176@example.test",
+      "email": "cosc310student176@example.test"
+    }
+  },
+  {
+    "id": 3358,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1357,
+      "name": "COSC 310 Student 177",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 177, COSC",
+      "login_id": "cosc310student177@example.test",
+      "email": "cosc310student177@example.test"
+    }
+  },
+  {
+    "id": 3359,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1358,
+      "name": "COSC 310 Student 178",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 178, COSC",
+      "login_id": "cosc310student178@example.test",
+      "email": "cosc310student178@example.test"
+    }
+  },
+  {
+    "id": 3360,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1359,
+      "name": "COSC 310 Student 179",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 179, COSC",
+      "login_id": "cosc310student179@example.test",
+      "email": "cosc310student179@example.test"
+    }
+  },
+  {
+    "id": 3361,
+    "course_id": 2001,
+    "type": "StudentEnrollment",
+    "role": "StudentEnrollment",
+    "enrollment_state": "active",
+    "user": {
+      "id": 1360,
+      "name": "COSC 310 Student 180",
+      "short_name": "COSC",
+      "sortable_name": "310 Student 180, COSC",
+      "login_id": "cosc310student180@example.test",
+      "email": "cosc310student180@example.test"
+    }
+  }
+]

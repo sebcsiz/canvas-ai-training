@@ -1,0 +1,52 @@
+[
+  {
+    "id": 7001,
+    "course_id": 2001,
+    "title": "Agile Terminology Quiz",
+    "quiz_type": "assignment",
+    "points_possible": 8,
+    "due_at": "2026-07-28T12:00:00Z",
+    "question_count": 2,
+    "published": true,
+    "questions": [
+      {
+        "id": 8002,
+        "question_name": "Question 1",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which best describes a core concept from Agile Terminology?",
+        "points_possible": 4.0,
+        "answers": [
+          {
+            "text": "Correct answer",
+            "weight": 100
+          },
+          {
+            "text": "Distractor A",
+            "weight": 0
+          },
+          {
+            "text": "Distractor B",
+            "weight": 0
+          }
+        ]
+      },
+      {
+        "id": 8003,
+        "question_name": "Question 2",
+        "question_type": "true_false_question",
+        "question_text": "True or false: this concept applies in the context covered this week.",
+        "points_possible": 4.0,
+        "answers": [
+          {
+            "text": "True",
+            "weight": 100
+          },
+          {
+            "text": "False",
+            "weight": 0
+          }
+        ]
+      }
+    ]
+  }
+]

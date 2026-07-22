@@ -1,0 +1,2897 @@
+[
+  {
+    "id": 5000,
+    "assignment_id": 4000,
+    "user_id": 1028,
+    "submitted_at": "2026-07-20T00:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 28."
+  },
+  {
+    "id": 5001,
+    "assignment_id": 4000,
+    "user_id": 1029,
+    "submitted_at": "2026-07-19T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-1.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T20:00:00Z"
+  },
+  {
+    "id": 5002,
+    "assignment_id": 4000,
+    "user_id": 1030,
+    "submitted_at": "2026-07-18T17:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T23:00:00Z"
+  },
+  {
+    "id": 5003,
+    "assignment_id": 4000,
+    "user_id": 1031,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 31.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5004,
+    "assignment_id": 4000,
+    "user_id": 1032,
+    "submitted_at": "2026-07-18T00:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-4.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5005,
+    "assignment_id": 4000,
+    "user_id": 1033,
+    "submitted_at": "2026-07-16T23:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T05:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6000,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-17T05:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5006,
+    "assignment_id": 4000,
+    "user_id": 1034,
+    "submitted_at": "2026-07-17T20:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 34.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T02:00:00Z"
+  },
+  {
+    "id": 5007,
+    "assignment_id": 4000,
+    "user_id": 1035,
+    "submitted_at": "2026-07-16T01:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-7.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T07:00:00Z"
+  },
+  {
+    "id": 5008,
+    "assignment_id": 4000,
+    "user_id": 1036,
+    "submitted_at": "2026-07-16T23:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5009,
+    "assignment_id": 4000,
+    "user_id": 1037,
+    "submitted_at": "2026-07-16T02:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 37.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T08:00:00Z"
+  },
+  {
+    "id": 5010,
+    "assignment_id": 4000,
+    "user_id": 1038,
+    "submitted_at": "2026-07-20T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-10.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T15:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6001,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-20T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5011,
+    "assignment_id": 4000,
+    "user_id": 1039,
+    "submitted_at": "2026-07-18T21:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T03:00:00Z"
+  },
+  {
+    "id": 5012,
+    "assignment_id": 4000,
+    "user_id": 1040,
+    "submitted_at": "2026-07-19T07:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 40."
+  },
+  {
+    "id": 5013,
+    "assignment_id": 4000,
+    "user_id": 1041,
+    "submitted_at": "2026-07-15T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-13.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T20:00:00Z"
+  },
+  {
+    "id": 5014,
+    "assignment_id": 4000,
+    "user_id": 1042,
+    "submitted_at": "2026-07-16T07:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T13:00:00Z"
+  },
+  {
+    "id": 5015,
+    "assignment_id": 4000,
+    "user_id": 1043,
+    "submitted_at": "2026-07-16T07:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 43.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T13:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6002,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-16T13:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5016,
+    "assignment_id": 4000,
+    "user_id": 1044,
+    "submitted_at": "2026-07-18T01:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-16.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5017,
+    "assignment_id": 4000,
+    "user_id": 1045,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T01:00:00Z"
+  },
+  {
+    "id": 5018,
+    "assignment_id": 4000,
+    "user_id": 1046,
+    "submitted_at": "2026-07-17T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 46.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T18:00:00Z"
+  },
+  {
+    "id": 5019,
+    "assignment_id": 4000,
+    "user_id": 1047,
+    "submitted_at": "2026-07-16T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-19.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T14:00:00Z"
+  },
+  {
+    "id": 5020,
+    "assignment_id": 4000,
+    "user_id": 1048,
+    "submitted_at": "2026-07-19T13:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5021,
+    "assignment_id": 4000,
+    "user_id": 1049,
+    "submitted_at": "2026-07-20T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 49.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T18:00:00Z"
+  },
+  {
+    "id": 5022,
+    "assignment_id": 4000,
+    "user_id": 1050,
+    "submitted_at": "2026-07-19T17:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-22.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T23:00:00Z"
+  },
+  {
+    "id": 5023,
+    "assignment_id": 4000,
+    "user_id": 1051,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5024,
+    "assignment_id": 4000,
+    "user_id": 1052,
+    "submitted_at": "2026-07-15T20:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 52."
+  },
+  {
+    "id": 5025,
+    "assignment_id": 4000,
+    "user_id": 1053,
+    "submitted_at": "2026-07-15T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-25.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6003,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-16T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5026,
+    "assignment_id": 4000,
+    "user_id": 1054,
+    "submitted_at": "2026-07-17T05:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T11:00:00Z"
+  },
+  {
+    "id": 5027,
+    "assignment_id": 4000,
+    "user_id": 1055,
+    "submitted_at": "2026-07-17T16:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 55.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T22:00:00Z"
+  },
+  {
+    "id": 5028,
+    "assignment_id": 4000,
+    "user_id": 1056,
+    "submitted_at": "2026-07-16T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-28.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5029,
+    "assignment_id": 4000,
+    "user_id": 1057,
+    "submitted_at": "2026-07-17T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T07:00:00Z"
+  },
+  {
+    "id": 5030,
+    "assignment_id": 4000,
+    "user_id": 1058,
+    "submitted_at": "2026-07-19T10:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 58.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T16:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6004,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-19T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5031,
+    "assignment_id": 4000,
+    "user_id": 1059,
+    "submitted_at": "2026-07-20T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-31.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T12:00:00Z"
+  },
+  {
+    "id": 5032,
+    "assignment_id": 4000,
+    "user_id": 1060,
+    "submitted_at": "2026-07-20T06:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5033,
+    "assignment_id": 4000,
+    "user_id": 1061,
+    "submitted_at": "2026-07-16T08:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 61.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T14:00:00Z"
+  },
+  {
+    "id": 5034,
+    "assignment_id": 4000,
+    "user_id": 1062,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-34.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T01:00:00Z"
+  },
+  {
+    "id": 5035,
+    "assignment_id": 4000,
+    "user_id": 1063,
+    "submitted_at": "2026-07-18T02:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T08:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6005,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-18T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5036,
+    "assignment_id": 4000,
+    "user_id": 1064,
+    "submitted_at": "2026-07-16T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 64."
+  },
+  {
+    "id": 5037,
+    "assignment_id": 4000,
+    "user_id": 1065,
+    "submitted_at": "2026-07-16T14:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-37.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T20:00:00Z"
+  },
+  {
+    "id": 5038,
+    "assignment_id": 4000,
+    "user_id": 1066,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5039,
+    "assignment_id": 4000,
+    "user_id": 1067,
+    "submitted_at": "2026-07-16T05:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 67.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T11:00:00Z"
+  },
+  {
+    "id": 5040,
+    "assignment_id": 4000,
+    "user_id": 1068,
+    "submitted_at": "2026-07-19T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-40.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5041,
+    "assignment_id": 4000,
+    "user_id": 1069,
+    "submitted_at": "2026-07-19T04:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T10:00:00Z"
+  },
+  {
+    "id": 5042,
+    "assignment_id": 4000,
+    "user_id": 1070,
+    "submitted_at": "2026-07-19T19:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 70.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T01:00:00Z"
+  },
+  {
+    "id": 5043,
+    "assignment_id": 4000,
+    "user_id": 1071,
+    "submitted_at": "2026-07-17T23:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-43.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T05:00:00Z"
+  },
+  {
+    "id": 5044,
+    "assignment_id": 4000,
+    "user_id": 1072,
+    "submitted_at": "2026-07-18T04:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5045,
+    "assignment_id": 4000,
+    "user_id": 1073,
+    "submitted_at": "2026-07-15T19:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 73.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6006,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-16T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5046,
+    "assignment_id": 4000,
+    "user_id": 1074,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-46.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T01:00:00Z"
+  },
+  {
+    "id": 5047,
+    "assignment_id": 4000,
+    "user_id": 1075,
+    "submitted_at": "2026-07-16T06:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T12:00:00Z"
+  },
+  {
+    "id": 5048,
+    "assignment_id": 4000,
+    "user_id": 1076,
+    "submitted_at": "2026-07-16T23:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 76."
+  },
+  {
+    "id": 5049,
+    "assignment_id": 4000,
+    "user_id": 1077,
+    "submitted_at": "2026-07-16T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-49.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T15:00:00Z"
+  },
+  {
+    "id": 5050,
+    "assignment_id": 4000,
+    "user_id": 1078,
+    "submitted_at": "2026-07-19T11:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T17:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6007,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-19T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5051,
+    "assignment_id": 4000,
+    "user_id": 1079,
+    "submitted_at": "2026-07-19T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 79.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T21:00:00Z"
+  },
+  {
+    "id": 5052,
+    "assignment_id": 4000,
+    "user_id": 1080,
+    "submitted_at": "2026-07-18T23:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-52.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5053,
+    "assignment_id": 4000,
+    "user_id": 1081,
+    "submitted_at": "2026-07-16T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T07:00:00Z"
+  },
+  {
+    "id": 5054,
+    "assignment_id": 4000,
+    "user_id": 1082,
+    "submitted_at": "2026-07-16T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 82.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T04:00:00Z"
+  },
+  {
+    "id": 5055,
+    "assignment_id": 4000,
+    "user_id": 1083,
+    "submitted_at": "2026-07-16T21:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-55.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T03:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6008,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-17T03:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5056,
+    "assignment_id": 4000,
+    "user_id": 1084,
+    "submitted_at": "2026-07-18T03:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5057,
+    "assignment_id": 4000,
+    "user_id": 1085,
+    "submitted_at": "2026-07-17T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 85.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T19:00:00Z"
+  },
+  {
+    "id": 5058,
+    "assignment_id": 4000,
+    "user_id": 1086,
+    "submitted_at": "2026-07-15T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-58.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": 5059,
+    "assignment_id": 4000,
+    "user_id": 1087,
+    "submitted_at": "2026-07-16T17:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T23:00:00Z"
+  },
+  {
+    "id": 5060,
+    "assignment_id": 4000,
+    "user_id": 1088,
+    "submitted_at": "2026-07-19T20:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 88."
+  },
+  {
+    "id": 5061,
+    "assignment_id": 4000,
+    "user_id": 1089,
+    "submitted_at": "2026-07-19T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-61.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T09:00:00Z"
+  },
+  {
+    "id": 5062,
+    "assignment_id": 4000,
+    "user_id": 1090,
+    "submitted_at": "2026-07-19T16:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T22:00:00Z"
+  },
+  {
+    "id": 5063,
+    "assignment_id": 4000,
+    "user_id": 1091,
+    "submitted_at": "2026-07-17T01:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 91.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T07:00:00Z"
+  },
+  {
+    "id": 5064,
+    "assignment_id": 4000,
+    "user_id": 1092,
+    "submitted_at": "2026-07-16T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-64.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5065,
+    "assignment_id": 4000,
+    "user_id": 1093,
+    "submitted_at": "2026-07-17T12:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T18:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6009,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-17T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5066,
+    "assignment_id": 4000,
+    "user_id": 1094,
+    "submitted_at": "2026-07-17T00:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 94.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T06:00:00Z"
+  },
+  {
+    "id": 5067,
+    "assignment_id": 4000,
+    "user_id": 1095,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-67.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T01:00:00Z"
+  },
+  {
+    "id": 5068,
+    "assignment_id": 4000,
+    "user_id": 1096,
+    "submitted_at": "2026-07-16T11:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5069,
+    "assignment_id": 4000,
+    "user_id": 1097,
+    "submitted_at": "2026-07-17T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 97.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T12:00:00Z"
+  },
+  {
+    "id": 5070,
+    "assignment_id": 4000,
+    "user_id": 1098,
+    "submitted_at": "2026-07-18T18:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-70.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T00:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6010,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-19T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5071,
+    "assignment_id": 4000,
+    "user_id": 1099,
+    "submitted_at": "2026-07-20T01:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T07:00:00Z"
+  },
+  {
+    "id": 5072,
+    "assignment_id": 4000,
+    "user_id": 1100,
+    "submitted_at": "2026-07-19T21:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 100."
+  },
+  {
+    "id": 5073,
+    "assignment_id": 4000,
+    "user_id": 1101,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-73.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5074,
+    "assignment_id": 4000,
+    "user_id": 1102,
+    "submitted_at": "2026-07-15T12:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T18:00:00Z"
+  },
+  {
+    "id": 5075,
+    "assignment_id": 4000,
+    "user_id": 1103,
+    "submitted_at": "2026-07-17T17:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 103.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T23:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6011,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-17T23:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5076,
+    "assignment_id": 4000,
+    "user_id": 1104,
+    "submitted_at": "2026-07-17T21:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-76.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5077,
+    "assignment_id": 4000,
+    "user_id": 1105,
+    "submitted_at": "2026-07-16T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T07:00:00Z"
+  },
+  {
+    "id": 5078,
+    "assignment_id": 4000,
+    "user_id": 1106,
+    "submitted_at": "2026-07-16T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 106.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T21:00:00Z"
+  },
+  {
+    "id": 5079,
+    "assignment_id": 4000,
+    "user_id": 1107,
+    "submitted_at": "2026-07-17T22:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-79.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T04:00:00Z"
+  },
+  {
+    "id": 5080,
+    "assignment_id": 4000,
+    "user_id": 1108,
+    "submitted_at": "2026-07-18T18:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5081,
+    "assignment_id": 4000,
+    "user_id": 1109,
+    "submitted_at": "2026-07-20T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 109.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T12:00:00Z"
+  },
+  {
+    "id": 5082,
+    "assignment_id": 4000,
+    "user_id": 1110,
+    "submitted_at": "2026-07-19T23:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-82.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T05:00:00Z"
+  },
+  {
+    "id": 5083,
+    "assignment_id": 4000,
+    "user_id": 1111,
+    "submitted_at": "2026-07-17T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T07:00:00Z"
+  },
+  {
+    "id": 5084,
+    "assignment_id": 4000,
+    "user_id": 1112,
+    "submitted_at": "2026-07-16T19:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 112."
+  },
+  {
+    "id": 5085,
+    "assignment_id": 4000,
+    "user_id": 1113,
+    "submitted_at": "2026-07-16T07:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-85.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T13:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6012,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-16T13:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5086,
+    "assignment_id": 4000,
+    "user_id": 1114,
+    "submitted_at": "2026-07-17T07:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T13:00:00Z"
+  },
+  {
+    "id": 5087,
+    "assignment_id": 4000,
+    "user_id": 1115,
+    "submitted_at": "2026-07-17T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 115.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T04:00:00Z"
+  },
+  {
+    "id": 5088,
+    "assignment_id": 4000,
+    "user_id": 1116,
+    "submitted_at": "2026-07-16T00:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-88.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5089,
+    "assignment_id": 4000,
+    "user_id": 1117,
+    "submitted_at": "2026-07-16T01:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T07:00:00Z"
+  },
+  {
+    "id": 5090,
+    "assignment_id": 4000,
+    "user_id": 1118,
+    "submitted_at": "2026-07-20T08:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 118.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T14:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6013,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-20T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5091,
+    "assignment_id": 4000,
+    "user_id": 1119,
+    "submitted_at": "2026-07-20T10:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-91.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T16:00:00Z"
+  },
+  {
+    "id": 5092,
+    "assignment_id": 4000,
+    "user_id": 1120,
+    "submitted_at": "2026-07-18T16:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5093,
+    "assignment_id": 4000,
+    "user_id": 1121,
+    "submitted_at": "2026-07-17T10:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 121.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T16:00:00Z"
+  },
+  {
+    "id": 5094,
+    "assignment_id": 4000,
+    "user_id": 1122,
+    "submitted_at": "2026-07-15T20:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-94.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T02:00:00Z"
+  },
+  {
+    "id": 5095,
+    "assignment_id": 4000,
+    "user_id": 1123,
+    "submitted_at": "2026-07-15T19:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T01:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6014,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-16T01:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5096,
+    "assignment_id": 4000,
+    "user_id": 1124,
+    "submitted_at": "2026-07-18T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 124."
+  },
+  {
+    "id": 5097,
+    "assignment_id": 4000,
+    "user_id": 1125,
+    "submitted_at": "2026-07-17T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-97.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T14:00:00Z"
+  },
+  {
+    "id": 5098,
+    "assignment_id": 4000,
+    "user_id": 1126,
+    "submitted_at": "2026-07-16T22:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T04:00:00Z"
+  },
+  {
+    "id": 5099,
+    "assignment_id": 4000,
+    "user_id": 1127,
+    "submitted_at": "2026-07-16T04:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 127.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T10:00:00Z"
+  },
+  {
+    "id": 5100,
+    "assignment_id": 4000,
+    "user_id": 1128,
+    "submitted_at": "2026-07-19T07:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-100.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5101,
+    "assignment_id": 4000,
+    "user_id": 1129,
+    "submitted_at": "2026-07-18T17:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T23:00:00Z"
+  },
+  {
+    "id": 5102,
+    "assignment_id": 4000,
+    "user_id": 1130,
+    "submitted_at": "2026-07-20T12:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 130.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T18:00:00Z"
+  },
+  {
+    "id": 5103,
+    "assignment_id": 4000,
+    "user_id": 1131,
+    "submitted_at": "2026-07-15T16:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-103.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T22:00:00Z"
+  },
+  {
+    "id": 5104,
+    "assignment_id": 4000,
+    "user_id": 1132,
+    "submitted_at": "2026-07-17T22:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5105,
+    "assignment_id": 4000,
+    "user_id": 1133,
+    "submitted_at": "2026-07-15T17:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 133.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T23:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6015,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-15T23:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5106,
+    "assignment_id": 4000,
+    "user_id": 1134,
+    "submitted_at": "2026-07-15T16:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-106.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T22:00:00Z"
+  },
+  {
+    "id": 5107,
+    "assignment_id": 4000,
+    "user_id": 1135,
+    "submitted_at": "2026-07-17T22:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T04:00:00Z"
+  },
+  {
+    "id": 5108,
+    "assignment_id": 4000,
+    "user_id": 1136,
+    "submitted_at": "2026-07-17T07:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 136."
+  },
+  {
+    "id": 5109,
+    "assignment_id": 4000,
+    "user_id": 1137,
+    "submitted_at": "2026-07-16T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-109.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T17:00:00Z"
+  },
+  {
+    "id": 5110,
+    "assignment_id": 4000,
+    "user_id": 1138,
+    "submitted_at": "2026-07-19T06:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T12:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6016,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5111,
+    "assignment_id": 4000,
+    "user_id": 1139,
+    "submitted_at": "2026-07-19T03:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 139.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T09:00:00Z"
+  },
+  {
+    "id": 5112,
+    "assignment_id": 4000,
+    "user_id": 1140,
+    "submitted_at": "2026-07-19T07:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-112.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5113,
+    "assignment_id": 4000,
+    "user_id": 1141,
+    "submitted_at": "2026-07-17T14:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T20:00:00Z"
+  },
+  {
+    "id": 5114,
+    "assignment_id": 4000,
+    "user_id": 1142,
+    "submitted_at": "2026-07-16T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 142.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T12:00:00Z"
+  },
+  {
+    "id": 5115,
+    "assignment_id": 4000,
+    "user_id": 1143,
+    "submitted_at": "2026-07-16T11:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-115.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T17:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6017,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Solid start \u2014 tighten up the conclusion next time.",
+        "created_at": "2026-07-16T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5116,
+    "assignment_id": 4000,
+    "user_id": 1144,
+    "submitted_at": "2026-07-17T11:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5117,
+    "assignment_id": 4000,
+    "user_id": 1145,
+    "submitted_at": "2026-07-17T10:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 145.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T16:00:00Z"
+  },
+  {
+    "id": 5118,
+    "assignment_id": 4000,
+    "user_id": 1146,
+    "submitted_at": "2026-07-17T09:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-118.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T15:00:00Z"
+  },
+  {
+    "id": 5119,
+    "assignment_id": 4000,
+    "user_id": 1147,
+    "submitted_at": "2026-07-17T23:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T05:00:00Z"
+  },
+  {
+    "id": 5120,
+    "assignment_id": 4000,
+    "user_id": 1148,
+    "submitted_at": "2026-07-20T04:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 148."
+  },
+  {
+    "id": 5121,
+    "assignment_id": 4000,
+    "user_id": 1149,
+    "submitted_at": "2026-07-20T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-121.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-20T14:00:00Z"
+  },
+  {
+    "id": 5122,
+    "assignment_id": 4000,
+    "user_id": 1150,
+    "submitted_at": "2026-07-19T07:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T13:00:00Z"
+  },
+  {
+    "id": 5123,
+    "assignment_id": 4000,
+    "user_id": 1151,
+    "submitted_at": "2026-07-17T21:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 151.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T03:00:00Z"
+  },
+  {
+    "id": 5124,
+    "assignment_id": 4000,
+    "user_id": 1152,
+    "submitted_at": "2026-07-17T00:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-124.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5125,
+    "assignment_id": 4000,
+    "user_id": 1153,
+    "submitted_at": "2026-07-15T20:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T02:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6018,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-16T02:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5126,
+    "assignment_id": 4000,
+    "user_id": 1154,
+    "submitted_at": "2026-07-16T20:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 154.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T02:00:00Z"
+  },
+  {
+    "id": 5127,
+    "assignment_id": 4000,
+    "user_id": 1155,
+    "submitted_at": "2026-07-16T08:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-127.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T14:00:00Z"
+  },
+  {
+    "id": 5128,
+    "assignment_id": 4000,
+    "user_id": 1156,
+    "submitted_at": "2026-07-16T00:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5129,
+    "assignment_id": 4000,
+    "user_id": 1157,
+    "submitted_at": "2026-07-15T20:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 157.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T02:00:00Z"
+  },
+  {
+    "id": 5130,
+    "assignment_id": 4000,
+    "user_id": 1158,
+    "submitted_at": "2026-07-18T21:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-130.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T03:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6019,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-19T03:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5131,
+    "assignment_id": 4000,
+    "user_id": 1159,
+    "submitted_at": "2026-07-18T23:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T05:00:00Z"
+  },
+  {
+    "id": 5132,
+    "assignment_id": 4000,
+    "user_id": 1160,
+    "submitted_at": "2026-07-19T08:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 160."
+  },
+  {
+    "id": 5133,
+    "assignment_id": 4000,
+    "user_id": 1161,
+    "submitted_at": "2026-07-16T03:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-133.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T09:00:00Z"
+  },
+  {
+    "id": 5134,
+    "assignment_id": 4000,
+    "user_id": 1162,
+    "submitted_at": "2026-07-17T19:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T01:00:00Z"
+  },
+  {
+    "id": 5135,
+    "assignment_id": 4000,
+    "user_id": 1163,
+    "submitted_at": "2026-07-15T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 163.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T04:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6020,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Nice work, this meets the requirements well.",
+        "created_at": "2026-07-16T04:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5136,
+    "assignment_id": 4000,
+    "user_id": 1164,
+    "submitted_at": "2026-07-16T21:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-136.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5137,
+    "assignment_id": 4000,
+    "user_id": 1165,
+    "submitted_at": "2026-07-17T00:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T06:00:00Z"
+  },
+  {
+    "id": 5138,
+    "assignment_id": 4000,
+    "user_id": 1166,
+    "submitted_at": "2026-07-16T22:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 166.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-17T04:00:00Z"
+  },
+  {
+    "id": 5139,
+    "assignment_id": 4000,
+    "user_id": 1167,
+    "submitted_at": "2026-07-16T12:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-139.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T18:00:00Z"
+  },
+  {
+    "id": 5140,
+    "assignment_id": 4000,
+    "user_id": 1168,
+    "submitted_at": "2026-07-20T09:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5141,
+    "assignment_id": 4000,
+    "user_id": 1169,
+    "submitted_at": "2026-07-18T15:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 169.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T21:00:00Z"
+  },
+  {
+    "id": 5142,
+    "assignment_id": 4000,
+    "user_id": 1170,
+    "submitted_at": "2026-07-19T06:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-142.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T12:00:00Z"
+  },
+  {
+    "id": 5143,
+    "assignment_id": 4000,
+    "user_id": 1171,
+    "submitted_at": "2026-07-15T21:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T03:00:00Z"
+  },
+  {
+    "id": 5144,
+    "assignment_id": 4000,
+    "user_id": 1172,
+    "submitted_at": "2026-07-16T05:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "body": "Sample submission from COSC 499 Student 172."
+  },
+  {
+    "id": 5145,
+    "assignment_id": 4000,
+    "user_id": 1173,
+    "submitted_at": "2026-07-18T04:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-145.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-18T10:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6021,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Good effort, but a few sections need more detail.",
+        "created_at": "2026-07-18T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5146,
+    "assignment_id": 4000,
+    "user_id": 1174,
+    "submitted_at": "2026-07-16T11:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T17:00:00Z"
+  },
+  {
+    "id": 5147,
+    "assignment_id": 4000,
+    "user_id": 1175,
+    "submitted_at": "2026-07-15T13:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 175.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-15T19:00:00Z"
+  },
+  {
+    "id": 5148,
+    "assignment_id": 4000,
+    "user_id": 1176,
+    "submitted_at": "2026-07-16T02:00:00Z",
+    "submission_type": "online_upload",
+    "late": false,
+    "missing": false,
+    "workflow_state": "submitted",
+    "attachments": [
+      {
+        "filename": "submission-148.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ]
+  },
+  {
+    "id": 5149,
+    "assignment_id": 4000,
+    "user_id": 1177,
+    "submitted_at": "2026-07-16T00:00:00Z",
+    "submission_type": "online_url",
+    "late": false,
+    "missing": false,
+    "workflow_state": "graded",
+    "url": "https://example.com/cosc-project",
+    "score": 3,
+    "grade": "3",
+    "grader_id": 1000,
+    "graded_at": "2026-07-16T06:00:00Z"
+  },
+  {
+    "id": 5150,
+    "assignment_id": 4000,
+    "user_id": 1178,
+    "submitted_at": "2026-07-19T06:00:00Z",
+    "submission_type": "online_text_entry",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "body": "Sample submission from COSC 499 Student 178.",
+    "score": 5,
+    "grade": "5",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T12:00:00Z",
+    "submission_comments": [
+      {
+        "id": 6022,
+        "author_id": 1000,
+        "author_name": "Taylor Teacher",
+        "comment": "Well organized. See inline notes for minor fixes.",
+        "created_at": "2026-07-19T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5151,
+    "assignment_id": 4000,
+    "user_id": 1179,
+    "submitted_at": "2026-07-18T23:00:00Z",
+    "submission_type": "online_upload",
+    "late": true,
+    "missing": false,
+    "workflow_state": "graded",
+    "attachments": [
+      {
+        "filename": "submission-151.txt",
+        "display_name": "cosc-submission.txt",
+        "content_type": "text/plain"
+      }
+    ],
+    "score": 4,
+    "grade": "4",
+    "grader_id": 1000,
+    "graded_at": "2026-07-19T05:00:00Z"
+  },
+  {
+    "id": 5152,
+    "assignment_id": 4000,
+    "user_id": 1180,
+    "submitted_at": "2026-07-19T07:00:00Z",
+    "submission_type": "online_url",
+    "late": true,
+    "missing": false,
+    "workflow_state": "submitted",
+    "url": "https://example.com/cosc-project"
+  },
+  {
+    "id": 5153,
+    "assignment_id": 4000,
+    "user_id": 1001,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5154,
+    "assignment_id": 4000,
+    "user_id": 1002,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5155,
+    "assignment_id": 4000,
+    "user_id": 1003,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5156,
+    "assignment_id": 4000,
+    "user_id": 1004,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5157,
+    "assignment_id": 4000,
+    "user_id": 1005,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5158,
+    "assignment_id": 4000,
+    "user_id": 1006,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5159,
+    "assignment_id": 4000,
+    "user_id": 1007,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5160,
+    "assignment_id": 4000,
+    "user_id": 1008,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5161,
+    "assignment_id": 4000,
+    "user_id": 1009,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5162,
+    "assignment_id": 4000,
+    "user_id": 1010,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5163,
+    "assignment_id": 4000,
+    "user_id": 1011,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5164,
+    "assignment_id": 4000,
+    "user_id": 1012,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5165,
+    "assignment_id": 4000,
+    "user_id": 1013,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5166,
+    "assignment_id": 4000,
+    "user_id": 1014,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5167,
+    "assignment_id": 4000,
+    "user_id": 1015,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5168,
+    "assignment_id": 4000,
+    "user_id": 1016,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5169,
+    "assignment_id": 4000,
+    "user_id": 1017,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5170,
+    "assignment_id": 4000,
+    "user_id": 1018,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5171,
+    "assignment_id": 4000,
+    "user_id": 1019,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5172,
+    "assignment_id": 4000,
+    "user_id": 1020,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5173,
+    "assignment_id": 4000,
+    "user_id": 1021,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5174,
+    "assignment_id": 4000,
+    "user_id": 1022,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5175,
+    "assignment_id": 4000,
+    "user_id": 1023,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5176,
+    "assignment_id": 4000,
+    "user_id": 1024,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5177,
+    "assignment_id": 4000,
+    "user_id": 1025,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5178,
+    "assignment_id": 4000,
+    "user_id": 1026,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  },
+  {
+    "id": 5179,
+    "assignment_id": 4000,
+    "user_id": 1027,
+    "submitted_at": null,
+    "workflow_state": "unsubmitted",
+    "late": false,
+    "missing": true
+  }
+]

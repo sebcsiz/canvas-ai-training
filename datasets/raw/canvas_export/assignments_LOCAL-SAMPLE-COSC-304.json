@@ -1,0 +1,70 @@
+[
+  {
+    "id": 4009,
+    "course_id": 2004,
+    "name": "ER Diagram",
+    "description": "<p>ER Diagram \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-07-18T12:00:00Z",
+    "points_possible": 10,
+    "submission_types": [
+      "online_text_entry",
+      "online_upload",
+      "online_url"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2004/assignments/er-diagram",
+    "rubric": [
+      {
+        "id": "4009_criterion_1",
+        "description": "Content quality",
+        "points": 6.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 6.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 3.5
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "id": "4009_criterion_2",
+        "description": "Clarity and organization",
+        "points": 4.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 4.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 2.0
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4010,
+    "course_id": 2004,
+    "name": "SQL Query Set",
+    "description": "<p>SQL Query Set \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-08-04T12:00:00Z",
+    "points_possible": 20,
+    "submission_types": [
+      "online_text_entry"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2004/assignments/sql-query-set"
+  }
+]

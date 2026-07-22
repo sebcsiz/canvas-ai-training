@@ -1,0 +1,70 @@
+[
+  {
+    "id": 4005,
+    "course_id": 2002,
+    "name": "Rhetorical Analysis Essay",
+    "description": "<p>Rhetorical Analysis Essay \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-07-16T12:00:00Z",
+    "points_possible": 20,
+    "submission_types": [
+      "online_text_entry",
+      "online_upload",
+      "online_url"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2002/assignments/rhetorical-analysis-essay",
+    "rubric": [
+      {
+        "id": "4005_criterion_1",
+        "description": "Content quality",
+        "points": 12.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 12.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 7.0
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      },
+      {
+        "id": "4005_criterion_2",
+        "description": "Clarity and organization",
+        "points": 8.0,
+        "ratings": [
+          {
+            "description": "Excellent",
+            "points": 8.0
+          },
+          {
+            "description": "Satisfactory",
+            "points": 4.0
+          },
+          {
+            "description": "Needs work",
+            "points": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4006,
+    "course_id": 2002,
+    "name": "Argumentative Essay",
+    "description": "<p>Argumentative Essay \u2014 see course syllabus for full instructions.</p>",
+    "due_at": "2026-08-06T12:00:00Z",
+    "points_possible": 25,
+    "submission_types": [
+      "online_text_entry"
+    ],
+    "workflow_state": "published",
+    "html_url": "https://canvas.local/courses/2002/assignments/argumentative-essay"
+  }
+]
