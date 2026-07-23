@@ -40,7 +40,7 @@ class Retriever:
 
     @classmethod
     def from_config(cls, config_path: Path = Path("configs/retrieval.yaml"), top_k: int | None = None) -> "Retriever":
-        config = yaml.safe_load(config_path.read_text())
+        config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
         store = VectorStore.load(Path(config["index"]["path"]), Path(config["index"]["metadata_path"]))
         model = SentenceTransformer(config["embedding_model"], device=config["device"])
         if top_k is not None:

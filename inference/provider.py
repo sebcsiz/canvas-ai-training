@@ -75,7 +75,7 @@ class LocalQwenProvider:
 
     @classmethod
     def from_config(cls, serving_config_path: Path = Path("configs/serving.yaml")) -> "LocalQwenProvider":
-        serving_config = yaml.safe_load(serving_config_path.read_text())["server"]
+        serving_config = yaml.safe_load(serving_config_path.read_text(encoding="utf-8"))["server"]
         system_prompt = Path("prompts/system.txt").read_text(encoding="utf-8").strip()
         base_url = f"http://{serving_config['host']}:{serving_config['port']}"
         return cls(base_url, serving_config["chat_completions_path"], system_prompt)

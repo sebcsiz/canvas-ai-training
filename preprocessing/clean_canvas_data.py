@@ -75,7 +75,7 @@ def redact_node(node: object, registry: PlaceholderRegistry, *, in_student_recor
 
 def clean_file(input_path: Path, output_path: Path) -> None:
     registry = PlaceholderRegistry()
-    data = json.loads(input_path.read_text())
+    data = json.loads(input_path.read_text(encoding="utf-8"))
     cleaned = redact_node(data, registry, in_student_record=False)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(json.dumps(cleaned, indent=2))

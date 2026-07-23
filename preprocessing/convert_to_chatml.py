@@ -64,18 +64,26 @@ def main() -> None:
                 skipped += 1
                 continue
 
-            user_turn = build_user_turn(
-                instructor_request=example["instructor_request"],
-                today_date=example["today_date"],
-                course_timezone=example.get("course_timezone"),
-                course_name=example.get("course_name"),
-                course_code=example.get("course_code"),
-                available_assignments=example.get("available_assignments"),
-                recent_messages=example.get("recent_messages"),
-                difficulty=example.get("difficulty"),
-                quiz_requirements=example.get("quiz_requirements"),
-            )
-            assistant_turn = json.dumps(example["ideal_response"], separators=(",", ":"))
+            # A single example with an unexpectedly-shaped field (the teacher
+            # model doesn't always follow the requested schema to the letter)
+            # shouldn't take down the whole conversion — skip and keep going.
+            try:
+                user_turn = build_user_turn(
+                    instructor_request=example["instructor_request"],
+                    today_date=example["today_date"],
+                    course_timezone=example.get("course_timezone"),
+                    course_name=example.get("course_name"),
+                    course_code=example.get("course_code"),
+                    available_assignments=example.get("available_assignments"),
+                    recent_messages=example.get("recent_messages"),
+                    difficulty=example.get("difficulty"),
+                    quiz_requirements=example.get("quiz_requirements"),
+                )
+                assistant_turn = json.dumps(example["ideal_response"], separators=(",", ":"))
+            except (TypeError, KeyError, AttributeError) as exc:
+                logger.warning("skipping example (workflow_id=%s): %s", example.get("workflow_id"), exc)
+                skipped += 1
+                continue
 
             record = {
                 "workflow_id": example["workflow_id"],

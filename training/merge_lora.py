@@ -24,7 +24,7 @@ def main() -> None:
     parser.add_argument("--config", type=Path, default=Path("configs/serving.yaml"))
     args = parser.parse_args()
 
-    config = yaml.safe_load(args.config.read_text())["merge"]
+    config = yaml.safe_load(args.config.read_text(encoding="utf-8"))["merge"]
 
     print(f"loading base model {config['base_model']}")
     base_model = AutoModelForCausalLM.from_pretrained(

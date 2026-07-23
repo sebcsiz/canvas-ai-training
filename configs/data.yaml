@@ -1,10 +1,12 @@
 # Dataset generation / split configuration for preprocessing/*.py.
 
-# The real IntentAction enum from the main app's app/mcp-server/src/schemas/intent.py
-# (18 values, including "unsupported"). generate_synthetic_data.py seeds one
-# generation pass per action so the training set stays balanced across all of
-# them. Matches prompts/system.txt's "Supported actions" list exactly — keep
-# these two in sync if the main app's enum changes.
+# The IntentAction set from the main app's app/mcp-server/src/schemas/intent.py,
+# plus post_announcement (confirmed via a real app/backend/action_history
+# export as a real action type not yet reflected in the intent.py this repo
+# was shown) — 19 values total, including "unsupported". generate_synthetic_data.py
+# seeds one generation pass per action so the training set stays balanced
+# across all of them. Matches prompts/system.txt's "Supported actions" list
+# exactly — keep these two in sync if the main app's enum changes.
 workflows:
   - id: list_courses
     description: Listing the instructor's courses.
@@ -28,6 +30,8 @@ workflows:
     description: Publishing (making visible) one named assignment.
   - id: unpublish_assignment
     description: Unpublishing (hiding) one named assignment.
+  - id: post_announcement
+    description: Posting a course-wide announcement.
   - id: draft_message
     description: Drafting a new message to a student or a status-defined group.
   - id: draft_feedback
@@ -41,7 +45,7 @@ workflows:
   - id: modify_grade
     description: Modifying a grade for a student or a status-defined group.
   - id: unsupported
-    description: Out-of-scope requests -- autonomous/scheduled execution, bulk or unrestricted deletion, institution-wide admin actions, raw Canvas API access, or anything outside the 17 supported actions above.
+    description: Out-of-scope requests -- autonomous/scheduled execution, bulk or unrestricted deletion, institution-wide admin actions, raw Canvas API access, or anything outside the 18 supported actions above.
 
 synthetic_generation:
   examples_per_workflow: 100

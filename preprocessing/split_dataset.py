@@ -67,7 +67,7 @@ def main() -> None:
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
 
-    config = yaml.safe_load(args.config.read_text())["split"]
+    config = yaml.safe_load(args.config.read_text(encoding="utf-8"))["split"]
 
     examples = load_examples(Path(config["input_path"]))
     if not examples:

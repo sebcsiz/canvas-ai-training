@@ -34,7 +34,7 @@ def main() -> None:
     parser.add_argument("--config", type=Path, default=Path("configs/serving.yaml"))
     args = parser.parse_args()
 
-    config = yaml.safe_load(args.config.read_text())
+    config = yaml.safe_load(args.config.read_text(encoding="utf-8"))
     merge_config = config["merge"]
     export_config = config["export"]
 

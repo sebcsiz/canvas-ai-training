@@ -114,7 +114,7 @@ def main() -> None:
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
 
-    config = yaml.safe_load(args.config.read_text())
+    config = yaml.safe_load(args.config.read_text(encoding="utf-8"))
     gen_config = config["synthetic_generation"]
     _, teacher_prompt = load_prompts()
 

@@ -14,6 +14,27 @@ inference/provider.py calls this with a live "today" instead.
 from __future__ import annotations
 
 
+def _as_text(item: object) -> str:
+    """Coerce one list entry (assignment name / message preview) to a plain
+    string. The teacher model is instructed to produce plain strings for
+    available_assignments/recent_messages, but doesn't always comply for
+    recent_messages (occasionally returns {"sender": ..., "text": ...}-style
+    objects instead) — normalize rather than crash the whole conversion over
+    one non-conformant field in an otherwise-good example."""
+    if isinstance(item, str):
+        return item
+    if isinstance(item, dict):
+        for key in ("text", "preview", "message", "body", "content"):
+            value = item.get(key)
+            if isinstance(value, str):
+                sender = item.get("sender") or item.get("from") or item.get("student_name")
+                return f"{sender}: {value}" if sender else value
+        import json
+
+        return json.dumps(item)
+    return str(item)
+
+
 def build_user_turn(
     instructor_request: str,
     today_date: str,
@@ -35,10 +56,10 @@ def build_user_turn(
         parts.append(f"Course: {label}")
 
     if available_assignments:
-        parts.append(f"Available assignments: {', '.join(available_assignments)}")
+        parts.append(f"Available assignments: {', '.join(_as_text(a) for a in available_assignments)}")
 
     if recent_messages:
-        parts.append(f"Recent messages: {'; '.join(recent_messages)}")
+        parts.append(f"Recent messages: {'; '.join(_as_text(m) for m in recent_messages)}")
 
     if difficulty:
         parts.append(f"Difficulty: {difficulty}")
